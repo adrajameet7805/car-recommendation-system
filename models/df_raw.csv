@@ -1,0 +1,1501 @@
+brand,model,year,price,mileage,fuel_type,transmission,engine_size,car_type,seats,rating,city,source
+Mercedes,C-Class,2012,186048,157196,Petrol,Manual,1.0,Sedan,4,4.4,Bhavnagar,gujarat
+Hyundai,Verna,2018,1098246,32082,Petrol,Manual,1.5,Sedan,5,4.4,Jamnagar,gujarat
+Renault,Kiger,2015,369236,103878,Petrol,Automatic,1.0,Sedan,5,4.4,Vadodara,gujarat
+Honda,City,2015,997251,89118,Petrol,Manual,1.5,Sedan,5,4.6,Jamnagar,gujarat
+Ford,Figo,2013,201328,104615,Diesel,Automatic,1.5,Sedan,5,4.8,Vadodara,gujarat
+BMW,3 Series,2023,894006,6139,Diesel,Automatic,1.0,Sedan,4,4.7,Gandhinagar,gujarat
+Hyundai,Grand i10,2016,434320,99429,Diesel,Manual,1.2,Sedan,5,3.4,Vadodara,gujarat
+Mercedes,C-Class,2021,750431,35806,Diesel,Manual,1.2,Sedan,4,3.8,Jamnagar,gujarat
+Renault,Kwid,2022,460043,20626,Diesel,Automatic,1.0,Hatchback,4,3.1,Bhavnagar,gujarat
+Toyota,Fortuner,2022,4348158,26358,Diesel,Manual,2.8,SUV,7,4.5,Rajkot,gujarat
+BMW,3 Series,2017,491131,63746,Diesel,Manual,1.0,Sedan,4,4.7,Surat,gujarat
+Mercedes,C-Class,2024,1014172,6916,Petrol,Manual,2.0,Sedan,4,3.5,Bhavnagar,gujarat
+Maruti Suzuki,Brezza,2023,975353,6876,Diesel,Automatic,1.5,Sedan,5,3.7,Vadodara,gujarat
+Kia,Sonet,2019,1044646,25212,Diesel,Manual,1.0,Sedan,5,4.7,Vadodara,gujarat
+Mercedes,C-Class,2014,351943,99009,Petrol,Automatic,1.5,Sedan,4,4.8,Bhavnagar,gujarat
+Toyota,Urban Cruiser,2021,1110576,18665,Diesel,Automatic,1.5,Sedan,5,3.1,Bhavnagar,gujarat
+Hyundai,i20,2023,1198774,12962,Diesel,Manual,1.2,Hatchback,5,3.5,Gandhinagar,gujarat
+BMW,3 Series,2015,367994,115686,Diesel,Manual,1.2,Sedan,4,3.8,Jamnagar,gujarat
+Mercedes,C-Class,2019,641177,58919,Petrol,Manual,1.2,Sedan,4,3.0,Bhavnagar,gujarat
+Mahindra,XUV300,2015,717305,45942,Diesel,Manual,1.0,Sedan,5,4.8,Gandhinagar,gujarat
+Toyota,Innova Crysta,2020,2501474,35597,Diesel,Manual,2.4,MPV,7,3.5,Rajkot,gujarat
+Kia,Sonet,2013,651374,67704,Petrol,Manual,1.0,Sedan,5,4.3,Jamnagar,gujarat
+Hyundai,i20,2018,1219741,77724,Diesel,Manual,1.2,Hatchback,5,3.3,Surat,gujarat
+Honda,Amaze,2015,1038528,54880,Petrol,Manual,1.2,Sedan,5,4.9,Gandhinagar,gujarat
+Mahindra,Thar,2023,1524130,12956,Diesel,Automatic,2.0,SUV,5,5.0,Vadodara,gujarat
+Ford,Endeavour,2018,2594748,75651,Diesel,Manual,2.0,SUV,5,3.4,Surat,gujarat
+Maruti Suzuki,Dzire,2023,814419,13883,Petrol,Manual,1.2,Sedan,5,3.1,Bhavnagar,gujarat
+Hyundai,Creta,2016,1708011,117992,Diesel,Manual,1.5,SUV,5,4.2,Rajkot,gujarat
+Mercedes,C-Class,2016,503782,66772,Diesel,Manual,1.2,Sedan,4,3.3,Jamnagar,gujarat
+Honda,Amaze,2017,990273,44508,Diesel,Manual,1.2,Sedan,5,4.1,Bhavnagar,gujarat
+Honda,City,2017,1287477,44016,Petrol,Manual,1.5,Sedan,5,4.2,Gandhinagar,gujarat
+Mercedes,C-Class,2022,833240,28173,CNG,Manual,1.0,Sedan,4,3.5,Ahmedabad,gujarat
+Renault,Kwid,2016,455215,76930,Diesel,Manual,1.0,Hatchback,4,4.0,Vadodara,gujarat
+Maruti Suzuki,Swift,2022,623114,23879,Petrol,Automatic,1.2,Hatchback,5,3.3,Rajkot,gujarat
+Renault,Triber,2018,517267,66759,Petrol,Automatic,1.5,MPV,7,4.8,Bhavnagar,gujarat
+Maruti Suzuki,Ertiga,2017,547333,54410,Petrol,Manual,1.0,MPV,7,4.8,Surat,gujarat
+Mercedes,C-Class,2022,869357,13368,Diesel,Automatic,1.2,Sedan,4,4.9,Jamnagar,gujarat
+Tata,Harrier,2020,1425990,31603,Diesel,Automatic,2.0,Sedan,5,3.5,Gandhinagar,gujarat
+Hyundai,Grand i10,2012,211694,172537,Petrol,Automatic,1.2,Sedan,5,3.7,Gandhinagar,gujarat
+Mahindra,Thar,2020,1644207,32656,Petrol,Manual,2.2,SUV,5,4.4,Gandhinagar,gujarat
+Renault,Kiger,2012,234237,75118,Petrol,Automatic,1.2,Sedan,5,3.1,Bhavnagar,gujarat
+Kia,Carens,2024,1297199,5139,Diesel,Manual,2.0,MPV,7,3.4,Ahmedabad,gujarat
+Kia,Seltos,2023,1262027,13821,Diesel,Automatic,1.5,Sedan,5,3.9,Jamnagar,gujarat
+Toyota,Camry,2017,891339,51334,Hybrid,Manual,2.5,Sedan,5,3.7,Jamnagar,gujarat
+Honda,Elevate,2023,939108,8143,Diesel,Manual,1.5,Sedan,5,4.8,Bhavnagar,gujarat
+BMW,3 Series,2018,518053,65909,Petrol,Manual,1.5,Sedan,4,4.2,Vadodara,gujarat
+Ford,Endeavour,2019,2589010,69277,Diesel,Automatic,2.0,SUV,5,3.6,Jamnagar,gujarat
+Mercedes,C-Class,2013,248453,162272,Petrol,Manual,1.0,Sedan,4,3.3,Ahmedabad,gujarat
+Mahindra,Bolero,2021,1023545,42844,Petrol,Automatic,1.5,Sedan,5,4.4,Rajkot,gujarat
+Ford,Endeavour,2015,2456990,64342,Diesel,Automatic,2.0,SUV,5,3.4,Jamnagar,gujarat
+Renault,Kiger,2012,182662,133060,CNG,Manual,1.0,Sedan,5,4.6,Jamnagar,gujarat
+Renault,Triber,2021,847992,25397,Diesel,Manual,1.5,MPV,7,4.8,Rajkot,gujarat
+Renault,Kiger,2014,217216,147472,Petrol,Automatic,1.5,Sedan,5,3.6,Gandhinagar,gujarat
+Renault,Kiger,2022,849992,17839,Petrol,Automatic,1.0,Sedan,5,3.5,Vadodara,gujarat
+Renault,Kwid,2014,500410,69769,Diesel,Automatic,1.0,Hatchback,4,3.8,Bhavnagar,gujarat
+Ford,Endeavour,2012,2231069,87110,Diesel,Automatic,2.0,SUV,5,4.0,Vadodara,gujarat
+Honda,Amaze,2018,1036330,65272,Diesel,Automatic,1.5,Sedan,5,3.9,Ahmedabad,gujarat
+Kia,Carens,2024,1331919,6624,Petrol,Manual,2.0,MPV,7,4.1,Rajkot,gujarat
+BMW,3 Series,2013,206179,139246,Petrol,Manual,1.0,Sedan,4,3.5,Vadodara,gujarat
+Mahindra,Bolero,2017,841775,79236,Diesel,Manual,1.2,Sedan,5,3.5,Ahmedabad,gujarat
+Ford,EcoSport,2023,878826,13837,CNG,Manual,1.5,Sedan,5,3.1,Jamnagar,gujarat
+Maruti Suzuki,Ertiga,2012,191130,92411,Diesel,Manual,1.0,MPV,7,3.3,Jamnagar,gujarat
+Hyundai,Verna,2015,1268690,105952,Diesel,Manual,1.5,Sedan,5,4.6,Surat,gujarat
+Honda,City,2021,1293537,15841,Petrol,Automatic,1.5,Sedan,5,3.2,Gandhinagar,gujarat
+Honda,Elevate,2023,876383,14272,Petrol,Manual,1.2,Sedan,5,3.1,Jamnagar,gujarat
+Toyota,Innova Crysta,2018,1910665,83892,Diesel,Manual,2.4,MPV,7,3.9,Jamnagar,gujarat
+Renault,Triber,2016,392372,110539,Petrol,Automatic,1.5,MPV,7,3.5,Gandhinagar,gujarat
+Mahindra,Scorpio,2016,683963,99087,Diesel,Manual,2.2,SUV,5,3.7,Rajkot,gujarat
+Toyota,Fortuner,2019,4673175,38901,Diesel,Manual,2.8,SUV,7,4.1,Bhavnagar,gujarat
+Mahindra,Scorpio,2015,667038,98271,Diesel,Manual,2.2,SUV,5,3.9,Ahmedabad,gujarat
+Hyundai,Venue,2020,1027561,46502,Petrol,Manual,1.5,Sedan,5,3.9,Jamnagar,gujarat
+Renault,Kiger,2017,446509,94473,Petrol,Manual,1.5,Sedan,5,3.4,Ahmedabad,gujarat
+Renault,Triber,2014,328361,75105,Diesel,Manual,1.5,MPV,7,5.0,Bhavnagar,gujarat
+BMW,3 Series,2013,175443,164134,Petrol,Manual,1.2,Sedan,4,3.0,Bhavnagar,gujarat
+Tata,Safari,2021,1806327,16786,Diesel,Manual,2.0,Sedan,7,4.1,Rajkot,gujarat
+Ford,Endeavour,2017,2488734,59164,Diesel,Automatic,2.0,SUV,5,4.0,Bhavnagar,gujarat
+Mercedes,C-Class,2014,384772,69555,CNG,Manual,1.0,Sedan,4,3.2,Gandhinagar,gujarat
+Kia,Sonet,2024,1282856,8561,Petrol,Manual,1.5,Sedan,5,4.1,Ahmedabad,gujarat
+BMW,3 Series,2024,1024987,3404,Petrol,Manual,1.5,Sedan,4,3.3,Ahmedabad,gujarat
+Tata,Nexon,2023,1472656,12381,Petrol,Manual,1.2,SUV,5,4.4,Rajkot,gujarat
+Hyundai,Exter,2023,962927,9334,Diesel,Automatic,1.0,Sedan,5,3.9,Bhavnagar,gujarat
+Mahindra,Scorpio N,2014,598643,84816,Petrol,Manual,2.2,SUV,5,3.9,Rajkot,gujarat
+Honda,Elevate,2024,1006597,4460,Diesel,Manual,1.5,Sedan,5,4.8,Jamnagar,gujarat
+Toyota,Camry,2016,774970,43390,Hybrid,Manual,2.5,Sedan,5,5.0,Jamnagar,gujarat
+Honda,Elevate,2023,945669,7870,Diesel,Manual,1.2,Sedan,5,3.4,Bhavnagar,gujarat
+Kia,Carnival,2013,512607,116605,Petrol,Manual,1.0,MPV,8,4.7,Vadodara,gujarat
+Kia,Carnival,2016,764680,92488,Diesel,Manual,1.2,MPV,8,3.5,Ahmedabad,gujarat
+Kia,Seltos,2024,1292552,8889,Petrol,Manual,1.5,Sedan,5,4.3,Gandhinagar,gujarat
+Maruti Suzuki,Baleno,2016,851010,111987,Petrol,Manual,1.2,Sedan,5,4.9,Bhavnagar,gujarat
+Mahindra,Scorpio N,2014,641199,90730,Petrol,Manual,2.0,SUV,5,3.9,Ahmedabad,gujarat
+Mercedes,C-Class,2019,594254,71963,Diesel,Manual,1.2,Sedan,4,5.0,Surat,gujarat
+Ford,Figo,2014,273983,100277,CNG,Manual,1.0,Sedan,5,4.7,Vadodara,gujarat
+Kia,Carens,2024,1241336,4377,Petrol,Manual,2.0,MPV,7,5.0,Rajkot,gujarat
+Tata,Curvv EV,2024,982573,5654,Electric,Manual,0.0,SUV,5,4.9,Gandhinagar,gujarat
+Mahindra,Scorpio N,2015,610196,119946,Petrol,Automatic,2.2,SUV,5,4.5,Jamnagar,gujarat
+Kia,Carnival,2022,1184923,14984,CNG,Manual,1.6,MPV,8,4.7,Gandhinagar,gujarat
+Ford,EcoSport,2020,652011,49945,Diesel,Manual,1.5,Sedan,5,4.9,Ahmedabad,gujarat
+Ford,Endeavour,2017,2511175,87098,Diesel,Manual,2.0,SUV,5,4.9,Jamnagar,gujarat
+Ford,Figo,2012,158968,140931,Petrol,Manual,1.2,Sedan,5,5.0,Jamnagar,gujarat
+Hyundai,Grand i10,2013,233066,154663,Diesel,Manual,1.0,Sedan,5,4.4,Ahmedabad,gujarat
+Maruti Suzuki,Wagon R,2024,737938,919,Petrol,Manual,1.2,Sedan,5,4.1,Gandhinagar,gujarat
+Tata,Tiago,2014,728285,60350,Petrol,Manual,1.2,Hatchback,5,3.5,Jamnagar,gujarat
+Honda,Amaze,2016,900801,41231,Diesel,Manual,1.5,Sedan,5,5.0,Vadodara,gujarat
+Mercedes,C-Class,2023,941878,9097,Diesel,Manual,1.2,Sedan,4,4.7,Ahmedabad,gujarat
+Mahindra,Bolero,2021,1121341,26762,Petrol,Manual,2.0,Sedan,5,3.8,Ahmedabad,gujarat
+BMW,3 Series,2021,786107,39417,Diesel,Automatic,1.0,Sedan,4,4.2,Vadodara,gujarat
+Mahindra,Scorpio N,2015,579850,126381,Diesel,Automatic,2.0,SUV,5,4.3,Jamnagar,gujarat
+Mercedes,C-Class,2016,358373,97779,Diesel,Automatic,1.0,Sedan,4,4.8,Vadodara,gujarat
+Kia,Sonet,2015,745701,62322,Diesel,Manual,1.5,Sedan,5,4.7,Vadodara,gujarat
+Ford,Endeavour,2023,2894095,10549,Diesel,Manual,2.0,SUV,5,4.9,Gandhinagar,gujarat
+Renault,Kiger,2013,201717,158636,Petrol,Manual,1.2,Sedan,5,3.7,Jamnagar,gujarat
+Mercedes,C-Class,2021,828695,27485,CNG,Manual,1.0,Sedan,4,3.9,Bhavnagar,gujarat
+Renault,Kiger,2021,839889,22253,Petrol,Automatic,1.5,Sedan,5,3.6,Rajkot,gujarat
+Hyundai,Creta,2015,1516554,49877,Petrol,Manual,1.5,SUV,5,3.9,Jamnagar,gujarat
+Renault,Kiger,2021,816236,39322,Petrol,Manual,1.0,Sedan,5,4.7,Bhavnagar,gujarat
+Kia,Carens,2022,1134477,22141,Petrol,Automatic,1.5,MPV,7,5.0,Vadodara,gujarat
+Renault,Triber,2017,566184,42936,Petrol,Automatic,1.2,MPV,7,3.2,Surat,gujarat
+Mercedes,C-Class,2012,193713,163126,Petrol,Manual,1.5,Sedan,4,3.4,Gandhinagar,gujarat
+Renault,Kwid,2021,486129,22076,Diesel,Automatic,1.0,Hatchback,4,3.6,Surat,gujarat
+Tata,Nexon EV,2022,833408,15717,Electric,Manual,0.0,SUV,5,3.7,Gandhinagar,gujarat
+Mahindra,XUV300,2017,848838,37068,Petrol,Manual,1.2,Sedan,5,4.1,Jamnagar,gujarat
+Hyundai,Grand i10,2019,670271,48726,Diesel,Manual,1.0,Sedan,5,4.9,Ahmedabad,gujarat
+Mercedes,C-Class,2019,570082,67161,Petrol,Manual,1.2,Sedan,4,3.9,Ahmedabad,gujarat
+Ford,Figo,2019,650589,29816,Petrol,Manual,1.0,Sedan,5,3.6,Jamnagar,gujarat
+BMW,3 Series,2018,581541,69150,Petrol,Manual,1.2,Sedan,4,3.2,Jamnagar,gujarat
+Hyundai,Exter,2023,935186,12046,Diesel,Manual,1.2,Sedan,5,3.8,Jamnagar,gujarat
+Hyundai,Venue,2022,1033635,20240,Petrol,Manual,1.0,Sedan,5,4.7,Ahmedabad,gujarat
+Kia,Seltos,2024,1255054,6105,Diesel,Manual,1.5,Sedan,5,4.3,Rajkot,gujarat
+Toyota,Urban Cruiser,2021,1129696,24425,Petrol,Manual,1.5,Sedan,5,3.3,Rajkot,gujarat
+Mahindra,Scorpio,2017,749058,83176,Diesel,Manual,2.2,SUV,5,4.2,Jamnagar,gujarat
+Honda,City,2014,1223993,85818,CNG,Manual,1.5,Sedan,5,3.1,Jamnagar,gujarat
+Mercedes,C-Class,2013,219531,152794,Petrol,Manual,1.2,Sedan,4,3.3,Vadodara,gujarat
+Toyota,Camry,2021,1070895,17783,Hybrid,Automatic,2.5,Sedan,5,3.5,Jamnagar,gujarat
+Kia,Carnival,2021,1095287,29484,Petrol,Automatic,1.6,MPV,8,3.9,Vadodara,gujarat
+Mercedes,C-Class,2020,675952,40212,Petrol,Automatic,1.0,Sedan,4,3.0,Vadodara,gujarat
+Mahindra,Thar,2022,1425812,19484,Petrol,Automatic,2.2,SUV,5,4.1,Surat,gujarat
+Renault,Triber,2022,816447,21605,Petrol,Automatic,1.2,MPV,7,3.0,Ahmedabad,gujarat
+Toyota,Camry,2018,868008,67578,Hybrid,Manual,2.5,Sedan,5,3.0,Vadodara,gujarat
+Tata,Tiago EV,2023,889551,10928,Electric,Manual,0.0,Hatchback,5,4.2,Bhavnagar,gujarat
+Hyundai,Grand i10,2016,410041,84500,Petrol,Manual,1.5,Sedan,5,4.3,Bhavnagar,gujarat
+Renault,Kwid,2024,590678,5724,CNG,Manual,1.0,Hatchback,4,3.2,Vadodara,gujarat
+Mahindra,Thar,2024,2096028,2504,Diesel,Manual,2.2,SUV,5,4.5,Gandhinagar,gujarat
+BMW,3 Series,2022,877278,28497,Diesel,Manual,1.5,Sedan,4,3.6,Rajkot,gujarat
+Hyundai,Grand i10,2019,606691,66378,Diesel,Manual,1.2,Sedan,5,4.0,Vadodara,gujarat
+Ford,Endeavour,2012,2263331,67456,Diesel,Manual,2.0,SUV,5,3.9,Bhavnagar,gujarat
+Maruti Suzuki,Alto,2024,399345,9366,Petrol,Manual,1.0,Hatchback,4,3.9,Gandhinagar,gujarat
+Toyota,Innova Crysta,2020,2059778,31308,Diesel,Automatic,2.4,MPV,7,3.7,Vadodara,gujarat
+Kia,Carnival,2024,1327984,5543,Diesel,Automatic,1.6,MPV,8,3.1,Ahmedabad,gujarat
+Renault,Triber,2018,586029,48621,Diesel,Manual,1.5,MPV,7,4.7,Vadodara,gujarat
+Hyundai,Verna,2022,1325301,14634,CNG,Manual,1.5,Sedan,5,3.6,Rajkot,gujarat
+Mercedes,C-Class,2014,266121,137833,Diesel,Automatic,1.5,Sedan,4,4.8,Ahmedabad,gujarat
+Mercedes,C-Class,2020,665389,43712,Petrol,Manual,1.0,Sedan,4,3.7,Gandhinagar,gujarat
+Ford,EcoSport,2015,394308,63030,Petrol,Automatic,1.0,Sedan,5,4.0,Bhavnagar,gujarat
+Renault,Kwid,2022,434353,21035,Diesel,Manual,1.0,Hatchback,4,4.4,Ahmedabad,gujarat
+Kia,Carens,2024,1300222,3891,Diesel,Automatic,1.5,MPV,7,4.1,Vadodara,gujarat
+Ford,EcoSport,2017,475513,92749,Diesel,Automatic,1.5,Sedan,5,4.1,Surat,gujarat
+Mahindra,XUV300,2014,590839,82768,Diesel,Automatic,1.5,Sedan,5,4.9,Jamnagar,gujarat
+Renault,Kwid,2016,471510,50993,Petrol,Manual,1.0,Hatchback,4,4.9,Surat,gujarat
+Ford,Endeavour,2012,2127980,114381,Diesel,Manual,2.0,SUV,5,3.4,Vadodara,gujarat
+Hyundai,Exter,2024,963035,2392,Petrol,Automatic,1.2,Sedan,5,4.4,Surat,gujarat
+Ford,Endeavour,2021,2780384,15172,Diesel,Manual,2.0,SUV,5,3.2,Vadodara,gujarat
+Mahindra,XUV700,2021,2180437,16564,Diesel,Manual,2.2,SUV,7,4.2,Ahmedabad,gujarat
+Mercedes,C-Class,2023,923177,7352,Petrol,Manual,1.0,Sedan,4,4.1,Surat,gujarat
+Mercedes,C-Class,2020,671870,43632,CNG,Manual,1.5,Sedan,4,4.1,Rajkot,gujarat
+Ford,EcoSport,2022,853929,22677,Petrol,Manual,1.0,Sedan,5,3.7,Jamnagar,gujarat
+Mercedes,C-Class,2024,1027362,9533,Diesel,Manual,2.0,Sedan,4,3.7,Jamnagar,gujarat
+Tata,Tigor EV,2024,1016802,7840,Electric,Manual,0.0,Sedan,5,3.1,Surat,gujarat
+Maruti Suzuki,Ertiga,2015,440365,50492,CNG,Manual,1.5,MPV,7,3.9,Ahmedabad,gujarat
+Mercedes,C-Class,2016,382265,86789,Diesel,Manual,1.0,Sedan,4,4.6,Rajkot,gujarat
+Kia,Carnival,2018,870486,52219,Petrol,Manual,1.5,MPV,8,3.5,Ahmedabad,gujarat
+Kia,Seltos,2022,1114652,29741,Diesel,Manual,1.5,Sedan,5,3.6,Bhavnagar,gujarat
+Kia,Sonet,2023,1221077,12272,Petrol,Automatic,1.5,Sedan,5,3.5,Gandhinagar,gujarat
+Maruti Suzuki,Swift,2022,869004,23310,Diesel,Manual,1.2,Hatchback,5,4.7,Jamnagar,gujarat
+Ford,EcoSport,2014,362932,58812,Diesel,Manual,1.2,Sedan,5,4.9,Ahmedabad,gujarat
+BMW,3 Series,2022,849623,24743,Petrol,Automatic,1.5,Sedan,4,3.3,Vadodara,gujarat
+Kia,Carens,2024,1273717,4566,CNG,Manual,1.6,MPV,7,4.0,Bhavnagar,gujarat
+Hyundai,Venue,2021,1012496,38069,CNG,Manual,1.0,Sedan,5,3.3,Ahmedabad,gujarat
+Ford,EcoSport,2023,886506,12292,Diesel,Automatic,1.2,Sedan,5,4.3,Jamnagar,gujarat
+Hyundai,Verna,2020,1165156,39029,Diesel,Automatic,1.5,Sedan,5,4.0,Ahmedabad,gujarat
+Mahindra,Thar,2021,1327560,40898,Petrol,Manual,2.0,SUV,5,4.2,Ahmedabad,gujarat
+Hyundai,Venue,2022,1115374,25684,Diesel,Automatic,1.5,Sedan,5,4.3,Rajkot,gujarat
+Ford,Figo,2020,681821,42578,Diesel,Automatic,1.5,Sedan,5,4.2,Gandhinagar,gujarat
+Tata,Curvv,2024,1013908,2034,Petrol,Manual,2.0,SUV,5,3.5,Bhavnagar,gujarat
+Honda,City,2016,1477599,65729,Petrol,Manual,1.5,Sedan,5,4.0,Surat,gujarat
+BMW,3 Series,2014,258851,136341,Diesel,Manual,1.5,Sedan,4,3.1,Gandhinagar,gujarat
+Maruti Suzuki,Swift,2012,738755,144076,Diesel,Automatic,1.2,Hatchback,5,4.0,Jamnagar,gujarat
+Renault,Kiger,2022,873300,19899,Petrol,Automatic,1.2,Sedan,5,3.6,Ahmedabad,gujarat
+Maruti Suzuki,Baleno,2019,943501,52238,Petrol,Manual,1.2,Sedan,5,4.5,Gandhinagar,gujarat
+Toyota,Urban Cruiser,2022,1173499,22141,Diesel,Manual,1.5,Sedan,5,3.5,Surat,gujarat
+Tata,Punch,2021,869223,24509,Petrol,Automatic,1.2,Sedan,5,4.9,Jamnagar,gujarat
+Toyota,Fortuner,2024,4079456,2610,Diesel,Automatic,2.8,SUV,7,4.9,Bhavnagar,gujarat
+Ford,EcoSport,2015,303254,121460,Petrol,Manual,1.5,Sedan,5,4.8,Jamnagar,gujarat
+Mercedes,C-Class,2016,330071,110345,Diesel,Manual,1.2,Sedan,4,4.5,Gandhinagar,gujarat
+Kia,Carens,2022,1110705,23126,Diesel,Manual,1.6,MPV,7,3.1,Bhavnagar,gujarat
+Ford,Figo,2016,455864,55572,CNG,Manual,1.2,Sedan,5,4.1,Vadodara,gujarat
+Tata,Harrier,2023,1924369,13341,Diesel,Manual,2.0,Sedan,5,4.0,Surat,gujarat
+BMW,3 Series,2017,467299,76750,Petrol,Manual,1.2,Sedan,4,4.2,Bhavnagar,gujarat
+Renault,Triber,2019,630783,71447,Petrol,Automatic,1.2,MPV,7,3.7,Ahmedabad,gujarat
+Kia,Carens,2024,1327238,436,Petrol,Automatic,2.0,MPV,7,3.5,Ahmedabad,gujarat
+BMW,3 Series,2014,295447,118712,Diesel,Automatic,1.2,Sedan,4,3.3,Jamnagar,gujarat
+Mahindra,Scorpio,2021,1038404,37954,Petrol,Manual,2.2,SUV,5,4.4,Rajkot,gujarat
+Renault,Triber,2019,649342,73223,Petrol,Manual,1.0,MPV,7,4.1,Jamnagar,gujarat
+Ford,Figo,2018,571699,50562,Petrol,Manual,1.5,Sedan,5,3.7,Gandhinagar,gujarat
+Mercedes,C-Class,2021,763200,30865,CNG,Manual,1.2,Sedan,4,3.4,Vadodara,gujarat
+Honda,Elevate,2023,915555,13011,Petrol,Manual,1.5,Sedan,5,3.5,Ahmedabad,gujarat
+BMW,3 Series,2018,528237,83633,CNG,Automatic,1.2,Sedan,4,3.1,Jamnagar,gujarat
+Hyundai,Venue,2022,1151175,18403,Petrol,Automatic,1.5,Sedan,5,3.3,Bhavnagar,gujarat
+BMW,3 Series,2015,484796,51653,CNG,Manual,1.0,Sedan,4,3.1,Rajkot,gujarat
+Toyota,Urban Cruiser,2021,1043018,37321,Petrol,Manual,1.6,Sedan,5,4.3,Rajkot,gujarat
+Ford,Figo,2015,377096,82649,Petrol,Manual,1.0,Sedan,5,4.3,Surat,gujarat
+Renault,Triber,2023,911946,5611,Petrol,Automatic,1.0,MPV,7,5.0,Rajkot,gujarat
+Ford,EcoSport,2023,885910,9742,Petrol,Manual,1.0,Sedan,5,4.9,Vadodara,gujarat
+Honda,Amaze,2022,1008952,27802,Diesel,Manual,1.5,Sedan,5,3.4,Ahmedabad,gujarat
+Toyota,Fortuner,2023,3539523,12518,Diesel,Manual,2.8,SUV,7,3.4,Gandhinagar,gujarat
+Mercedes,C-Class,2018,564982,63769,Petrol,Manual,1.0,Sedan,4,5.0,Rajkot,gujarat
+Toyota,Fortuner,2012,3493923,94181,Diesel,Manual,2.8,SUV,7,3.5,Vadodara,gujarat
+Mahindra,Scorpio,2022,1183000,13873,Petrol,Manual,2.2,SUV,5,4.4,Jamnagar,gujarat
+Honda,Amaze,2021,820028,22236,Petrol,Manual,1.5,Sedan,5,3.8,Bhavnagar,gujarat
+Ford,Figo,2024,1042858,3578,Petrol,Automatic,2.0,Sedan,5,3.9,Jamnagar,gujarat
+Toyota,Innova Crysta,2021,2669032,18676,Diesel,Manual,2.4,MPV,7,3.3,Gandhinagar,gujarat
+Renault,Kiger,2013,176922,144167,Diesel,Manual,1.5,Sedan,5,3.9,Ahmedabad,gujarat
+Ford,EcoSport,2020,715873,47225,Diesel,Manual,1.5,Sedan,5,4.6,Jamnagar,gujarat
+Maruti Suzuki,Alto,2016,407121,40395,Diesel,Manual,1.0,Hatchback,4,4.1,Ahmedabad,gujarat
+Hyundai,Grand i10,2012,208591,97629,Petrol,Manual,1.5,Sedan,5,5.0,Jamnagar,gujarat
+Kia,Carens,2023,1224479,12348,Petrol,Manual,2.0,MPV,7,3.3,Gandhinagar,gujarat
+Toyota,Innova Crysta,2014,2354531,120419,Diesel,Automatic,2.4,MPV,7,3.9,Jamnagar,gujarat
+Renault,Kiger,2020,690102,44856,Petrol,Manual,1.2,Sedan,5,3.4,Jamnagar,gujarat
+Hyundai,i20,2024,1201632,6868,CNG,Automatic,1.2,Hatchback,5,3.2,Ahmedabad,gujarat
+Ford,Figo,2022,859077,11595,Diesel,Manual,1.0,Sedan,5,4.1,Gandhinagar,gujarat
+Maruti Suzuki,Baleno,2020,867197,38957,Diesel,Automatic,1.2,Sedan,5,3.6,Surat,gujarat
+Mercedes,C-Class,2018,587064,49693,Petrol,Automatic,1.5,Sedan,4,4.8,Jamnagar,gujarat
+Mercedes,C-Class,2020,651145,52481,CNG,Automatic,1.5,Sedan,4,3.8,Bhavnagar,gujarat
+Toyota,Urban Cruiser,2024,1284306,2444,Petrol,Automatic,1.5,Sedan,5,4.7,Vadodara,gujarat
+Tata,Curvv EV,2024,986090,9214,Electric,Manual,0.0,SUV,5,3.8,Vadodara,gujarat
+Mahindra,XUV700,2021,1493911,29738,Diesel,Automatic,2.2,SUV,7,4.3,Bhavnagar,gujarat
+Maruti Suzuki,Ertiga,2013,340837,79662,Diesel,Manual,1.0,MPV,7,4.0,Gandhinagar,gujarat
+Toyota,Glanza,2019,946906,38881,CNG,Manual,1.2,Sedan,5,4.8,Jamnagar,gujarat
+BMW,3 Series,2018,501369,89973,Diesel,Automatic,1.2,Sedan,4,3.9,Jamnagar,gujarat
+Toyota,Glanza,2021,1113215,26784,Diesel,Manual,1.6,Sedan,5,4.5,Vadodara,gujarat
+Mahindra,XUV700,2023,2479699,11781,Diesel,Automatic,2.2,SUV,7,3.6,Surat,gujarat
+Toyota,Fortuner,2018,4047111,67341,Diesel,Automatic,2.8,SUV,7,4.9,Jamnagar,gujarat
+Ford,Endeavour,2014,2204160,146045,Diesel,Automatic,2.0,SUV,5,4.0,Gandhinagar,gujarat
+Hyundai,Exter,2023,944053,5104,Petrol,Manual,1.0,Sedan,5,4.4,Ahmedabad,gujarat
+Mahindra,XUV300,2019,908923,49458,Diesel,Manual,1.5,Sedan,5,4.8,Jamnagar,gujarat
+Ford,EcoSport,2012,222305,129758,Petrol,Manual,1.5,Sedan,5,3.5,Vadodara,gujarat
+Maruti Suzuki,Dzire,2023,706107,12054,CNG,Manual,1.2,Sedan,5,4.2,Vadodara,gujarat
+Toyota,Glanza,2022,1173896,12589,CNG,Manual,2.0,Sedan,5,3.5,Jamnagar,gujarat
+Hyundai,Exter,2023,940120,6531,Petrol,Manual,1.0,Sedan,5,4.3,Jamnagar,gujarat
+Tata,Punch,2024,823681,7109,Diesel,Automatic,1.2,Sedan,5,3.5,Gandhinagar,gujarat
+BMW,3 Series,2016,467744,46102,Diesel,Manual,1.5,Sedan,4,4.1,Ahmedabad,gujarat
+Tata,Punch EV,2024,1019943,3394,Electric,Automatic,0.0,Sedan,5,3.6,Bhavnagar,gujarat
+Mahindra,XUV300,2018,871852,74370,Petrol,Automatic,1.0,Sedan,5,4.6,Jamnagar,gujarat
+Hyundai,Verna,2023,1102430,10666,Petrol,Automatic,1.5,Sedan,5,4.9,Vadodara,gujarat
+Maruti Suzuki,Brezza,2016,416304,99054,Petrol,Manual,1.2,Sedan,5,3.9,Jamnagar,gujarat
+BMW,3 Series,2013,231083,156209,Petrol,Manual,1.0,Sedan,4,3.2,Surat,gujarat
+Kia,Sonet,2023,1218507,11383,Petrol,Manual,1.5,Sedan,5,4.5,Ahmedabad,gujarat
+Tata,Punch,2022,942020,24122,Diesel,Manual,1.2,Sedan,5,3.7,Ahmedabad,gujarat
+BMW,3 Series,2018,626253,30808,Petrol,Automatic,1.5,Sedan,4,4.8,Surat,gujarat
+BMW,3 Series,2022,827216,22475,Petrol,Manual,1.2,Sedan,4,3.3,Surat,gujarat
+Kia,Carens,2023,1243469,9911,Diesel,Manual,2.0,MPV,7,4.3,Bhavnagar,gujarat
+BMW,3 Series,2019,653758,32010,Petrol,Automatic,1.2,Sedan,4,4.7,Rajkot,gujarat
+Toyota,Urban Cruiser,2023,1261332,12055,CNG,Manual,2.0,Sedan,5,4.9,Surat,gujarat
+Ford,Endeavour,2014,2287830,102198,Diesel,Manual,2.0,SUV,5,3.7,Vadodara,gujarat
+Kia,Carens,2022,1119188,28476,Diesel,Manual,2.0,MPV,7,3.1,Jamnagar,gujarat
+Ford,Figo,2015,333185,102469,Diesel,Manual,1.2,Sedan,5,4.3,Surat,gujarat
+Mercedes,C-Class,2015,430332,78119,Petrol,Manual,1.2,Sedan,4,3.1,Bhavnagar,gujarat
+Ford,Figo,2018,586402,65020,CNG,Automatic,1.2,Sedan,5,4.1,Gandhinagar,gujarat
+Toyota,Camry,2021,1039138,35911,Hybrid,Manual,2.5,Sedan,5,4.3,Ahmedabad,gujarat
+BMW,3 Series,2024,995420,5432,Petrol,Manual,1.0,Sedan,4,4.0,Bhavnagar,gujarat
+Renault,Triber,2023,899971,14424,Petrol,Manual,1.5,MPV,7,4.2,Bhavnagar,gujarat
+Tata,Punch EV,2024,947703,7909,Electric,Automatic,0.0,Sedan,5,3.2,Jamnagar,gujarat
+Tata,Punch EV,2024,998681,5620,Electric,Manual,0.0,Sedan,5,4.0,Rajkot,gujarat
+Ford,Endeavour,2013,2216856,94356,Diesel,Manual,2.0,SUV,5,4.4,Surat,gujarat
+Mahindra,XUV300,2014,525989,122339,Petrol,Manual,1.2,Sedan,5,3.5,Rajkot,gujarat
+Mercedes,C-Class,2014,268154,133948,Petrol,Manual,1.5,Sedan,4,4.8,Rajkot,gujarat
+BMW,3 Series,2018,681371,30291,Petrol,Manual,1.5,Sedan,4,4.6,Ahmedabad,gujarat
+BMW,3 Series,2024,956505,8796,Petrol,Manual,1.0,Sedan,4,3.5,Gandhinagar,gujarat
+Ford,Figo,2022,887246,20269,Petrol,Manual,1.0,Sedan,5,3.7,Gandhinagar,gujarat
+Ford,Figo,2014,265535,138288,Diesel,Automatic,1.5,Sedan,5,3.2,Surat,gujarat
+Toyota,Innova Crysta,2015,1991936,85026,Diesel,Manual,2.4,MPV,7,4.1,Rajkot,gujarat
+Tata,Curvv EV,2024,953871,9091,Electric,Manual,0.0,SUV,5,4.7,Bhavnagar,gujarat
+Maruti Suzuki,Ertiga,2017,590518,36256,Petrol,Automatic,1.5,MPV,7,4.0,Rajkot,gujarat
+Kia,Carnival,2018,855176,76539,Petrol,Manual,1.0,MPV,8,4.6,Surat,gujarat
+Honda,City,2016,1202692,69470,Petrol,Manual,1.5,Sedan,5,4.1,Vadodara,gujarat
+Renault,Kiger,2020,804615,22726,Diesel,Manual,1.2,Sedan,5,3.2,Gandhinagar,gujarat
+Mercedes,C-Class,2016,520947,44224,Petrol,Automatic,1.0,Sedan,4,3.9,Ahmedabad,gujarat
+Mahindra,Thar,2024,1939905,5744,Diesel,Manual,2.0,SUV,5,4.6,Bhavnagar,gujarat
+Toyota,Camry,2016,684617,118231,Hybrid,Automatic,2.5,Sedan,5,4.1,Gandhinagar,gujarat
+Renault,Triber,2013,352316,72771,Diesel,Automatic,1.2,MPV,7,4.7,Surat,gujarat
+Tata,Harrier,2020,2198462,41108,Diesel,Manual,2.0,Sedan,5,4.3,Rajkot,gujarat
+Ford,EcoSport,2022,876802,13050,Diesel,Manual,1.2,Sedan,5,3.9,Rajkot,gujarat
+Toyota,Camry,2012,398039,173889,Hybrid,Automatic,2.5,Sedan,5,4.7,Gandhinagar,gujarat
+Renault,Kiger,2015,324767,101314,Petrol,Manual,1.2,Sedan,5,3.7,Bhavnagar,gujarat
+Tata,Tiago EV,2023,968463,10631,Electric,Manual,0.0,Hatchback,5,4.6,Rajkot,gujarat
+Maruti Suzuki,Swift,2014,600354,107840,CNG,Manual,1.2,Hatchback,5,4.8,Vadodara,gujarat
+Tata,Safari,2021,1762552,36449,Diesel,Manual,2.0,Sedan,7,3.8,Vadodara,gujarat
+Mahindra,Bolero,2022,1216235,12988,Petrol,Manual,1.5,Sedan,5,4.2,Bhavnagar,gujarat
+Mercedes,C-Class,2012,319173,61056,Petrol,Manual,1.2,Sedan,4,4.4,Rajkot,gujarat
+Hyundai,Creta,2021,1107402,17927,Petrol,Manual,1.5,SUV,5,4.5,Gandhinagar,gujarat
+Tata,Tigor EV,2022,895534,12241,Electric,Manual,0.0,Sedan,5,3.9,Jamnagar,gujarat
+Mahindra,Scorpio N,2023,1238963,7480,Diesel,Manual,2.0,SUV,5,3.3,Ahmedabad,gujarat
+BMW,3 Series,2017,458222,91280,Diesel,Manual,1.5,Sedan,4,3.2,Bhavnagar,gujarat
+BMW,3 Series,2024,1035298,439,Diesel,Manual,2.0,Sedan,4,3.4,Rajkot,gujarat
+Honda,Elevate,2023,946865,8921,Petrol,Manual,1.5,Sedan,5,4.2,Bhavnagar,gujarat
+Maruti Suzuki,Wagon R,2017,847995,52299,Petrol,Manual,1.2,Sedan,5,4.9,Gandhinagar,gujarat
+Hyundai,i20,2021,937460,17212,Petrol,Automatic,1.2,Hatchback,5,4.3,Bhavnagar,gujarat
+Kia,Carnival,2023,1187803,11590,Diesel,Manual,1.6,MPV,8,3.2,Ahmedabad,gujarat
+Renault,Kwid,2024,485655,2545,Petrol,Manual,1.0,Hatchback,4,3.6,Rajkot,gujarat
+Mahindra,Scorpio,2015,743948,56300,Petrol,Manual,2.2,SUV,5,4.3,Jamnagar,gujarat
+Tata,Punch,2021,655950,38196,Petrol,Automatic,1.2,Sedan,5,3.3,Surat,gujarat
+Honda,Elevate,2023,932910,5480,Diesel,Manual,1.0,Sedan,5,3.5,Bhavnagar,gujarat
+Mercedes,C-Class,2019,656949,54831,Petrol,Manual,1.5,Sedan,4,3.3,Surat,gujarat
+Honda,City,2021,1020936,37089,Petrol,Manual,1.5,Sedan,5,3.1,Vadodara,gujarat
+Kia,Sonet,2014,713465,54635,Diesel,Automatic,1.5,Sedan,5,3.4,Surat,gujarat
+Kia,Carens,2023,1261912,6276,Petrol,Manual,1.5,MPV,7,3.4,Bhavnagar,gujarat
+Maruti Suzuki,Alto,2013,431447,115960,Petrol,Manual,1.0,Hatchback,4,3.4,Bhavnagar,gujarat
+Honda,Elevate,2023,923270,12600,Diesel,Manual,1.0,Sedan,5,4.5,Bhavnagar,gujarat
+Mahindra,Thar,2020,1544315,46872,Diesel,Manual,2.2,SUV,5,3.0,Jamnagar,gujarat
+Kia,Carens,2022,1186443,16723,CNG,Manual,1.5,MPV,7,4.4,Ahmedabad,gujarat
+Maruti Suzuki,Baleno,2020,895293,47070,Petrol,Automatic,1.2,Sedan,5,4.0,Jamnagar,gujarat
+Kia,Seltos,2023,1179163,14303,Petrol,Automatic,1.5,Sedan,5,4.7,Gandhinagar,gujarat
+Kia,Carens,2023,1210645,12417,Petrol,Automatic,2.0,MPV,7,3.2,Ahmedabad,gujarat
+Tata,Curvv EV,2024,993282,5145,Electric,Manual,0.0,SUV,5,3.9,Rajkot,gujarat
+Honda,City,2013,1218992,75658,Diesel,Manual,1.5,Sedan,5,3.3,Jamnagar,gujarat
+Mahindra,XUV700,2024,1926714,8412,Petrol,Automatic,2.2,SUV,7,4.1,Bhavnagar,gujarat
+Mahindra,Scorpio,2019,955322,31678,Petrol,Manual,2.2,SUV,5,3.4,Rajkot,gujarat
+Toyota,Innova Crysta,2021,2761993,34205,Diesel,Manual,2.4,MPV,7,4.6,Ahmedabad,gujarat
+Toyota,Innova Crysta,2012,1976149,120423,Diesel,Manual,2.4,MPV,7,3.1,Jamnagar,gujarat
+Kia,Sonet,2017,798530,63143,Petrol,Manual,1.0,Sedan,5,4.2,Bhavnagar,gujarat
+Mahindra,Scorpio N,2016,693000,105390,Diesel,Manual,2.2,SUV,5,3.8,Rajkot,gujarat
+Mahindra,Scorpio N,2024,1265656,8614,Diesel,Automatic,2.2,SUV,5,4.0,Gandhinagar,gujarat
+Ford,Endeavour,2021,2779153,31462,Diesel,Manual,2.0,SUV,5,3.1,Gandhinagar,gujarat
+Honda,City,2024,1274795,7728,Diesel,Automatic,1.5,Sedan,5,4.3,Vadodara,gujarat
+Renault,Triber,2012,178758,160145,Diesel,Automatic,1.2,MPV,7,3.7,Gandhinagar,gujarat
+Tata,Tiago,2015,711343,122662,Diesel,Manual,1.2,Hatchback,5,4.4,Vadodara,gujarat
+BMW,3 Series,2021,822517,21168,Diesel,Manual,1.0,Sedan,4,3.2,Surat,gujarat
+BMW,3 Series,2012,212650,129002,Petrol,Automatic,1.0,Sedan,4,4.6,Vadodara,gujarat
+Tata,Punch EV,2024,968360,359,Electric,Automatic,0.0,Sedan,5,4.7,Gandhinagar,gujarat
+Toyota,Innova Crysta,2017,1905939,86851,Diesel,Manual,2.4,MPV,7,4.6,Rajkot,gujarat
+Mercedes,C-Class,2014,238659,142691,Diesel,Automatic,1.2,Sedan,4,3.4,Bhavnagar,gujarat
+Tata,Curvv,2024,956691,4825,Petrol,Manual,1.5,SUV,5,4.9,Rajkot,gujarat
+BMW,3 Series,2014,233709,128956,CNG,Automatic,1.0,Sedan,4,4.3,Ahmedabad,gujarat
+Ford,EcoSport,2017,541194,45198,Petrol,Manual,1.5,Sedan,5,4.8,Ahmedabad,gujarat
+Mercedes,C-Class,2019,683761,25746,Petrol,Manual,1.2,Sedan,4,3.5,Ahmedabad,gujarat
+Maruti Suzuki,Swift,2018,820019,58719,CNG,Automatic,1.2,Hatchback,5,3.7,Rajkot,gujarat
+Hyundai,Grand i10,2024,1016323,9470,Diesel,Manual,1.5,Sedan,5,4.6,Ahmedabad,gujarat
+Honda,City,2017,977804,69226,Petrol,Automatic,1.5,Sedan,5,4.1,Ahmedabad,gujarat
+Toyota,Camry,2021,1074273,44269,Hybrid,Manual,2.5,Sedan,5,3.3,Ahmedabad,gujarat
+Toyota,Fortuner,2015,4162057,98645,Diesel,Automatic,2.8,SUV,7,3.6,Ahmedabad,gujarat
+Maruti Suzuki,Alto,2021,390262,33011,Petrol,Manual,1.0,Hatchback,4,4.6,Jamnagar,gujarat
+BMW,3 Series,2015,388373,57712,Petrol,Manual,1.0,Sedan,4,3.9,Ahmedabad,gujarat
+Honda,Amaze,2019,888938,57053,Petrol,Manual,1.5,Sedan,5,4.8,Vadodara,gujarat
+Tata,Curvv EV,2024,998637,4313,Electric,Manual,0.0,SUV,5,4.1,Surat,gujarat
+Mercedes,C-Class,2013,195061,142574,Diesel,Manual,1.5,Sedan,4,3.5,Ahmedabad,gujarat
+Kia,Carnival,2020,1023066,51118,Diesel,Manual,1.6,MPV,8,4.8,Jamnagar,gujarat
+Maruti Suzuki,Dzire,2021,949622,44506,Diesel,Manual,1.2,Sedan,5,3.3,Surat,gujarat
+Mahindra,Thar,2021,1382175,16398,CNG,Manual,2.2,SUV,5,3.6,Jamnagar,gujarat
+Hyundai,i20,2018,1089435,66461,Petrol,Manual,1.2,Hatchback,5,3.2,Surat,gujarat
+Tata,Tiago EV,2024,1030402,9546,Electric,Manual,0.0,Hatchback,5,4.6,Gandhinagar,gujarat
+Honda,Elevate,2024,971620,6732,Petrol,Manual,1.5,Sedan,5,3.9,Surat,gujarat
+Honda,Amaze,2014,960616,131034,Petrol,Automatic,1.2,Sedan,5,3.1,Rajkot,gujarat
+Honda,Amaze,2012,913026,104284,Petrol,Manual,1.2,Sedan,5,4.9,Surat,gujarat
+Tata,Safari,2024,2264201,5257,Diesel,Manual,2.0,Sedan,7,4.8,Rajkot,gujarat
+Ford,Figo,2017,582537,42367,Diesel,Manual,1.5,Sedan,5,4.0,Surat,gujarat
+Renault,Triber,2012,209265,82772,Diesel,Manual,1.0,MPV,7,3.5,Rajkot,gujarat
+Maruti Suzuki,Wagon R,2023,743122,8262,Diesel,Manual,1.2,Sedan,5,4.4,Surat,gujarat
+Toyota,Urban Cruiser,2024,1306204,2909,Diesel,Manual,1.6,Sedan,5,4.5,Jamnagar,gujarat
+Hyundai,Venue,2019,985410,50333,Diesel,Automatic,1.0,Sedan,5,4.3,Jamnagar,gujarat
+Mahindra,XUV700,2024,1318660,8409,Petrol,Manual,2.0,SUV,7,3.4,Bhavnagar,gujarat
+Honda,Elevate,2024,985345,6943,Diesel,Manual,1.0,Sedan,5,3.9,Jamnagar,gujarat
+Renault,Triber,2018,526410,68304,Petrol,Automatic,1.2,MPV,7,4.1,Bhavnagar,gujarat
+BMW,3 Series,2016,505142,54169,Petrol,Automatic,1.5,Sedan,4,3.7,Vadodara,gujarat
+Honda,Elevate,2024,963651,3086,Diesel,Manual,1.0,Sedan,5,4.6,Gandhinagar,gujarat
+BMW,3 Series,2022,898228,20472,Petrol,Manual,1.2,Sedan,4,5.0,Vadodara,gujarat
+Kia,Carnival,2018,797629,78282,Diesel,Automatic,1.0,MPV,8,3.7,Jamnagar,gujarat
+Mahindra,Scorpio N,2020,1036063,51177,Petrol,Manual,2.0,SUV,5,3.6,Rajkot,gujarat
+Tata,Safari,2022,1593637,20998,Diesel,Manual,2.0,Sedan,7,3.7,Bhavnagar,gujarat
+Honda,Amaze,2013,1082606,116674,Diesel,Automatic,1.2,Sedan,5,4.0,Gandhinagar,gujarat
+Mercedes,C-Class,2020,725146,39553,Petrol,Automatic,1.0,Sedan,4,5.0,Vadodara,gujarat
+Kia,Carnival,2014,660804,91469,Petrol,Manual,1.2,MPV,8,4.3,Surat,gujarat
+Toyota,Innova Crysta,2012,2019553,119251,Diesel,Manual,2.4,MPV,7,3.3,Rajkot,gujarat
+Mercedes,C-Class,2018,596573,58116,Petrol,Manual,1.0,Sedan,4,4.5,Ahmedabad,gujarat
+Toyota,Camry,2015,793702,47348,Hybrid,Automatic,2.5,Sedan,5,3.6,Ahmedabad,gujarat
+Kia,Carens,2022,1131992,12139,Petrol,Manual,2.0,MPV,7,4.2,Vadodara,gujarat
+Kia,Sonet,2017,749087,99248,Diesel,Manual,1.0,Sedan,5,3.5,Jamnagar,gujarat
+Tata,Harrier,2024,1929146,359,Diesel,Manual,2.0,Sedan,5,4.8,Vadodara,gujarat
+Renault,Triber,2012,156286,137846,Diesel,Manual,1.0,MPV,7,3.1,Ahmedabad,gujarat
+Kia,Carnival,2018,945733,38099,Petrol,Automatic,1.0,MPV,8,4.4,Jamnagar,gujarat
+Maruti Suzuki,Wagon R,2018,822791,73362,Petrol,Manual,1.2,Sedan,5,4.7,Ahmedabad,gujarat
+Renault,Triber,2021,799054,18857,Petrol,Manual,1.0,MPV,7,4.2,Gandhinagar,gujarat
+Honda,Elevate,2023,970200,10864,Petrol,Manual,1.5,Sedan,5,4.0,Surat,gujarat
+Ford,Endeavour,2015,2410671,45358,Diesel,Automatic,2.0,SUV,5,3.3,Ahmedabad,gujarat
+Renault,Kwid,2023,568909,6659,Petrol,Automatic,1.0,Hatchback,4,3.9,Ahmedabad,gujarat
+Tata,Nexon,2021,1177897,26803,Petrol,Manual,1.2,SUV,5,4.3,Surat,gujarat
+Toyota,Glanza,2022,1208084,18791,Petrol,Automatic,1.5,Sedan,5,3.8,Rajkot,gujarat
+Honda,Amaze,2023,1090182,12835,Diesel,Manual,1.2,Sedan,5,5.0,Gandhinagar,gujarat
+Tata,Punch,2024,948290,9678,Diesel,Manual,1.2,Sedan,5,4.2,Gandhinagar,gujarat
+Mercedes,C-Class,2019,600802,56989,Diesel,Manual,1.0,Sedan,4,3.5,Vadodara,gujarat
+Maruti Suzuki,Brezza,2022,893468,27197,Diesel,Manual,1.5,Sedan,5,4.7,Bhavnagar,gujarat
+Renault,Triber,2023,943734,6560,Diesel,Manual,1.2,MPV,7,4.3,Jamnagar,gujarat
+Kia,Sonet,2020,1004526,23576,Diesel,Manual,1.0,Sedan,5,3.1,Rajkot,gujarat
+Toyota,Fortuner,2017,4063107,71458,Diesel,Manual,2.8,SUV,7,3.9,Gandhinagar,gujarat
+BMW,3 Series,2013,217598,120333,Petrol,Automatic,1.5,Sedan,4,4.3,Ahmedabad,gujarat
+Kia,Carnival,2012,455971,133024,Petrol,Manual,1.5,MPV,8,4.9,Jamnagar,gujarat
+Honda,Elevate,2023,919676,12474,Petrol,Manual,1.0,Sedan,5,4.7,Vadodara,gujarat
+Renault,Triber,2021,832933,30503,Diesel,Automatic,1.0,MPV,7,3.2,Jamnagar,gujarat
+Mahindra,Scorpio,2017,820055,81548,CNG,Manual,2.2,SUV,5,4.4,Ahmedabad,gujarat
+Tata,Curvv EV,2024,951019,6704,Electric,Manual,0.0,SUV,5,4.9,Rajkot,gujarat
+Mahindra,Bolero,2024,1337950,3122,Petrol,Automatic,2.0,Sedan,5,4.7,Bhavnagar,gujarat
+Hyundai,Grand i10,2019,641242,68152,CNG,Manual,1.2,Sedan,5,3.0,Jamnagar,gujarat
+Maruti Suzuki,Dzire,2018,903195,84972,CNG,Automatic,1.2,Sedan,5,4.5,Surat,gujarat
+Hyundai,Grand i10,2022,870450,29678,Diesel,Manual,1.2,Sedan,5,3.8,Bhavnagar,gujarat
+Mahindra,XUV700,2024,2249686,5617,Diesel,Manual,2.2,SUV,7,4.7,Bhavnagar,gujarat
+Toyota,Camry,2022,1142330,17121,Hybrid,Automatic,2.5,Sedan,5,5.0,Jamnagar,gujarat
+Tata,Nexon EV,2024,1032107,5281,Electric,Manual,0.0,SUV,5,4.1,Jamnagar,gujarat
+Kia,Carens,2023,1258515,5209,Petrol,Manual,2.0,MPV,7,3.1,Vadodara,gujarat
+Tata,Safari,2023,2224141,7399,Diesel,Manual,2.0,Sedan,7,4.6,Ahmedabad,gujarat
+BMW,3 Series,2023,922972,14195,Petrol,Automatic,1.5,Sedan,4,3.6,Jamnagar,gujarat
+Maruti Suzuki,Alto,2018,431960,57300,CNG,Manual,1.0,Hatchback,4,3.4,Gandhinagar,gujarat
+Ford,EcoSport,2022,904973,22050,Diesel,Automatic,1.0,Sedan,5,4.6,Surat,gujarat
+Honda,Amaze,2014,848029,139477,CNG,Automatic,1.5,Sedan,5,3.1,Vadodara,gujarat
+Renault,Kiger,2014,384544,71093,Diesel,Manual,1.2,Sedan,5,4.4,Surat,gujarat
+Maruti Suzuki,Baleno,2017,857891,41665,Petrol,Manual,1.2,Sedan,5,4.6,Vadodara,gujarat
+Renault,Kwid,2014,532419,118236,Petrol,Manual,1.0,Hatchback,4,3.7,Surat,gujarat
+Mercedes,C-Class,2017,473479,82290,Petrol,Automatic,1.5,Sedan,4,3.9,Bhavnagar,gujarat
+Mercedes,C-Class,2013,195351,142679,Petrol,Automatic,1.5,Sedan,4,4.8,Surat,gujarat
+Maruti Suzuki,Brezza,2017,444860,84987,Petrol,Manual,1.2,Sedan,5,3.0,Bhavnagar,gujarat
+Toyota,Camry,2024,1291400,8335,Hybrid,Manual,2.5,Sedan,5,4.0,Ahmedabad,gujarat
+Tata,Nexon EV,2024,1032173,120,Electric,Manual,0.0,SUV,5,3.8,Ahmedabad,gujarat
+Mahindra,XUV300,2023,1260746,12130,Diesel,Manual,1.5,Sedan,5,3.0,Jamnagar,gujarat
+Toyota,Innova Crysta,2013,1986638,64600,Diesel,Manual,2.4,MPV,7,3.8,Rajkot,gujarat
+Mercedes,C-Class,2018,551213,50735,Petrol,Manual,1.0,Sedan,4,4.3,Bhavnagar,gujarat
+Hyundai,Exter,2023,934884,6189,CNG,Manual,1.5,Sedan,5,3.6,Ahmedabad,gujarat
+Honda,Amaze,2018,766158,55894,Petrol,Manual,1.5,Sedan,5,4.6,Gandhinagar,gujarat
+Renault,Kiger,2022,860066,14721,Diesel,Automatic,1.5,Sedan,5,4.3,Ahmedabad,gujarat
+Renault,Triber,2014,323475,66152,Petrol,Manual,1.5,MPV,7,4.1,Ahmedabad,gujarat
+Honda,City,2023,1332699,10633,CNG,Automatic,1.5,Sedan,5,3.4,Gandhinagar,gujarat
+Honda,City,2013,1494849,78770,Diesel,Automatic,1.5,Sedan,5,3.6,Ahmedabad,gujarat
+Honda,City,2015,1246922,121099,Petrol,Manual,1.5,Sedan,5,4.2,Surat,gujarat
+Toyota,Urban Cruiser,2024,1319785,5379,Diesel,Manual,2.0,Sedan,5,4.1,Gandhinagar,gujarat
+Toyota,Urban Cruiser,2022,1171053,10158,Petrol,Manual,2.0,Sedan,5,3.9,Gandhinagar,gujarat
+Toyota,Fortuner,2022,3970663,20864,Diesel,Automatic,2.8,SUV,7,3.4,Bhavnagar,gujarat
+Hyundai,Venue,2020,1038010,55298,Diesel,Manual,1.0,Sedan,5,4.7,Jamnagar,gujarat
+Maruti Suzuki,Ertiga,2021,785101,33969,Diesel,Manual,1.0,MPV,7,4.1,Bhavnagar,gujarat
+Renault,Kiger,2022,867948,14870,Petrol,Automatic,1.5,Sedan,5,4.5,Vadodara,gujarat
+Tata,Curvv EV,2024,984692,6500,Electric,Manual,0.0,SUV,5,4.4,Gandhinagar,gujarat
+Renault,Kwid,2019,548467,35434,CNG,Manual,1.0,Hatchback,4,4.9,Ahmedabad,gujarat
+Mahindra,Bolero,2015,728649,53239,Petrol,Manual,1.0,Sedan,5,4.0,Gandhinagar,gujarat
+Toyota,Urban Cruiser,2024,1241086,7448,Petrol,Manual,2.0,Sedan,5,4.9,Jamnagar,gujarat
+Honda,Elevate,2024,1002349,9480,Diesel,Manual,1.6,Sedan,5,4.2,Gandhinagar,gujarat
+Hyundai,Verna,2016,1541455,89326,Petrol,Automatic,1.5,Sedan,5,4.8,Ahmedabad,gujarat
+Renault,Kwid,2019,420208,35853,Diesel,Manual,1.0,Hatchback,4,3.3,Bhavnagar,gujarat
+Hyundai,Exter,2023,919283,11793,Diesel,Manual,1.2,Sedan,5,4.0,Bhavnagar,gujarat
+Tata,Tigor EV,2024,980938,367,Electric,Manual,0.0,Sedan,5,3.3,Bhavnagar,gujarat
+Maruti Suzuki,Dzire,2014,785402,57328,CNG,Manual,1.2,Sedan,5,4.8,Jamnagar,gujarat
+Mercedes,C-Class,2013,291877,83389,Diesel,Manual,1.2,Sedan,4,3.3,Gandhinagar,gujarat
+Kia,Sonet,2024,1254839,9546,Diesel,Manual,1.5,Sedan,5,4.8,Bhavnagar,gujarat
+BMW,3 Series,2015,361523,94572,Petrol,Manual,1.5,Sedan,4,4.7,Bhavnagar,gujarat
+Mercedes,C-Class,2014,203622,129365,Petrol,Automatic,1.5,Sedan,4,3.1,Gandhinagar,gujarat
+Renault,Triber,2024,958214,1925,Petrol,Manual,1.5,MPV,7,4.1,Ahmedabad,gujarat
+Mercedes,C-Class,2020,703546,47569,Diesel,Manual,1.2,Sedan,4,3.5,Gandhinagar,gujarat
+Ford,Endeavour,2017,2559769,47807,Diesel,Manual,2.0,SUV,5,4.2,Bhavnagar,gujarat
+Kia,Carens,2022,1222949,10179,Diesel,Manual,1.5,MPV,7,4.0,Rajkot,gujarat
+Mercedes,C-Class,2023,933588,10175,Petrol,Manual,1.5,Sedan,4,4.2,Vadodara,gujarat
+Renault,Kiger,2021,826200,26981,Petrol,Manual,1.0,Sedan,5,3.8,Gandhinagar,gujarat
+Renault,Kiger,2014,326281,98524,Diesel,Manual,1.2,Sedan,5,4.2,Gandhinagar,gujarat
+Kia,Sonet,2022,1220017,13902,Petrol,Automatic,1.0,Sedan,5,4.0,Gandhinagar,gujarat
+Toyota,Camry,2021,1113727,37841,Hybrid,Manual,2.5,Sedan,5,4.6,Rajkot,gujarat
+BMW,3 Series,2013,307483,63399,Petrol,Manual,1.0,Sedan,4,4.4,Rajkot,gujarat
+BMW,3 Series,2023,877531,14788,CNG,Automatic,1.5,Sedan,4,4.0,Ahmedabad,gujarat
+Mahindra,Scorpio N,2024,1270487,8489,Petrol,Automatic,2.0,SUV,5,4.2,Jamnagar,gujarat
+Maruti Suzuki,Wagon R,2015,632546,130854,Petrol,Manual,1.2,Sedan,5,4.3,Rajkot,gujarat
+BMW,3 Series,2020,804590,21007,Diesel,Automatic,1.5,Sedan,4,3.6,Gandhinagar,gujarat
+Renault,Triber,2017,475242,80544,Petrol,Automatic,1.2,MPV,7,4.9,Bhavnagar,gujarat
+Maruti Suzuki,Wagon R,2014,605818,103363,Diesel,Manual,1.2,Sedan,5,4.6,Vadodara,gujarat
+Renault,Triber,2016,403424,98034,Diesel,Automatic,1.2,MPV,7,4.9,Rajkot,gujarat
+Mercedes,C-Class,2021,717584,43246,Petrol,Manual,1.2,Sedan,4,4.3,Surat,gujarat
+Mercedes,C-Class,2024,994057,5172,CNG,Manual,1.0,Sedan,4,4.4,Vadodara,gujarat
+Mahindra,XUV700,2021,2017211,28072,Petrol,Automatic,2.2,SUV,7,3.4,Bhavnagar,gujarat
+Honda,City,2023,1109365,8115,Petrol,Manual,1.5,Sedan,5,3.4,Surat,gujarat
+BMW,3 Series,2014,337712,63983,CNG,Manual,1.5,Sedan,4,4.0,Ahmedabad,gujarat
+Renault,Kwid,2019,482684,49326,Petrol,Automatic,1.0,Hatchback,4,4.0,Gandhinagar,gujarat
+Renault,Kiger,2018,659326,44555,Diesel,Manual,1.2,Sedan,5,4.0,Bhavnagar,gujarat
+Maruti Suzuki,Dzire,2017,741645,86605,Petrol,Manual,1.2,Sedan,5,3.6,Ahmedabad,gujarat
+Maruti Suzuki,Brezza,2015,387153,94732,Petrol,Manual,1.2,Sedan,5,3.4,Vadodara,gujarat
+Mahindra,XUV700,2024,1685694,5621,Petrol,Manual,2.2,SUV,7,4.7,Vadodara,gujarat
+Ford,EcoSport,2021,836483,19297,Diesel,Automatic,1.5,Sedan,5,3.5,Surat,gujarat
+Renault,Kiger,2018,583116,42849,Diesel,Automatic,1.2,Sedan,5,4.6,Surat,gujarat
+Kia,Carnival,2014,552765,132660,Diesel,Manual,1.2,MPV,8,3.6,Bhavnagar,gujarat
+BMW,3 Series,2018,667510,36486,Petrol,Manual,1.2,Sedan,4,4.0,Jamnagar,gujarat
+Hyundai,Grand i10,2023,913048,10483,Petrol,Manual,1.2,Sedan,5,3.7,Rajkot,gujarat
+Hyundai,Venue,2024,1202437,9921,Diesel,Manual,1.5,Sedan,5,3.7,Bhavnagar,gujarat
+Ford,Figo,2019,689947,30138,Diesel,Manual,1.0,Sedan,5,4.7,Jamnagar,gujarat
+Toyota,Urban Cruiser,2024,1258369,1168,Petrol,Manual,2.0,Sedan,5,3.6,Vadodara,gujarat
+BMW,3 Series,2016,400600,98313,Diesel,Manual,1.2,Sedan,4,3.8,Surat,gujarat
+Maruti Suzuki,Baleno,2023,831935,8844,CNG,Automatic,1.2,Sedan,5,3.3,Ahmedabad,gujarat
+Hyundai,i20,2019,813822,60942,Diesel,Manual,1.2,Hatchback,5,3.5,Surat,gujarat
+Hyundai,Exter,2024,970062,5068,Petrol,Manual,1.5,Sedan,5,3.3,Bhavnagar,gujarat
+Tata,Nexon,2017,1349284,81771,Petrol,Automatic,1.2,SUV,5,3.3,Jamnagar,gujarat
+Renault,Kwid,2021,565425,34581,Diesel,Automatic,1.0,Hatchback,4,4.8,Rajkot,gujarat
+Renault,Kwid,2024,480705,1467,Petrol,Manual,1.0,Hatchback,4,3.0,Gandhinagar,gujarat
+Tata,Punch EV,2024,1005136,7687,Electric,Automatic,0.0,Sedan,5,3.0,Rajkot,gujarat
+Honda,Elevate,2023,961855,5118,Petrol,Manual,1.5,Sedan,5,3.9,Surat,gujarat
+Tata,Tigor EV,2024,966913,6199,Electric,Manual,0.0,Sedan,5,4.0,Gandhinagar,gujarat
+BMW,3 Series,2016,366235,109722,Petrol,Automatic,1.0,Sedan,4,3.3,Ahmedabad,gujarat
+Mercedes,C-Class,2021,775669,29836,Diesel,Manual,1.2,Sedan,4,3.0,Ahmedabad,gujarat
+Renault,Kwid,2014,470567,63405,Petrol,Manual,1.0,Hatchback,4,3.2,Ahmedabad,gujarat
+Ford,EcoSport,2017,460838,90082,Diesel,Manual,1.2,Sedan,5,3.9,Gandhinagar,gujarat
+Maruti Suzuki,Wagon R,2013,579380,153378,Petrol,Manual,1.2,Sedan,5,3.4,Gandhinagar,gujarat
+Honda,Amaze,2012,880527,75985,Petrol,Automatic,1.2,Sedan,5,3.4,Jamnagar,gujarat
+Hyundai,Verna,2022,1408024,16830,Diesel,Manual,1.5,Sedan,5,4.5,Bhavnagar,gujarat
+Renault,Kwid,2016,478332,103075,Petrol,Automatic,1.0,Hatchback,4,4.9,Surat,gujarat
+Mercedes,C-Class,2017,547936,36974,Diesel,Manual,1.2,Sedan,4,4.6,Ahmedabad,gujarat
+Maruti Suzuki,Dzire,2024,731260,7786,Petrol,Manual,1.2,Sedan,5,3.2,Bhavnagar,gujarat
+Toyota,Innova Crysta,2012,1961395,106598,Diesel,Automatic,2.4,MPV,7,3.6,Bhavnagar,gujarat
+Mercedes,C-Class,2024,1032100,7187,Petrol,Manual,2.0,Sedan,4,3.3,Ahmedabad,gujarat
+Ford,Figo,2019,615628,61636,Diesel,Manual,1.5,Sedan,5,3.4,Vadodara,gujarat
+Toyota,Urban Cruiser,2023,1242682,14808,Petrol,Manual,1.6,Sedan,5,4.6,Bhavnagar,gujarat
+Toyota,Urban Cruiser,2021,1102627,40425,Diesel,Automatic,2.0,Sedan,5,4.7,Gandhinagar,gujarat
+BMW,3 Series,2017,599283,43302,CNG,Automatic,1.0,Sedan,4,4.0,Rajkot,gujarat
+Renault,Kwid,2021,507427,24277,Diesel,Manual,1.0,Hatchback,4,3.1,Surat,gujarat
+Tata,Nexon,2020,1050924,27015,Petrol,Manual,1.2,SUV,5,4.1,Jamnagar,gujarat
+BMW,3 Series,2012,178930,108018,Diesel,Manual,1.0,Sedan,4,4.3,Gandhinagar,gujarat
+Hyundai,Grand i10,2024,995307,994,Diesel,Automatic,1.2,Sedan,5,4.6,Gandhinagar,gujarat
+Maruti Suzuki,Ertiga,2021,822339,23710,Petrol,Manual,1.2,MPV,7,3.2,Surat,gujarat
+Renault,Kwid,2013,539371,150049,Petrol,Manual,1.0,Hatchback,4,4.1,Surat,gujarat
+Renault,Triber,2020,753793,47209,Petrol,Manual,1.2,MPV,7,4.3,Jamnagar,gujarat
+Mercedes,C-Class,2013,269644,76864,Diesel,Manual,1.5,Sedan,4,3.3,Bhavnagar,gujarat
+Ford,Endeavour,2017,2493722,77553,Diesel,Manual,2.0,SUV,5,4.1,Surat,gujarat
+Kia,Carens,2023,1233654,12412,CNG,Manual,1.6,MPV,7,4.2,Bhavnagar,gujarat
+Tata,Safari,2021,1725258,24841,Diesel,Manual,2.0,Sedan,7,3.2,Rajkot,gujarat
+Toyota,Fortuner,2014,4220869,84732,Diesel,Manual,2.8,SUV,7,4.1,Surat,gujarat
+Hyundai,Exter,2024,956662,7905,Petrol,Automatic,1.5,Sedan,5,4.2,Ahmedabad,gujarat
+BMW,3 Series,2012,225534,155786,Petrol,Automatic,1.2,Sedan,4,3.7,Gandhinagar,gujarat
+Kia,Carnival,2013,417716,155976,Diesel,Automatic,1.0,MPV,8,4.3,Jamnagar,gujarat
+Kia,Seltos,2021,1041397,32182,Petrol,Manual,1.5,Sedan,5,3.3,Jamnagar,gujarat
+Kia,Carnival,2024,1305399,9750,Diesel,Manual,1.6,MPV,8,3.3,Vadodara,gujarat
+Hyundai,Grand i10,2021,727463,39422,Diesel,Manual,1.2,Sedan,5,4.0,Gandhinagar,gujarat
+Tata,Tiago,2019,627889,61654,Petrol,Manual,1.2,Hatchback,5,3.5,Vadodara,gujarat
+Kia,Carens,2024,1242743,9437,Petrol,Manual,1.6,MPV,7,3.4,Vadodara,gujarat
+BMW,3 Series,2024,962184,4994,CNG,Manual,1.2,Sedan,4,4.2,Rajkot,gujarat
+Maruti Suzuki,Ertiga,2015,447831,71173,Petrol,Automatic,1.0,MPV,7,3.2,Ahmedabad,gujarat
+Mahindra,XUV300,2014,576800,87707,Petrol,Automatic,1.2,Sedan,5,3.9,Ahmedabad,gujarat
+Toyota,Fortuner,2023,3427402,13814,Diesel,Automatic,2.8,SUV,7,4.4,Jamnagar,gujarat
+Maruti Suzuki,Alto,2021,488097,44689,Petrol,Manual,1.0,Hatchback,4,4.6,Bhavnagar,gujarat
+Honda,City,2019,969832,67910,Petrol,Manual,1.5,Sedan,5,4.7,Ahmedabad,gujarat
+Honda,Elevate,2024,991899,3787,Diesel,Automatic,1.2,Sedan,5,4.0,Bhavnagar,gujarat
+Renault,Kwid,2014,520058,76066,Diesel,Automatic,1.0,Hatchback,4,4.8,Vadodara,gujarat
+Toyota,Urban Cruiser,2024,1247408,2572,Petrol,Manual,1.6,Sedan,5,3.5,Bhavnagar,gujarat
+Honda,City,2022,930897,18443,CNG,Automatic,1.5,Sedan,5,3.7,Rajkot,gujarat
+Mercedes,C-Class,2013,200096,150668,Diesel,Manual,1.5,Sedan,4,4.4,Rajkot,gujarat
+Mahindra,XUV300,2014,578944,105897,CNG,Manual,1.5,Sedan,5,3.3,Jamnagar,gujarat
+Tata,Tiago EV,2024,961102,3314,Electric,Automatic,0.0,Hatchback,5,4.8,Rajkot,gujarat
+Tata,Tigor EV,2022,817888,20403,Electric,Automatic,0.0,Sedan,5,3.4,Gandhinagar,gujarat
+Tata,Nexon,2022,1168083,23567,Petrol,Automatic,1.2,SUV,5,3.3,Surat,gujarat
+Hyundai,Creta,2017,1641709,38433,Diesel,Manual,1.5,SUV,5,3.5,Ahmedabad,gujarat
+Toyota,Innova Crysta,2023,2326725,12808,Diesel,Manual,2.4,MPV,7,4.7,Rajkot,gujarat
+Ford,EcoSport,2014,328658,75330,Petrol,Automatic,1.0,Sedan,5,4.9,Rajkot,gujarat
+Mahindra,Scorpio N,2022,1216323,16646,Petrol,Manual,2.2,SUV,5,4.4,Gandhinagar,gujarat
+Ford,EcoSport,2018,542482,56533,Diesel,Automatic,1.5,Sedan,5,3.6,Bhavnagar,gujarat
+BMW,3 Series,2020,755193,27164,Petrol,Automatic,1.0,Sedan,4,4.0,Rajkot,gujarat
+Maruti Suzuki,Dzire,2018,675845,63824,Petrol,Manual,1.2,Sedan,5,3.9,Rajkot,gujarat
+Honda,Elevate,2023,891643,13470,Petrol,Manual,1.0,Sedan,5,4.4,Ahmedabad,gujarat
+Tata,Tiago EV,2024,949734,8952,Electric,Manual,0.0,Hatchback,5,3.4,Bhavnagar,gujarat
+Mahindra,Bolero,2013,566477,87778,Diesel,Automatic,1.0,Sedan,5,4.4,Ahmedabad,gujarat
+Hyundai,i20,2023,990286,12362,Petrol,Automatic,1.2,Hatchback,5,3.8,Rajkot,gujarat
+Maruti Suzuki,Ertiga,2014,336120,93934,Diesel,Automatic,1.0,MPV,7,4.7,Surat,gujarat
+Maruti Suzuki,Alto,2016,466983,80569,Petrol,Manual,1.0,Hatchback,4,3.0,Gandhinagar,gujarat
+Honda,City,2019,1469902,57612,Diesel,Manual,1.5,Sedan,5,4.2,Rajkot,gujarat
+Ford,Endeavour,2019,2718802,30203,Diesel,Manual,2.0,SUV,5,3.1,Surat,gujarat
+Maruti Suzuki,Brezza,2017,539054,39813,Diesel,Manual,1.5,Sedan,5,3.6,Ahmedabad,gujarat
+Maruti Suzuki,Swift,2018,749097,41681,Diesel,Manual,1.2,Hatchback,5,4.9,Jamnagar,gujarat
+BMW,3 Series,2012,245229,72206,Petrol,Automatic,1.0,Sedan,4,4.5,Gandhinagar,gujarat
+Renault,Kwid,2016,431987,101710,Diesel,Manual,1.0,Hatchback,4,4.0,Jamnagar,gujarat
+Mahindra,XUV300,2012,575890,74326,Diesel,Manual,1.0,Sedan,5,4.0,Jamnagar,gujarat
+BMW,3 Series,2018,551482,69901,Petrol,Manual,1.5,Sedan,4,3.7,Surat,gujarat
+BMW,3 Series,2020,709553,52619,Diesel,Automatic,1.0,Sedan,4,4.4,Surat,gujarat
+Maruti Suzuki,Swift,2012,661827,120933,Diesel,Manual,1.2,Hatchback,5,3.8,Vadodara,gujarat
+Toyota,Camry,2024,1244480,3478,Hybrid,Manual,2.5,Sedan,5,3.6,Bhavnagar,gujarat
+Toyota,Innova Crysta,2013,2157943,144893,Diesel,Manual,2.4,MPV,7,3.7,Vadodara,gujarat
+Mercedes,C-Class,2019,729626,27330,Petrol,Manual,1.2,Sedan,4,4.8,Bhavnagar,gujarat
+Toyota,Urban Cruiser,2024,1316298,917,Petrol,Automatic,2.0,Sedan,5,4.1,Surat,gujarat
+BMW,3 Series,2024,946678,5793,CNG,Manual,1.0,Sedan,4,3.7,Rajkot,gujarat
+Mercedes,C-Class,2021,781061,34847,Petrol,Manual,1.2,Sedan,4,4.4,Vadodara,gujarat
+Maruti Suzuki,Wagon R,2018,674592,35688,Petrol,Automatic,1.2,Sedan,5,4.1,Surat,gujarat
+Hyundai,Venue,2019,1132665,38244,Diesel,Automatic,1.0,Sedan,5,3.7,Rajkot,gujarat
+Renault,Kiger,2024,957781,5363,Diesel,Manual,1.5,Sedan,5,4.4,Surat,gujarat
+Mahindra,Scorpio N,2012,460801,120210,Diesel,Manual,2.2,SUV,5,4.9,Jamnagar,gujarat
+BMW,3 Series,2017,414047,96194,Petrol,Automatic,1.5,Sedan,4,3.6,Bhavnagar,gujarat
+Honda,Elevate,2023,905287,10257,Petrol,Manual,1.2,Sedan,5,4.5,Jamnagar,gujarat
+Hyundai,Venue,2020,960010,30321,Petrol,Manual,1.0,Sedan,5,3.4,Vadodara,gujarat
+Renault,Kiger,2016,525321,58554,Diesel,Manual,1.0,Sedan,5,3.1,Bhavnagar,gujarat
+Toyota,Camry,2019,960049,28324,Hybrid,Automatic,2.5,Sedan,5,3.8,Ahmedabad,gujarat
+Kia,Carnival,2014,543134,142363,Diesel,Manual,1.5,MPV,8,4.4,Bhavnagar,gujarat
+Toyota,Glanza,2021,1041971,41785,Diesel,Manual,1.5,Sedan,5,4.9,Gandhinagar,gujarat
+Ford,Figo,2014,417566,62178,Petrol,Manual,1.5,Sedan,5,4.3,Gandhinagar,gujarat
+Ford,Endeavour,2015,2369837,74333,Diesel,Manual,2.0,SUV,5,4.4,Jamnagar,gujarat
+Toyota,Glanza,2022,1101966,25974,Petrol,Manual,1.6,Sedan,5,4.7,Vadodara,gujarat
+Toyota,Camry,2021,1128577,19174,Hybrid,Automatic,2.5,Sedan,5,4.6,Bhavnagar,gujarat
+Ford,Endeavour,2021,2774270,28547,Diesel,Manual,2.0,SUV,5,3.7,Gandhinagar,gujarat
+BMW,3 Series,2024,1010345,7132,Diesel,Manual,1.5,Sedan,4,4.3,Ahmedabad,gujarat
+BMW,3 Series,2013,228128,132616,Petrol,Manual,1.2,Sedan,4,3.4,Rajkot,gujarat
+Hyundai,Verna,2013,1397316,144850,Petrol,Manual,1.5,Sedan,5,4.6,Bhavnagar,gujarat
+Mercedes,C-Class,2024,1031623,2403,Petrol,Manual,2.0,Sedan,4,4.2,Surat,gujarat
+Mahindra,Scorpio N,2017,825747,74286,Diesel,Manual,2.2,SUV,5,5.0,Bhavnagar,gujarat
+Maruti Suzuki,Dzire,2020,804237,46489,Petrol,Automatic,1.2,Sedan,5,4.4,Gandhinagar,gujarat
+Toyota,Innova Crysta,2016,2252686,44087,Diesel,Manual,2.4,MPV,7,3.8,Rajkot,gujarat
+Renault,Kwid,2022,436456,15682,Petrol,Manual,1.0,Hatchback,4,3.3,Gandhinagar,gujarat
+Mercedes,C-Class,2014,356403,51520,Diesel,Manual,1.2,Sedan,4,4.3,Surat,gujarat
+Hyundai,Creta,2021,1729169,43185,Diesel,Manual,1.5,SUV,5,4.1,Rajkot,gujarat
+Kia,Carens,2022,1173675,16088,Diesel,Manual,1.5,MPV,7,4.4,Vadodara,gujarat
+Kia,Carens,2022,1202468,11240,Petrol,Manual,1.6,MPV,7,4.9,Ahmedabad,gujarat
+Tata,Nexon EV,2022,867757,25235,Electric,Automatic,0.0,SUV,5,3.5,Jamnagar,gujarat
+Mercedes,C-Class,2022,870973,27668,Petrol,Manual,1.2,Sedan,4,4.1,Ahmedabad,gujarat
+Ford,Endeavour,2020,2723230,50751,Diesel,Manual,2.0,SUV,5,3.1,Bhavnagar,gujarat
+Honda,Elevate,2024,1030483,1006,Petrol,Manual,2.0,Sedan,5,5.0,Gandhinagar,gujarat
+BMW,3 Series,2016,353814,103538,Petrol,Manual,1.2,Sedan,4,3.5,Bhavnagar,gujarat
+Honda,Amaze,2016,808484,41861,Diesel,Automatic,1.2,Sedan,5,4.3,Vadodara,gujarat
+Tata,Safari,2022,2338202,25889,Diesel,Manual,2.0,Sedan,7,4.7,Gandhinagar,gujarat
+Kia,Carnival,2015,594695,131594,Diesel,Manual,1.5,MPV,8,4.5,Vadodara,gujarat
+Maruti Suzuki,Brezza,2016,446884,55203,Petrol,Manual,1.2,Sedan,5,4.0,Gandhinagar,gujarat
+Renault,Kwid,2018,502254,74794,Petrol,Manual,1.0,Hatchback,4,3.6,Gandhinagar,gujarat
+Ford,Endeavour,2022,2878501,20344,Diesel,Manual,2.0,SUV,5,4.9,Rajkot,gujarat
+BMW,3 Series,2017,494007,70432,Diesel,Manual,1.5,Sedan,4,3.8,Gandhinagar,gujarat
+Mercedes,C-Class,2023,896549,14645,Diesel,Manual,1.0,Sedan,4,3.6,Ahmedabad,gujarat
+Mercedes,C-Class,2013,340903,56567,Petrol,Manual,1.2,Sedan,4,3.7,Jamnagar,gujarat
+Honda,Amaze,2015,1074742,49461,Petrol,Automatic,1.2,Sedan,5,4.4,Ahmedabad,gujarat
+Hyundai,Verna,2014,1593566,99277,Diesel,Manual,1.5,Sedan,5,3.5,Rajkot,gujarat
+Mercedes,C-Class,2022,836226,24858,Diesel,Manual,1.5,Sedan,4,4.5,Vadodara,gujarat
+Honda,City,2024,965417,1212,Petrol,Manual,1.5,Sedan,5,4.9,Vadodara,gujarat
+Tata,Curvv EV,2024,960302,8056,Electric,Manual,0.0,SUV,5,3.2,Bhavnagar,gujarat
+Kia,Sonet,2021,1041926,36080,CNG,Automatic,1.0,Sedan,5,3.1,Jamnagar,gujarat
+Honda,Amaze,2012,828042,177507,Diesel,Manual,1.5,Sedan,5,3.5,Jamnagar,gujarat
+Toyota,Urban Cruiser,2021,1128747,31888,CNG,Manual,1.6,Sedan,5,4.7,Gandhinagar,gujarat
+Hyundai,Verna,2015,1505483,45433,Petrol,Manual,1.5,Sedan,5,3.8,Jamnagar,gujarat
+Mercedes,C-Class,2017,451545,79572,Diesel,Automatic,1.2,Sedan,4,4.3,Surat,gujarat
+Renault,Kwid,2018,478347,73301,Diesel,Automatic,1.0,Hatchback,4,4.0,Jamnagar,gujarat
+Ford,Figo,2015,377679,63342,Petrol,Automatic,1.5,Sedan,5,3.5,Rajkot,gujarat
+Hyundai,Verna,2022,1559876,20083,CNG,Automatic,1.5,Sedan,5,3.1,Gandhinagar,gujarat
+Maruti Suzuki,Alto,2013,524932,82745,Diesel,Automatic,1.0,Hatchback,4,4.5,Surat,gujarat
+Hyundai,i20,2023,1142796,7319,Petrol,Automatic,1.2,Hatchback,5,4.4,Surat,gujarat
+Maruti Suzuki,Baleno,2022,751009,11637,Petrol,Manual,1.2,Sedan,5,4.6,Ahmedabad,gujarat
+Hyundai,Grand i10,2021,798691,41187,Petrol,Automatic,1.2,Sedan,5,3.7,Gandhinagar,gujarat
+Mercedes,C-Class,2017,587664,50833,Diesel,Manual,1.0,Sedan,4,4.5,Bhavnagar,gujarat
+Tata,Punch EV,2024,981899,1978,Electric,Manual,0.0,Sedan,5,3.7,Surat,gujarat
+Ford,EcoSport,2021,784481,16333,Petrol,Automatic,1.5,Sedan,5,3.8,Surat,gujarat
+Maruti Suzuki,Alto,2013,397032,55832,CNG,Automatic,1.0,Hatchback,4,3.8,Gandhinagar,gujarat
+Ford,Figo,2014,314754,77021,Diesel,Manual,1.2,Sedan,5,3.5,Surat,gujarat
+BMW,3 Series,2021,852004,20898,Petrol,Automatic,1.5,Sedan,4,4.7,Vadodara,gujarat
+Toyota,Urban Cruiser,2021,1063885,33275,Petrol,Automatic,2.0,Sedan,5,3.7,Gandhinagar,gujarat
+Renault,Triber,2015,370111,105845,Diesel,Manual,1.0,MPV,7,3.2,Surat,gujarat
+Mercedes,C-Class,2019,647940,36555,Diesel,Manual,1.5,Sedan,4,3.7,Surat,gujarat
+Kia,Carens,2023,1180677,12424,Petrol,Manual,1.5,MPV,7,3.3,Ahmedabad,gujarat
+Ford,Figo,2013,301841,64287,Diesel,Manual,1.2,Sedan,5,3.8,Jamnagar,gujarat
+Mercedes,C-Class,2015,423746,59435,Petrol,Manual,1.2,Sedan,4,4.7,Rajkot,gujarat
+Mahindra,Scorpio,2019,936492,63344,Petrol,Manual,2.2,SUV,5,3.4,Vadodara,gujarat
+Tata,Curvv EV,2024,973349,5875,Electric,Manual,0.0,SUV,5,4.1,Vadodara,gujarat
+Tata,Punch,2024,739758,7513,Diesel,Manual,1.2,Sedan,5,4.6,Jamnagar,gujarat
+BMW,3 Series,2021,764107,33112,Petrol,Automatic,1.2,Sedan,4,4.7,Surat,gujarat
+BMW,3 Series,2019,614901,43295,Diesel,Automatic,1.0,Sedan,4,3.5,Rajkot,gujarat
+BMW,3 Series,2021,835196,19881,Diesel,Manual,1.0,Sedan,4,3.1,Rajkot,gujarat
+Renault,Kwid,2018,525637,64807,Diesel,Manual,1.0,Hatchback,4,4.0,Ahmedabad,gujarat
+Renault,Kwid,2023,434789,11662,Petrol,Manual,1.0,Hatchback,4,4.0,Vadodara,gujarat
+Tata,Curvv EV,2024,995786,7452,Electric,Automatic,0.0,SUV,5,3.4,Gandhinagar,gujarat
+Toyota,Urban Cruiser,2021,1096222,43193,Petrol,Automatic,2.0,Sedan,5,3.1,Rajkot,gujarat
+Honda,Elevate,2023,968324,6326,Diesel,Automatic,1.0,Sedan,5,4.0,Jamnagar,gujarat
+Toyota,Innova Crysta,2013,2287957,105194,Diesel,Manual,2.4,MPV,7,4.1,Gandhinagar,gujarat
+Mahindra,Thar,2022,1419073,17819,Diesel,Automatic,2.0,SUV,5,4.5,Gandhinagar,gujarat
+Mahindra,XUV700,2023,2186946,9380,Petrol,Manual,2.2,SUV,7,4.0,Gandhinagar,gujarat
+Hyundai,Grand i10,2023,961907,13714,Diesel,Automatic,1.2,Sedan,5,4.2,Gandhinagar,gujarat
+Mercedes,C-Class,2015,301443,105014,Petrol,Automatic,1.2,Sedan,4,4.9,Ahmedabad,gujarat
+Hyundai,Creta,2019,1155141,32341,Petrol,Automatic,1.5,SUV,5,3.6,Jamnagar,gujarat
+Renault,Kwid,2019,516355,47721,Diesel,Manual,1.0,Hatchback,4,3.0,Gandhinagar,gujarat
+Mahindra,XUV300,2022,1161961,21006,Diesel,Manual,1.6,Sedan,5,4.2,Jamnagar,gujarat
+Renault,Triber,2019,629856,55015,Diesel,Automatic,1.2,MPV,7,3.3,Vadodara,gujarat
+Mahindra,Bolero,2017,760202,72767,Petrol,Manual,1.0,Sedan,5,4.2,Surat,gujarat
+Renault,Kiger,2014,396813,72984,Diesel,Manual,1.0,Sedan,5,3.3,Ahmedabad,gujarat
+Maruti Suzuki,Wagon R,2021,686528,19144,Petrol,Manual,1.2,Sedan,5,4.3,Vadodara,gujarat
+Tata,Punch EV,2024,953311,8845,Electric,Manual,0.0,Sedan,5,3.8,Rajkot,gujarat
+Tata,Curvv EV,2024,945562,2556,Electric,Manual,0.0,SUV,5,3.7,Jamnagar,gujarat
+Honda,Amaze,2016,827114,115199,Diesel,Automatic,1.5,Sedan,5,4.4,Jamnagar,gujarat
+Ford,EcoSport,2014,244215,138867,Petrol,Manual,1.5,Sedan,5,4.7,Rajkot,gujarat
+Toyota,Innova Crysta,2017,2472465,42213,Diesel,Manual,2.4,MPV,7,3.2,Gandhinagar,gujarat
+Ford,Figo,2022,891081,12863,Petrol,Manual,1.5,Sedan,5,4.2,Ahmedabad,gujarat
+Mercedes,C-Class,2018,664842,39695,Diesel,Manual,1.2,Sedan,4,3.0,Vadodara,gujarat
+Toyota,Glanza,2022,1104481,28383,Petrol,Automatic,1.6,Sedan,5,4.6,Vadodara,gujarat
+Tata,Curvv,2024,1021962,2286,Diesel,Manual,1.6,SUV,5,5.0,Bhavnagar,gujarat
+Toyota,Innova Crysta,2021,1892744,39776,Diesel,Manual,2.4,MPV,7,4.1,Jamnagar,gujarat
+BMW,3 Series,2015,411039,69380,Petrol,Manual,1.2,Sedan,4,4.7,Vadodara,gujarat
+Ford,Figo,2023,904428,12593,Petrol,Manual,1.2,Sedan,5,3.6,Jamnagar,gujarat
+Mercedes,C-Class,2013,237282,140696,Diesel,Manual,1.2,Sedan,4,4.8,Jamnagar,gujarat
+Mahindra,Scorpio,2013,426335,155233,Petrol,Automatic,2.2,SUV,5,4.2,Bhavnagar,gujarat
+Kia,Carens,2024,1324996,7799,Diesel,Manual,2.0,MPV,7,3.0,Vadodara,gujarat
+Tata,Tiago EV,2022,861901,14788,Electric,Manual,0.0,Hatchback,5,3.3,Vadodara,gujarat
+Toyota,Urban Cruiser,2023,1225992,5798,Petrol,Manual,2.0,Sedan,5,3.4,Jamnagar,gujarat
+Tata,Punch,2022,815785,27816,Diesel,Manual,1.2,Sedan,5,4.4,Jamnagar,gujarat
+Toyota,Innova Crysta,2020,2663308,58013,Diesel,Manual,2.4,MPV,7,3.8,Surat,gujarat
+Hyundai,Creta,2017,1197569,100979,Diesel,Manual,1.5,SUV,5,3.8,Ahmedabad,gujarat
+Hyundai,Creta,2015,1326708,107851,Diesel,Manual,1.5,SUV,5,3.3,Vadodara,gujarat
+Maruti Suzuki,Brezza,2013,248870,84144,Diesel,Manual,1.0,Sedan,5,3.6,Surat,gujarat
+Tata,Punch,2024,659859,1830,Diesel,Automatic,1.2,Sedan,5,3.2,Gandhinagar,gujarat
+Mercedes,C-Class,2019,667162,32793,Petrol,Manual,1.0,Sedan,4,4.5,Gandhinagar,gujarat
+Hyundai,Verna,2015,1193757,122018,Diesel,Manual,1.5,Sedan,5,4.9,Vadodara,gujarat
+Toyota,Fortuner,2020,4195870,35848,Diesel,Automatic,2.8,SUV,7,4.4,Vadodara,gujarat
+Tata,Nexon EV,2020,725051,26467,Electric,Automatic,0.0,SUV,5,3.7,Bhavnagar,gujarat
+Tata,Curvv EV,2024,990507,2963,Electric,Manual,0.0,SUV,5,3.5,Ahmedabad,gujarat
+Toyota,Innova Crysta,2019,1942514,32229,Diesel,Manual,2.4,MPV,7,3.2,Rajkot,gujarat
+Hyundai,Grand i10,2016,428694,99892,Diesel,Manual,1.2,Sedan,5,3.5,Rajkot,gujarat
+Honda,Amaze,2015,942645,54123,Petrol,Automatic,1.2,Sedan,5,3.8,Bhavnagar,gujarat
+Mercedes,C-Class,2013,303748,73791,Petrol,Manual,1.0,Sedan,4,4.5,Surat,gujarat
+Hyundai,Venue,2020,1211930,42192,Diesel,Manual,1.5,Sedan,5,3.6,Jamnagar,gujarat
+BMW,3 Series,2024,983674,6557,Petrol,Manual,1.2,Sedan,4,5.0,Bhavnagar,gujarat
+Honda,City,2024,1028125,7448,Petrol,Manual,1.5,Sedan,5,3.2,Ahmedabad,gujarat
+Hyundai,Grand i10,2022,851474,10876,Petrol,Manual,1.0,Sedan,5,3.6,Bhavnagar,gujarat
+Hyundai,i20,2022,1215619,27037,Petrol,Manual,1.2,Hatchback,5,4.1,Gandhinagar,gujarat
+Renault,Triber,2012,154141,160134,CNG,Automatic,1.0,MPV,7,3.8,Vadodara,gujarat
+Kia,Carnival,2019,949306,27358,Petrol,Manual,1.2,MPV,8,4.8,Surat,gujarat
+Ford,Endeavour,2014,2361811,90954,Diesel,Automatic,2.0,SUV,5,4.3,Jamnagar,gujarat
+Renault,Triber,2019,661695,56189,Diesel,Manual,1.2,MPV,7,3.5,Bhavnagar,gujarat
+Kia,Carens,2023,1188050,10250,Petrol,Manual,1.6,MPV,7,4.6,Bhavnagar,gujarat
+Maruti Suzuki,Ertiga,2022,857882,21182,Petrol,Manual,1.2,MPV,7,3.8,Ahmedabad,gujarat
+Mercedes,C-Class,2015,432945,75752,Petrol,Manual,1.5,Sedan,4,3.1,Vadodara,gujarat
+Hyundai,Venue,2020,1070979,21291,Petrol,Manual,1.5,Sedan,5,3.5,Jamnagar,gujarat
+Ford,Figo,2012,199510,101486,Diesel,Manual,1.0,Sedan,5,4.6,Ahmedabad,gujarat
+Mercedes,C-Class,2017,465898,100107,Diesel,Manual,1.0,Sedan,4,4.2,Vadodara,gujarat
+Kia,Sonet,2019,876872,66644,Diesel,Manual,1.5,Sedan,5,3.1,Bhavnagar,gujarat
+Kia,Sonet,2021,1033053,39342,Diesel,Manual,1.5,Sedan,5,3.1,Gandhinagar,gujarat
+Renault,Kiger,2018,608523,43745,Diesel,Manual,1.2,Sedan,5,4.0,Vadodara,gujarat
+Kia,Carens,2022,1155730,23576,Petrol,Manual,2.0,MPV,7,3.4,Ahmedabad,gujarat
+Mercedes,C-Class,2021,764912,31357,Diesel,Automatic,1.2,Sedan,4,3.5,Jamnagar,gujarat
+Renault,Triber,2024,1010202,7106,Diesel,Manual,1.6,MPV,7,3.9,Surat,gujarat
+Tata,Tigor EV,2023,929773,12133,Electric,Automatic,0.0,Sedan,5,4.3,Gandhinagar,gujarat
+Kia,Carens,2023,1218612,7631,Diesel,Manual,1.5,MPV,7,3.3,Ahmedabad,gujarat
+Mahindra,XUV700,2024,2214637,7952,Petrol,Automatic,2.2,SUV,7,3.3,Vadodara,gujarat
+Honda,Elevate,2023,983696,5691,Petrol,Manual,1.0,Sedan,5,3.6,Vadodara,gujarat
+Hyundai,Grand i10,2017,558021,46836,CNG,Automatic,1.0,Sedan,5,3.5,Bhavnagar,gujarat
+Renault,Kwid,2020,466009,58038,Petrol,Manual,1.0,Hatchback,4,4.5,Vadodara,gujarat
+Toyota,Camry,2023,1275090,11388,Hybrid,Automatic,2.5,Sedan,5,3.4,Vadodara,gujarat
+Ford,Endeavour,2016,2322330,117264,Diesel,Manual,2.0,SUV,5,3.9,Surat,gujarat
+Honda,City,2017,1285602,97288,Diesel,Manual,1.5,Sedan,5,4.4,Gandhinagar,gujarat
+Mercedes,C-Class,2016,375422,112447,Petrol,Automatic,1.2,Sedan,4,4.8,Jamnagar,gujarat
+Hyundai,Verna,2015,1008248,102986,CNG,Manual,1.5,Sedan,5,4.9,Gandhinagar,gujarat
+Mahindra,XUV700,2022,1965183,15250,Diesel,Automatic,2.2,SUV,7,4.7,Gandhinagar,gujarat
+Ford,Endeavour,2023,2919610,11765,Diesel,Automatic,2.0,SUV,5,4.0,Vadodara,gujarat
+Kia,Carens,2023,1288873,5448,Petrol,Manual,1.6,MPV,7,4.6,Surat,gujarat
+Maruti Suzuki,Alto,2015,432240,127352,Diesel,Manual,1.0,Hatchback,4,4.7,Jamnagar,gujarat
+Kia,Carens,2023,1270360,12837,Petrol,Manual,1.6,MPV,7,4.6,Surat,gujarat
+Hyundai,Grand i10,2017,533576,58840,Diesel,Automatic,1.5,Sedan,5,3.4,Ahmedabad,gujarat
+Renault,Triber,2021,758977,35533,CNG,Automatic,1.0,MPV,7,3.5,Gandhinagar,gujarat
+Tata,Nexon,2023,1122795,12027,Petrol,Automatic,1.2,SUV,5,3.0,Bhavnagar,gujarat
+Kia,Carnival,2022,1113533,26192,Petrol,Manual,1.6,MPV,8,4.5,Rajkot,gujarat
+Tata,Curvv,2024,958254,9831,CNG,Manual,1.5,SUV,5,3.4,Surat,gujarat
+Kia,Sonet,2012,488314,98036,Petrol,Manual,1.5,Sedan,5,4.2,Jamnagar,gujarat
+Ford,EcoSport,2012,167459,121457,Diesel,Automatic,1.2,Sedan,5,4.4,Jamnagar,gujarat
+Kia,Carnival,2023,1203584,14784,Petrol,Manual,1.6,MPV,8,4.9,Rajkot,gujarat
+Toyota,Camry,2022,1184004,29602,Hybrid,Manual,2.5,Sedan,5,3.6,Rajkot,gujarat
+Mercedes,C-Class,2014,208390,123342,Diesel,Manual,1.5,Sedan,4,4.0,Vadodara,gujarat
+Ford,EcoSport,2013,300094,96591,Diesel,Manual,1.0,Sedan,5,3.6,Surat,gujarat
+Ford,Endeavour,2023,2934372,10907,Diesel,Automatic,2.0,SUV,5,3.9,Surat,gujarat
+Toyota,Urban Cruiser,2022,1180169,28208,Diesel,Manual,1.5,Sedan,5,3.1,Surat,gujarat
+Maruti Suzuki,Alto,2016,472456,61437,Petrol,Automatic,1.0,Hatchback,4,3.9,Jamnagar,gujarat
+Renault,Kiger,2019,599744,57308,Diesel,Automatic,1.0,Sedan,5,3.7,Surat,gujarat
+Honda,City,2014,1186042,148295,Diesel,Manual,1.5,Sedan,5,4.1,Bhavnagar,gujarat
+Tata,Curvv,2024,1007288,4033,Diesel,Automatic,1.6,SUV,5,4.4,Jamnagar,gujarat
+Hyundai,Grand i10,2017,544406,48902,Petrol,Manual,1.5,Sedan,5,4.3,Rajkot,gujarat
+Mercedes,C-Class,2021,727760,36561,Petrol,Manual,1.5,Sedan,4,4.9,Vadodara,gujarat
+BMW,3 Series,2015,481363,51380,Petrol,Automatic,1.5,Sedan,4,3.1,Bhavnagar,gujarat
+Kia,Seltos,2022,1136332,18361,Petrol,Automatic,1.5,Sedan,5,4.7,Surat,gujarat
+Kia,Carnival,2016,745807,60202,Petrol,Automatic,1.5,MPV,8,4.6,Vadodara,gujarat
+Mercedes,C-Class,2017,553163,47597,Diesel,Manual,1.2,Sedan,4,4.0,Bhavnagar,gujarat
+BMW,3 Series,2013,205382,154154,Diesel,Manual,1.2,Sedan,4,4.3,Ahmedabad,gujarat
+Maruti Suzuki,Dzire,2017,767561,95755,Diesel,Automatic,1.2,Sedan,5,3.6,Rajkot,gujarat
+Hyundai,Grand i10,2016,447749,59478,Diesel,Manual,1.0,Sedan,5,4.0,Vadodara,gujarat
+BMW,3 Series,2020,705910,25015,Diesel,Manual,1.2,Sedan,4,3.2,Jamnagar,gujarat
+BMW,3 Series,2017,539751,68405,Petrol,Manual,1.0,Sedan,4,4.5,Rajkot,gujarat
+Tata,Tiago,2018,609117,32966,Diesel,Manual,1.2,Hatchback,5,4.5,Rajkot,gujarat
+BMW,3 Series,2017,508665,59535,Petrol,Automatic,1.5,Sedan,4,3.5,Jamnagar,gujarat
+Hyundai,Grand i10,2020,708766,21174,Petrol,Manual,1.5,Sedan,5,4.0,Jamnagar,gujarat
+Kia,Carnival,2016,765526,87281,Diesel,Manual,1.2,MPV,8,4.6,Ahmedabad,gujarat
+Tata,Tiago,2012,713901,85008,Petrol,Automatic,1.2,Hatchback,5,4.0,Surat,gujarat
+Mercedes,C-Class,2018,562058,85187,Diesel,Manual,1.0,Sedan,4,3.6,Rajkot,gujarat
+Tata,Curvv EV,2024,964264,357,Electric,Manual,0.0,SUV,5,3.9,Rajkot,gujarat
+Ford,EcoSport,2019,604801,63353,Petrol,Manual,1.2,Sedan,5,3.1,Ahmedabad,gujarat
+Hyundai,Exter,2024,1000972,6810,Diesel,Manual,1.6,Sedan,5,3.1,Rajkot,gujarat
+Ford,Figo,2021,803149,38744,CNG,Automatic,1.2,Sedan,5,3.5,Ahmedabad,gujarat
+Renault,Kwid,2018,545032,67775,Petrol,Automatic,1.0,Hatchback,4,3.2,Bhavnagar,gujarat
+Mercedes,C-Class,2019,616177,70712,Petrol,Manual,1.0,Sedan,4,3.9,Rajkot,gujarat
+Mahindra,XUV300,2015,645780,122025,Petrol,Manual,1.5,Sedan,5,4.3,Surat,gujarat
+Honda,Elevate,2024,1024225,6829,Diesel,Manual,1.5,Sedan,5,4.2,Vadodara,gujarat
+Hyundai,Exter,2024,968713,2115,Petrol,Manual,1.0,Sedan,5,4.6,Rajkot,gujarat
+Honda,City,2015,919011,117984,Petrol,Manual,1.5,Sedan,5,3.3,Gandhinagar,gujarat
+Renault,Kwid,2024,512884,1043,Petrol,Manual,1.0,Hatchback,4,4.0,Vadodara,gujarat
+Toyota,Innova Crysta,2024,2739857,9126,Diesel,Manual,2.4,MPV,7,4.4,Rajkot,gujarat
+Ford,EcoSport,2013,230028,157452,Diesel,Automatic,1.0,Sedan,5,4.6,Ahmedabad,gujarat
+Renault,Kwid,2014,453840,132565,CNG,Manual,1.0,Hatchback,4,4.5,Rajkot,gujarat
+Hyundai,Creta,2020,1128957,41928,Diesel,Manual,1.5,SUV,5,4.7,Rajkot,gujarat
+Toyota,Glanza,2023,1195171,7805,Petrol,Automatic,1.6,Sedan,5,4.3,Surat,gujarat
+Tata,Nexon EV,2023,901087,8738,Electric,Manual,0.0,SUV,5,4.8,Gandhinagar,gujarat
+Renault,Triber,2017,580009,38901,Petrol,Manual,1.5,MPV,7,4.9,Ahmedabad,gujarat
+Toyota,Glanza,2022,1175894,15384,Petrol,Automatic,2.0,Sedan,5,3.3,Bhavnagar,gujarat
+Maruti Suzuki,Brezza,2023,911761,13516,Petrol,Automatic,1.5,Sedan,5,4.1,Vadodara,gujarat
+Toyota,Glanza,2019,982178,43335,Diesel,Manual,1.2,Sedan,5,3.9,Surat,gujarat
+Renault,Triber,2024,1027418,7244,Petrol,Automatic,1.6,MPV,7,4.6,Vadodara,gujarat
+Hyundai,i20,2020,1180160,41921,Diesel,Automatic,1.2,Hatchback,5,3.4,Bhavnagar,gujarat
+Renault,Kiger,2020,764227,42328,Diesel,Manual,1.5,Sedan,5,4.2,Surat,gujarat
+Honda,Elevate,2024,947475,8278,Diesel,Automatic,1.2,Sedan,5,4.3,Vadodara,gujarat
+Hyundai,i20,2024,956217,2043,Diesel,Manual,1.2,Hatchback,5,4.6,Bhavnagar,gujarat
+BMW,3 Series,2017,489294,74216,Diesel,Automatic,1.5,Sedan,4,4.3,Jamnagar,gujarat
+Kia,Sonet,2013,571692,97971,Diesel,Automatic,1.5,Sedan,5,3.2,Jamnagar,gujarat
+Kia,Carnival,2013,574151,67091,Petrol,Manual,1.0,MPV,8,3.9,Vadodara,gujarat
+Mercedes,C-Class,2021,801019,33316,Diesel,Automatic,1.5,Sedan,4,4.0,Rajkot,gujarat
+Ford,Figo,2019,608646,72953,Diesel,Manual,1.0,Sedan,5,4.0,Rajkot,gujarat
+Tata,Nexon EV,2024,1037025,1934,Electric,Manual,0.0,SUV,5,4.9,Vadodara,gujarat
+Hyundai,Verna,2018,1387538,37230,Diesel,Manual,1.5,Sedan,5,3.6,Vadodara,gujarat
+Honda,Amaze,2019,824522,26833,Diesel,Manual,1.5,Sedan,5,3.4,Gandhinagar,gujarat
+Ford,EcoSport,2013,195698,126766,Petrol,Manual,1.2,Sedan,5,4.1,Bhavnagar,gujarat
+Ford,Endeavour,2024,3000289,6181,Diesel,Automatic,2.0,SUV,5,4.5,Jamnagar,gujarat
+Ford,EcoSport,2023,890706,10328,Diesel,Manual,1.2,Sedan,5,3.8,Rajkot,gujarat
+Toyota,Camry,2012,412077,147876,Hybrid,Manual,2.5,Sedan,5,4.1,Gandhinagar,gujarat
+Honda,Elevate,2023,883161,14164,Petrol,Manual,1.5,Sedan,5,4.5,Bhavnagar,gujarat
+Renault,Kwid,2024,404892,7796,Petrol,Automatic,1.0,Hatchback,4,3.5,Surat,gujarat
+Mahindra,Scorpio N,2021,1052094,29556,Diesel,Manual,2.0,SUV,5,4.0,Ahmedabad,gujarat
+Toyota,Urban Cruiser,2022,1106153,23596,Diesel,Manual,1.5,Sedan,5,3.2,Ahmedabad,gujarat
+Renault,Kwid,2016,466992,58878,Diesel,Manual,1.0,Hatchback,4,3.1,Vadodara,gujarat
+Tata,Nexon,2017,953540,74062,Petrol,Manual,1.2,SUV,5,3.8,Gandhinagar,gujarat
+Hyundai,i20,2015,1113002,76407,Diesel,Manual,1.2,Hatchback,5,3.5,Vadodara,gujarat
+Ford,Figo,2018,644461,34289,Petrol,Manual,1.0,Sedan,5,3.5,Bhavnagar,gujarat
+Mercedes,C-Class,2015,350400,117706,Diesel,Manual,1.2,Sedan,4,3.9,Gandhinagar,gujarat
+Mercedes,C-Class,2024,993929,2332,Diesel,Manual,1.0,Sedan,4,4.1,Rajkot,gujarat
+Renault,Kiger,2012,290902,60131,CNG,Manual,1.5,Sedan,5,4.9,Ahmedabad,gujarat
+Maruti Suzuki,Alto,2016,528257,118363,Petrol,Manual,1.0,Hatchback,4,4.2,Bhavnagar,gujarat
+Honda,City,2014,1490433,146886,Petrol,Manual,1.5,Sedan,5,4.5,Vadodara,gujarat
+Kia,Sonet,2021,1078720,31541,Diesel,Automatic,1.5,Sedan,5,3.5,Jamnagar,gujarat
+Toyota,Glanza,2020,1028579,50133,Petrol,Automatic,2.0,Sedan,5,4.8,Bhavnagar,gujarat
+Ford,EcoSport,2012,172745,148172,Petrol,Automatic,1.5,Sedan,5,4.0,Rajkot,gujarat
+Renault,Kwid,2024,408112,1270,Diesel,Automatic,1.0,Hatchback,4,3.7,Gandhinagar,gujarat
+Kia,Carens,2023,1275361,7903,CNG,Manual,1.5,MPV,7,3.9,Surat,gujarat
+Maruti Suzuki,Ertiga,2016,401101,86900,Petrol,Manual,1.2,MPV,7,4.6,Surat,gujarat
+Mahindra,Bolero,2017,856799,39822,Petrol,Automatic,1.5,Sedan,5,3.4,Surat,gujarat
+Mercedes,C-Class,2013,291593,91352,Diesel,Manual,1.0,Sedan,4,4.3,Bhavnagar,gujarat
+Mercedes,C-Class,2013,166809,132091,Diesel,Manual,1.5,Sedan,4,4.7,Bhavnagar,gujarat
+Honda,City,2022,1458829,10757,Diesel,Manual,1.5,Sedan,5,4.3,Jamnagar,gujarat
+Maruti Suzuki,Ertiga,2017,470330,91694,Petrol,Manual,1.2,MPV,7,4.0,Bhavnagar,gujarat
+Maruti Suzuki,Brezza,2015,434429,51155,CNG,Manual,1.2,Sedan,5,3.0,Surat,gujarat
+Toyota,Innova Crysta,2021,2573266,41465,Diesel,Manual,2.4,MPV,7,3.3,Vadodara,gujarat
+Hyundai,Exter,2023,951910,5456,Petrol,Manual,1.5,Sedan,5,4.9,Gandhinagar,gujarat
+Honda,City,2013,1257356,117072,Diesel,Automatic,1.5,Sedan,5,4.6,Bhavnagar,gujarat
+Ford,EcoSport,2022,876882,24629,Petrol,Automatic,1.0,Sedan,5,3.8,Gandhinagar,gujarat
+Hyundai,Creta,2015,1316115,102923,Diesel,Manual,1.5,SUV,5,4.1,Vadodara,gujarat
+Kia,Carnival,2013,526561,135911,Petrol,Automatic,1.5,MPV,8,4.2,Rajkot,gujarat
+Kia,Carnival,2024,1317292,7014,Diesel,Manual,1.5,MPV,8,3.9,Vadodara,gujarat
+BMW,3 Series,2013,264610,68459,Diesel,Manual,1.0,Sedan,4,4.8,Surat,gujarat
+Mercedes,C-Class,2017,483097,90182,Diesel,Manual,1.0,Sedan,4,3.3,Ahmedabad,gujarat
+Maruti Suzuki,Baleno,2016,969025,116614,CNG,Automatic,1.2,Sedan,5,3.3,Vadodara,gujarat
+BMW,3 Series,2016,374059,88343,Diesel,Manual,1.0,Sedan,4,3.1,Bhavnagar,gujarat
+Renault,Kwid,2018,452526,52532,Diesel,Manual,1.0,Hatchback,4,3.4,Rajkot,gujarat
+Ford,Figo,2023,954813,10425,Diesel,Manual,1.2,Sedan,5,3.8,Surat,gujarat
+Hyundai,Grand i10,2024,1014002,691,Petrol,Manual,2.0,Sedan,5,3.5,Bhavnagar,gujarat
+Mahindra,Thar,2023,1694172,10431,Petrol,Manual,2.0,SUV,5,3.1,Ahmedabad,gujarat
+Renault,Kwid,2014,450961,88086,Diesel,Automatic,1.0,Hatchback,4,5.0,Surat,gujarat
+Mahindra,XUV700,2022,1665501,17174,Petrol,Manual,2.0,SUV,7,3.4,Vadodara,gujarat
+Hyundai,i20,2022,1143340,14497,Diesel,Manual,1.2,Hatchback,5,3.5,Gandhinagar,gujarat
+Toyota,Fortuner,2020,3137106,48424,Diesel,Automatic,2.8,SUV,7,4.1,Jamnagar,gujarat
+Toyota,Glanza,2023,1259380,12037,Petrol,Manual,2.0,Sedan,5,3.4,Bhavnagar,gujarat
+Honda,City,2017,1193678,67397,Diesel,Automatic,1.5,Sedan,5,4.5,Gandhinagar,gujarat
+Ford,Figo,2021,787945,17125,Diesel,Automatic,1.5,Sedan,5,4.5,Vadodara,gujarat
+Ford,Figo,2019,669182,36730,Diesel,Manual,1.2,Sedan,5,4.4,Rajkot,gujarat
+Ford,Endeavour,2021,2827637,28138,Diesel,Manual,2.0,SUV,5,4.8,Rajkot,gujarat
+Mahindra,Bolero,2015,685708,85107,Diesel,Manual,1.2,Sedan,5,3.5,Ahmedabad,gujarat
+Tata,Punch,2023,834326,12282,Petrol,Manual,1.2,Sedan,5,3.9,Rajkot,gujarat
+Kia,Carnival,2017,741552,100213,Petrol,Manual,1.2,MPV,8,3.5,Jamnagar,gujarat
+Hyundai,Venue,2019,1168850,44301,Diesel,Manual,1.0,Sedan,5,3.2,Vadodara,gujarat
+Maruti Suzuki,Dzire,2015,822617,88746,Petrol,Automatic,1.2,Sedan,5,3.4,Bhavnagar,gujarat
+Tata,Nexon EV,2022,868252,10279,Electric,Manual,0.0,SUV,5,4.9,Gandhinagar,gujarat
+BMW,3 Series,2019,631193,67866,CNG,Automatic,1.2,Sedan,4,3.5,Jamnagar,gujarat
+Mahindra,Bolero,2015,651939,112610,Diesel,Automatic,1.5,Sedan,5,4.6,Vadodara,gujarat
+Hyundai,Venue,2020,1118988,48101,Petrol,Manual,1.5,Sedan,5,3.3,Gandhinagar,gujarat
+Tata,Safari,2021,2374825,31377,Diesel,Manual,2.0,Sedan,7,4.5,Jamnagar,gujarat
+Renault,Kiger,2017,598393,38046,Diesel,Automatic,1.0,Sedan,5,5.0,Vadodara,gujarat
+BMW,3 Series,2018,614201,43382,Petrol,Manual,1.2,Sedan,4,3.2,Bhavnagar,gujarat
+Ford,Figo,2016,468468,52221,Petrol,Manual,1.0,Sedan,5,4.7,Bhavnagar,gujarat
+Ford,EcoSport,2014,307108,76083,CNG,Manual,1.0,Sedan,5,3.5,Jamnagar,gujarat
+Renault,Kwid,2019,535929,28765,Petrol,Manual,1.0,Hatchback,4,3.3,Ahmedabad,gujarat
+Tata,Nexon EV,2023,971405,12835,Electric,Automatic,0.0,SUV,5,3.3,Surat,gujarat
+Honda,Amaze,2023,1066517,12778,Diesel,Manual,1.5,Sedan,5,3.6,Ahmedabad,gujarat
+Tata,Curvv EV,2024,1016278,6541,Electric,Manual,0.0,SUV,5,3.9,Bhavnagar,gujarat
+Maruti Suzuki,Brezza,2013,299711,92737,Diesel,Manual,1.5,Sedan,5,4.7,Gandhinagar,gujarat
+Honda,Amaze,2021,967607,41982,Petrol,Automatic,1.5,Sedan,5,3.9,Jamnagar,gujarat
+Tata,Tiago EV,2022,895572,22895,Electric,Manual,0.0,Hatchback,5,3.5,Jamnagar,gujarat
+Renault,Kiger,2022,917494,12187,Diesel,Automatic,1.2,Sedan,5,3.8,Gandhinagar,gujarat
+Renault,Kwid,2017,427583,45031,Diesel,Automatic,1.0,Hatchback,4,3.3,Surat,gujarat
+Renault,Kwid,2019,567475,26750,Diesel,Automatic,1.0,Hatchback,4,4.5,Gandhinagar,gujarat
+Mahindra,Bolero,2012,559847,61407,Petrol,Automatic,1.2,Sedan,5,4.3,Rajkot,gujarat
+Ford,Endeavour,2013,2339883,65819,Diesel,Automatic,2.0,SUV,5,4.6,Gandhinagar,gujarat
+Tata,Tiago,2012,546461,139559,Petrol,Manual,1.2,Hatchback,5,3.2,Gandhinagar,gujarat
+Maruti Suzuki,Brezza,2016,487757,60119,Petrol,Manual,1.0,Sedan,5,4.8,Bhavnagar,gujarat
+Mahindra,Bolero,2023,1271203,5782,Diesel,Manual,2.0,Sedan,5,4.8,Rajkot,gujarat
+Honda,Amaze,2012,775514,138407,Diesel,Automatic,1.5,Sedan,5,4.8,Surat,gujarat
+Hyundai,i20,2018,976746,31831,Diesel,Manual,1.2,Hatchback,5,4.9,Ahmedabad,gujarat
+Mercedes,C-Class,2023,890768,7736,Petrol,Manual,1.2,Sedan,4,3.6,Jamnagar,gujarat
+Mahindra,XUV300,2015,619781,116002,CNG,Manual,1.0,Sedan,5,3.2,Vadodara,gujarat
+Tata,Nexon,2023,1258091,10181,Petrol,Manual,1.2,SUV,5,3.1,Surat,gujarat
+Kia,Carens,2024,1247344,8185,Diesel,Automatic,1.5,MPV,7,3.5,Ahmedabad,gujarat
+BMW,3 Series,2022,893853,22732,CNG,Automatic,1.0,Sedan,4,3.7,Jamnagar,gujarat
+Toyota,Urban Cruiser,2021,1050313,25980,Diesel,Manual,2.0,Sedan,5,4.3,Surat,gujarat
+Renault,Triber,2023,920488,5217,Petrol,Automatic,1.0,MPV,7,3.6,Jamnagar,gujarat
+Kia,Sonet,2021,1072854,17601,Petrol,Manual,1.5,Sedan,5,3.4,Ahmedabad,gujarat
+Mahindra,Scorpio N,2021,1137895,29540,Diesel,Manual,2.0,SUV,5,4.0,Rajkot,gujarat
+Mercedes,C-Class,2024,979016,388,Diesel,Manual,1.0,Sedan,4,3.4,Ahmedabad,gujarat
+Mercedes,C-Class,2024,1022700,3644,Diesel,Manual,1.6,Sedan,4,4.3,Ahmedabad,gujarat
+Ford,EcoSport,2015,479147,51829,CNG,Automatic,1.0,Sedan,5,3.2,Bhavnagar,gujarat
+Renault,Kwid,2015,511736,111509,Diesel,Manual,1.0,Hatchback,4,3.5,Surat,gujarat
+BMW,3 Series,2016,470552,77401,Petrol,Manual,1.2,Sedan,4,4.7,Rajkot,gujarat
+Hyundai,Venue,2022,1146789,22377,Petrol,Manual,1.0,Sedan,5,4.6,Gandhinagar,gujarat
+Ford,EcoSport,2024,994019,6249,Diesel,Automatic,1.2,Sedan,5,4.2,Surat,gujarat
+Renault,Triber,2014,332866,83723,Petrol,Manual,1.2,MPV,7,4.1,Rajkot,gujarat
+Hyundai,Venue,2020,981120,50753,CNG,Manual,1.5,Sedan,5,4.0,Rajkot,gujarat
+Kia,Carens,2023,1214345,13020,Diesel,Manual,1.5,MPV,7,5.0,Ahmedabad,gujarat
+Kia,Sonet,2015,629457,102186,Diesel,Automatic,1.5,Sedan,5,4.3,Vadodara,gujarat
+Maruti Suzuki,Brezza,2018,630424,57789,Petrol,Manual,1.2,Sedan,5,4.3,Jamnagar,gujarat
+Maruti Suzuki,Brezza,2022,854253,14845,Diesel,Automatic,1.0,Sedan,5,3.5,Bhavnagar,gujarat
+BMW,3 Series,2012,211098,75300,Diesel,Automatic,1.2,Sedan,4,4.4,Ahmedabad,gujarat
+Renault,Kwid,2018,466288,40867,Diesel,Manual,1.0,Hatchback,4,4.2,Jamnagar,gujarat
+Kia,Seltos,2019,942053,66692,Diesel,Manual,1.5,Sedan,5,4.5,Jamnagar,gujarat
+Kia,Carens,2022,1183451,15518,Petrol,Manual,1.6,MPV,7,4.0,Jamnagar,gujarat
+Honda,Elevate,2024,967121,2795,Petrol,Automatic,1.0,Sedan,5,4.0,Bhavnagar,gujarat
+Hyundai,Grand i10,2021,744862,41685,Petrol,Manual,1.0,Sedan,5,4.6,Surat,gujarat
+Honda,Amaze,2019,807249,66080,Diesel,Manual,1.2,Sedan,5,3.8,Vadodara,gujarat
+Hyundai,Venue,2019,1150555,63380,Petrol,Automatic,1.5,Sedan,5,4.5,Ahmedabad,gujarat
+Mercedes,C-Class,2013,303463,82665,Diesel,Manual,1.5,Sedan,4,5.0,Gandhinagar,gujarat
+Honda,Amaze,2019,1066864,74604,Petrol,Manual,1.2,Sedan,5,4.9,Jamnagar,gujarat
+Kia,Carnival,2021,1112665,16875,Diesel,Automatic,1.6,MPV,8,4.7,Rajkot,gujarat
+Tata,Nexon,2018,1143042,86951,CNG,Automatic,1.2,SUV,5,4.2,Jamnagar,gujarat
+Ford,Figo,2018,527633,73268,Petrol,Manual,1.2,Sedan,5,3.0,Vadodara,gujarat
+Maruti Suzuki,Ertiga,2023,967857,10333,Petrol,Manual,1.2,MPV,7,4.5,Gandhinagar,gujarat
+Hyundai,Venue,2022,1349367,25601,Diesel,Manual,1.0,Sedan,5,4.4,Gandhinagar,gujarat
+Renault,Triber,2024,937160,8267,Petrol,Automatic,1.2,MPV,7,4.7,Bhavnagar,gujarat
+Ford,EcoSport,2019,698198,32581,Diesel,Manual,1.0,Sedan,5,3.3,Jamnagar,gujarat
+Hyundai,i20,2018,884009,76908,CNG,Manual,1.2,Hatchback,5,3.4,Vadodara,gujarat
+Mercedes,C-Class,2022,909225,14033,Petrol,Manual,1.5,Sedan,4,4.0,Gandhinagar,gujarat
+Toyota,Fortuner,2021,3135616,40111,Diesel,Manual,2.8,SUV,7,4.3,Gandhinagar,gujarat
+Renault,Kiger,2024,971301,3823,Petrol,Manual,1.0,Sedan,5,3.2,Jamnagar,gujarat
+BMW,3 Series,2023,961083,6902,Petrol,Automatic,1.2,Sedan,4,4.2,Ahmedabad,gujarat
+Honda,City,2021,1307000,32550,CNG,Manual,1.5,Sedan,5,4.0,Bhavnagar,gujarat
+BMW,3 Series,2013,187204,106814,Diesel,Manual,1.0,Sedan,4,4.6,Vadodara,gujarat
+Mahindra,Bolero,2022,1119323,24935,Diesel,Manual,2.0,Sedan,5,3.1,Vadodara,gujarat
+Honda,Elevate,2023,973605,9480,Diesel,Manual,1.0,Sedan,5,4.0,Jamnagar,gujarat
+Kia,Seltos,2021,1153947,20003,Petrol,Automatic,1.5,Sedan,5,4.8,Gandhinagar,gujarat
+Tata,Curvv EV,2024,1026409,4900,Electric,Manual,0.0,SUV,5,3.8,Rajkot,gujarat
+Mercedes,C-Class,2017,478257,86296,Petrol,Automatic,1.2,Sedan,4,4.4,Surat,gujarat
+Renault,Kiger,2013,298391,72157,Diesel,Manual,1.0,Sedan,5,4.7,Jamnagar,gujarat
+Honda,Amaze,2022,822121,15363,Petrol,Manual,1.2,Sedan,5,3.4,Jamnagar,gujarat
+Mahindra,Scorpio N,2022,1176477,10299,Diesel,Manual,2.2,SUV,5,4.9,Rajkot,gujarat
+Mercedes,C-Class,2012,251607,72589,CNG,Manual,1.0,Sedan,4,3.2,Bhavnagar,gujarat
+Mercedes,C-Class,2021,761473,29215,Diesel,Manual,1.0,Sedan,4,3.2,Rajkot,gujarat
+Ford,Endeavour,2023,2892608,14767,Diesel,Manual,2.0,SUV,5,4.6,Gandhinagar,gujarat
+Mercedes,C-Class,2016,401145,98342,Petrol,Manual,1.0,Sedan,4,4.0,Jamnagar,gujarat
+Renault,Kwid,2012,550111,136919,Petrol,Manual,1.0,Hatchback,4,3.8,Jamnagar,gujarat
+Kia,Carens,2024,1259033,2051,Petrol,Automatic,1.5,MPV,7,3.8,Jamnagar,gujarat
+Maruti Suzuki,Alto,2020,478073,55154,Petrol,Automatic,1.0,Hatchback,4,4.5,Surat,gujarat
+Mercedes,C-Class,2014,284123,128525,Petrol,Manual,1.2,Sedan,4,3.2,Surat,gujarat
+BMW,3 Series,2022,830510,15282,Diesel,Automatic,1.0,Sedan,4,3.2,Ahmedabad,gujarat
+Renault,Kiger,2017,540450,57492,CNG,Manual,1.0,Sedan,5,3.6,Bhavnagar,gujarat
+Honda,Elevate,2024,1020637,2291,Petrol,Manual,2.0,Sedan,5,4.1,Surat,gujarat
+Hyundai,Exter,2023,886814,8884,Petrol,Manual,1.0,Sedan,5,4.9,Bhavnagar,gujarat
+Renault,Kwid,2021,433683,26765,Diesel,Manual,1.0,Hatchback,4,3.5,Jamnagar,gujarat
+Tata,Curvv,2024,980315,1364,Diesel,Automatic,1.0,SUV,5,4.1,Ahmedabad,gujarat
+Mercedes,C-Class,2022,910643,16312,Petrol,Manual,1.5,Sedan,4,4.2,Rajkot,gujarat
+Tata,Punch EV,2024,941396,6208,Electric,Manual,0.0,Sedan,5,3.2,Ahmedabad,gujarat
+Mercedes,C-Class,2013,287909,98169,Petrol,Automatic,1.2,Sedan,4,3.3,Gandhinagar,gujarat
+Mahindra,XUV700,2021,1766040,18209,Petrol,Manual,2.2,SUV,7,4.2,Gandhinagar,gujarat
+Ford,EcoSport,2020,755810,42865,Diesel,Manual,1.2,Sedan,5,4.2,Ahmedabad,gujarat
+Tata,Punch EV,2024,989242,2960,Electric,Manual,0.0,Sedan,5,4.1,Gandhinagar,gujarat
+Kia,Carnival,2021,1095955,19180,Petrol,Manual,2.0,MPV,8,3.3,Rajkot,gujarat
+BMW,3 Series,2012,233780,155082,CNG,Automatic,1.0,Sedan,4,4.4,Rajkot,gujarat
+Ford,EcoSport,2019,665428,48199,Diesel,Manual,1.2,Sedan,5,4.0,Jamnagar,gujarat
+Mahindra,XUV700,2021,1955856,25015,Diesel,Manual,2.0,SUV,7,4.9,Surat,gujarat
+BMW,3 Series,2013,187467,152440,Diesel,Manual,1.0,Sedan,4,4.9,Rajkot,gujarat
+Mercedes,C-Class,2019,652503,57624,Diesel,Manual,1.5,Sedan,4,4.4,Rajkot,gujarat
+Maruti Suzuki,Dzire,2015,872811,45955,Diesel,Automatic,1.2,Sedan,5,4.2,Surat,gujarat
+Mercedes,C-Class,2014,378110,59846,Diesel,Manual,1.0,Sedan,4,3.8,Rajkot,gujarat
+Tata,Punch EV,2024,1028006,5537,Electric,Manual,0.0,Sedan,5,3.6,Vadodara,gujarat
+Honda,City,2012,1496474,156734,Petrol,Automatic,1.5,Sedan,5,4.9,Bhavnagar,gujarat
+Ford,EcoSport,2017,608678,35772,Petrol,Manual,1.0,Sedan,5,3.0,Jamnagar,gujarat
+Tata,Curvv,2024,963282,145,Petrol,Manual,1.5,SUV,5,4.0,Surat,gujarat
+Kia,Seltos,2022,1150398,10226,Diesel,Manual,1.5,Sedan,5,3.6,Rajkot,gujarat
+Tata,Nexon EV,2022,880484,13561,Electric,Manual,0.0,SUV,5,3.7,Rajkot,gujarat
+Maruti Suzuki,Wagon R,2023,649387,8251,Petrol,Manual,1.2,Sedan,5,4.8,Surat,gujarat
+Mercedes,C-Class,2019,597838,68597,Petrol,Manual,1.2,Sedan,4,4.6,Jamnagar,gujarat
+Tata,Punch EV,2024,1029157,8222,Electric,Automatic,0.0,Sedan,5,3.2,Ahmedabad,gujarat
+Maruti Suzuki,Baleno,2014,707155,95104,Diesel,Manual,1.2,Sedan,5,3.9,Bhavnagar,gujarat
+Maruti Suzuki,Alto,2019,477383,43970,Petrol,Manual,1.0,Hatchback,4,4.5,Surat,gujarat
+Mahindra,XUV700,2021,1818739,43317,Diesel,Manual,2.0,SUV,7,4.4,Bhavnagar,gujarat
+BMW,3 Series,2015,337432,122489,Diesel,Manual,1.0,Sedan,4,3.8,Vadodara,gujarat
+Mahindra,Thar,2023,1509341,5289,Petrol,Manual,2.2,SUV,5,4.4,Surat,gujarat
+Mahindra,XUV700,2024,2369261,7851,Petrol,Manual,2.2,SUV,7,3.6,Vadodara,gujarat
+Kia,Sonet,2017,841822,41233,Petrol,Manual,1.5,Sedan,5,3.4,Rajkot,gujarat
+Honda,Elevate,2023,900227,12059,Petrol,Manual,1.2,Sedan,5,3.6,Ahmedabad,gujarat
+Mercedes,C-Class,2022,811079,28080,Petrol,Automatic,1.2,Sedan,4,4.5,Bhavnagar,gujarat
+Renault,Triber,2017,553229,66228,Petrol,Manual,1.0,MPV,7,4.8,Surat,gujarat
+Mercedes,C-Class,2012,235767,136881,Diesel,Manual,1.2,Sedan,4,4.9,Ahmedabad,gujarat
+Renault,Triber,2017,546073,74515,Petrol,Automatic,1.5,MPV,7,4.4,Ahmedabad,gujarat
+Tata,Harrier,2022,1664792,28038,Diesel,Automatic,2.0,Sedan,5,3.9,Jamnagar,gujarat
+Hyundai,Grand i10,2013,217919,118284,Diesel,Automatic,1.0,Sedan,5,3.3,Vadodara,gujarat
+Tata,Safari,2021,2332978,33552,Diesel,Manual,2.0,Sedan,7,3.3,Gandhinagar,gujarat
+Renault,Kiger,2020,711540,45575,Diesel,Manual,1.0,Sedan,5,3.3,Surat,gujarat
+BMW,3 Series,2024,992695,8401,Diesel,Automatic,1.2,Sedan,4,3.6,Surat,gujarat
+Honda,Elevate,2024,947611,9046,Petrol,Manual,1.0,Sedan,5,3.6,Jamnagar,gujarat
+Tata,Safari,2022,2173618,18861,Diesel,Automatic,2.0,Sedan,7,3.0,Vadodara,gujarat
+Mercedes,C-Class,2017,600466,45911,Diesel,Manual,1.0,Sedan,4,3.8,Bhavnagar,gujarat
+Honda,Amaze,2012,936375,142045,Petrol,Automatic,1.5,Sedan,5,4.9,Bhavnagar,gujarat
+Mercedes,C-Class,2023,962698,11258,Petrol,Manual,1.5,Sedan,4,4.1,Gandhinagar,gujarat
+Ford,EcoSport,2017,486728,70231,Diesel,Automatic,1.2,Sedan,5,3.3,Surat,gujarat
+Kia,Carens,2022,1111280,25696,Petrol,Manual,1.5,MPV,7,4.1,Jamnagar,gujarat
+Tata,Tigor EV,2023,929653,5344,Electric,Manual,0.0,Sedan,5,4.4,Surat,gujarat
+Hyundai,Creta,2016,1477127,95888,CNG,Automatic,1.5,SUV,5,4.5,Gandhinagar,gujarat
+Maruti Suzuki,Dzire,2013,660861,104528,Petrol,Manual,1.2,Sedan,5,3.3,Gandhinagar,gujarat
+Hyundai,Venue,2020,1315446,59297,CNG,Automatic,1.5,Sedan,5,4.7,Ahmedabad,gujarat
+Mahindra,Thar,2023,1471069,14221,Petrol,Manual,2.2,SUV,5,4.3,Ahmedabad,gujarat
+Maruti Suzuki,Ertiga,2012,274387,73476,Petrol,Manual,1.2,MPV,7,3.3,Surat,gujarat
+Maruti Suzuki,Baleno,2018,885236,55256,Diesel,Manual,1.2,Sedan,5,4.4,Jamnagar,gujarat
+Hyundai,Grand i10,2014,350428,64435,Petrol,Automatic,1.2,Sedan,5,3.2,Vadodara,gujarat
+Hyundai,Venue,2019,979221,27840,Petrol,Manual,1.0,Sedan,5,4.4,Surat,gujarat
+Mercedes,C-Class,2021,753618,41789,Petrol,Manual,1.2,Sedan,4,4.3,Vadodara,gujarat
+Hyundai,i20,2014,967906,135964,Petrol,Manual,1.2,Hatchback,5,3.2,Rajkot,gujarat
+Honda,City,2013,1090706,97343,Diesel,Manual,1.5,Sedan,5,4.4,Rajkot,gujarat
+BMW,3 Series,2014,211231,135715,Petrol,Manual,1.5,Sedan,4,4.1,Bhavnagar,gujarat
+Renault,Kwid,2018,587412,35479,Petrol,Manual,1.0,Hatchback,4,4.4,Surat,gujarat
+Toyota,Innova Crysta,2015,2385498,47248,Diesel,Manual,2.4,MPV,7,3.7,Gandhinagar,gujarat
+Tata,Safari,2024,1941531,2361,Diesel,Automatic,2.0,Sedan,7,3.2,Jamnagar,gujarat
+Tata,Curvv,2024,984717,6958,Petrol,Manual,1.5,SUV,5,3.1,Gandhinagar,gujarat
+BMW,3 Series,2012,238873,79252,Petrol,Manual,1.0,Sedan,4,4.1,Gandhinagar,gujarat
+Kia,Sonet,2024,1305573,2988,Diesel,Automatic,1.5,Sedan,5,3.8,Vadodara,gujarat
+Ford,Figo,2023,927587,5216,Petrol,Manual,1.5,Sedan,5,3.1,Gandhinagar,gujarat
+Tata,Nexon EV,2021,820955,15356,Electric,Manual,0.0,SUV,5,4.1,Gandhinagar,gujarat
+Honda,Elevate,2024,998531,3724,CNG,Manual,1.0,Sedan,5,4.0,Surat,gujarat
+Mahindra,Bolero,2021,1094692,16834,Petrol,Automatic,2.0,Sedan,5,4.7,Gandhinagar,gujarat
+Ford,Endeavour,2017,2473868,88097,Diesel,Automatic,2.0,SUV,5,3.5,Ahmedabad,gujarat
+Hyundai,Venue,2023,1025582,10496,Petrol,Manual,1.0,Sedan,5,4.5,Vadodara,gujarat
+Mahindra,XUV300,2015,547242,128674,Petrol,Manual,1.5,Sedan,5,4.1,Bhavnagar,gujarat
+Ford,EcoSport,2012,162217,101232,CNG,Manual,1.2,Sedan,5,4.5,Rajkot,gujarat
+Renault,Kwid,2017,493280,86202,CNG,Automatic,1.0,Hatchback,4,3.8,Jamnagar,gujarat
+Renault,Kwid,2020,553924,29842,Diesel,Manual,1.0,Hatchback,4,3.3,Jamnagar,gujarat
+Ford,EcoSport,2022,918170,13056,Petrol,Manual,1.5,Sedan,5,4.3,Gandhinagar,gujarat
+Tata,Nexon EV,2024,1015379,9973,Electric,Automatic,0.0,SUV,5,3.7,Vadodara,gujarat
+BMW,3 Series,2012,243423,176743,Diesel,Manual,1.0,Sedan,4,5.0,Bhavnagar,gujarat
+Hyundai,Creta,2024,1015667,8151,Petrol,Automatic,1.5,SUV,5,3.2,Vadodara,gujarat
+Tata,Safari,2022,2104516,12233,Diesel,Manual,2.0,Sedan,7,3.5,Rajkot,gujarat
+Honda,Amaze,2022,1048180,14602,Petrol,Manual,1.5,Sedan,5,4.7,Jamnagar,gujarat
+Tata,Curvv EV,2024,1014871,8396,Electric,Manual,0.0,SUV,5,4.0,Vadodara,gujarat
+Mercedes,C-Class,2021,735478,36098,Diesel,Manual,1.5,Sedan,4,3.0,Gandhinagar,gujarat
+Hyundai,Venue,2022,1109337,15184,Diesel,Manual,1.0,Sedan,5,3.7,Rajkot,gujarat
+Mercedes,C-Class,2013,291628,66248,Diesel,Automatic,1.2,Sedan,4,4.5,Surat,gujarat
+Kia,Carens,2022,1153882,20396,CNG,Manual,2.0,MPV,7,4.0,Vadodara,gujarat
+Ford,EcoSport,2020,751599,30206,Petrol,Manual,1.5,Sedan,5,3.1,Bhavnagar,gujarat
+Kia,Seltos,2021,1074375,40872,CNG,Manual,1.5,Sedan,5,3.5,Jamnagar,gujarat
+Tata,Punch,2022,862372,12269,Petrol,Automatic,1.2,Sedan,5,4.0,Jamnagar,gujarat
+Honda,City,2012,1258633,72116,CNG,Manual,1.5,Sedan,5,4.0,Bhavnagar,gujarat
+Tata,Curvv,2024,982005,9344,Diesel,Manual,1.5,SUV,5,3.4,Jamnagar,gujarat
+Mercedes,C-Class,2017,448859,76486,Petrol,Manual,1.0,Sedan,4,4.0,Vadodara,gujarat
+Hyundai,Exter,2024,1009248,4305,Diesel,Automatic,2.0,Sedan,5,3.9,Bhavnagar,gujarat
+Hyundai,i20,2015,1165138,69596,Diesel,Manual,1.2,Hatchback,5,3.4,Surat,gujarat
+Mercedes,C-Class,2017,437122,82683,Petrol,Manual,1.0,Sedan,4,4.4,Jamnagar,gujarat
+Ford,Endeavour,2018,2590165,53050,Diesel,Manual,2.0,SUV,5,3.9,Vadodara,gujarat
+Tata,Nexon EV,2024,1016141,2664,Electric,Manual,0.0,SUV,5,4.4,Jamnagar,gujarat
+Honda,Elevate,2023,900606,6435,Petrol,Manual,1.2,Sedan,5,3.2,Jamnagar,gujarat
+BMW,3 Series,2022,866976,24552,Diesel,Manual,1.2,Sedan,4,4.7,Surat,gujarat
+Mahindra,Bolero,2020,975007,44974,Petrol,Manual,1.0,Sedan,5,3.7,Gandhinagar,gujarat
+Ford,Endeavour,2022,2804996,22969,Diesel,Automatic,2.0,SUV,5,4.8,Vadodara,gujarat
+Honda,Amaze,2022,967347,17915,Petrol,Manual,1.5,Sedan,5,3.7,Bhavnagar,gujarat
+Kia,Sonet,2020,984252,45648,Diesel,Manual,1.5,Sedan,5,3.3,Jamnagar,gujarat
+Kia,Sonet,2018,812697,89255,Diesel,Manual,1.0,Sedan,5,4.0,Jamnagar,gujarat
+BMW,3 Series,2024,1013470,4263,Petrol,Manual,1.5,Sedan,4,3.1,Ahmedabad,gujarat
+Mercedes,C-Class,2012,242743,141015,Diesel,Automatic,1.5,Sedan,4,3.8,Jamnagar,gujarat
+Tata,Curvv EV,2024,975420,3056,Electric,Manual,0.0,SUV,5,4.1,Surat,gujarat
+Kia,Carens,2024,1284040,847,Petrol,Manual,2.0,MPV,7,5.0,Gandhinagar,gujarat
+Hyundai,i20,2019,856139,64052,Petrol,Manual,1.2,Hatchback,5,3.2,Gandhinagar,gujarat
+Toyota,Fortuner,2018,4668161,36597,Diesel,Manual,2.8,SUV,7,4.4,Rajkot,gujarat
+Toyota,Urban Cruiser,2022,1157158,15891,Petrol,Manual,2.0,Sedan,5,4.2,Ahmedabad,gujarat
+Hyundai,Venue,2021,1214569,30856,Diesel,Manual,1.0,Sedan,5,3.4,Ahmedabad,gujarat
+Renault,Kwid,2020,439936,53537,Petrol,Manual,1.0,Hatchback,4,3.7,Surat,gujarat
+Hyundai,Exter,2023,916870,9384,Petrol,Automatic,1.2,Sedan,5,4.4,Jamnagar,gujarat
+Honda,Amaze,2023,1018779,13123,CNG,Automatic,1.2,Sedan,5,4.4,Jamnagar,gujarat
+Honda,Amaze,2013,913360,131499,Petrol,Manual,1.5,Sedan,5,3.9,Rajkot,gujarat
+Kia,Carens,2023,1265599,6762,Petrol,Manual,1.6,MPV,7,4.8,Gandhinagar,gujarat
+Hyundai,Grand i10,2014,408024,54424,Petrol,Manual,1.5,Sedan,5,4.7,Jamnagar,gujarat
+Renault,Kiger,2018,601027,31962,Petrol,Manual,1.0,Sedan,5,3.7,Ahmedabad,gujarat
+Mahindra,Scorpio N,2017,751010,83754,Diesel,Manual,2.0,SUV,5,4.4,Surat,gujarat
+Ford,Figo,2024,969493,5268,Diesel,Manual,1.5,Sedan,5,3.4,Surat,gujarat
+Hyundai,Verna,2016,1078458,119679,Diesel,Manual,1.5,Sedan,5,4.6,Surat,gujarat
+Mahindra,Scorpio,2024,1299359,8092,Petrol,Manual,2.2,SUV,5,3.3,Vadodara,gujarat
+BMW,3 Series,2015,261787,120551,Petrol,Manual,1.5,Sedan,4,5.0,Rajkot,gujarat
+Honda,City,2018,1453138,32425,Petrol,Manual,1.5,Sedan,5,4.7,Rajkot,gujarat
+Honda,Amaze,2017,791820,80327,Diesel,Manual,1.2,Sedan,5,3.8,Jamnagar,gujarat
+Ford,Endeavour,2022,2871008,13978,Diesel,Manual,2.0,SUV,5,3.3,Vadodara,gujarat
+Kia,Sonet,2014,652055,61536,Diesel,Automatic,1.0,Sedan,5,4.9,Gandhinagar,gujarat
+Maruti Suzuki,Wagon R,2024,575167,705,CNG,Manual,1.2,Sedan,5,3.5,Surat,gujarat
+Tata,Tiago EV,2023,902552,6964,Electric,Manual,0.0,Hatchback,5,4.8,Rajkot,gujarat
+Mercedes,C-Class,2022,890388,14009,Diesel,Manual,1.5,Sedan,4,4.0,Vadodara,gujarat
+Toyota,Urban Cruiser,2022,1158578,13008,Diesel,Automatic,2.0,Sedan,5,4.7,Surat,gujarat
+Mercedes,C-Class,2023,896849,6278,CNG,Manual,1.0,Sedan,4,4.3,Rajkot,gujarat
+Kia,Sonet,2019,980623,31850,Petrol,Manual,1.5,Sedan,5,4.5,Vadodara,gujarat
+Ford,Figo,2014,231849,116127,CNG,Manual,1.2,Sedan,5,3.8,Rajkot,gujarat
+BMW,3 Series,2024,961635,6556,Petrol,Manual,1.5,Sedan,4,3.6,Gandhinagar,gujarat
+BMW,3 Series,2014,243047,110418,Diesel,Manual,1.2,Sedan,4,3.4,Ahmedabad,gujarat
+Ford,Figo,2020,697131,49664,Petrol,Automatic,1.0,Sedan,5,3.7,Surat,gujarat
+Tata,Curvv,2024,976743,8321,Petrol,Manual,1.0,SUV,5,3.1,Rajkot,gujarat
+Kia,Sonet,2016,772781,64831,Petrol,Manual,1.5,Sedan,5,4.0,Ahmedabad,gujarat
+Mercedes,C-Class,2022,828559,18157,Petrol,Manual,1.0,Sedan,4,4.2,Surat,gujarat
+Hyundai,Verna,2013,1424211,91105,Petrol,Manual,1.5,Sedan,5,4.0,Surat,gujarat
+Mahindra,XUV700,2023,1306515,14769,Petrol,Manual,2.2,SUV,7,4.5,Gandhinagar,gujarat
+Mahindra,Thar,2022,1496444,12275,Petrol,Manual,2.2,SUV,5,3.9,Ahmedabad,gujarat
+Tata,Safari,2021,2297191,20594,Diesel,Manual,2.0,Sedan,7,4.0,Surat,gujarat
+Ford,EcoSport,2012,152279,167338,Diesel,Automatic,1.0,Sedan,5,4.1,Surat,gujarat
+Tata,Punch,2021,825991,24981,Petrol,Automatic,1.2,Sedan,5,4.3,Vadodara,gujarat
+Toyota,Urban Cruiser,2021,1062219,42123,Petrol,Manual,2.0,Sedan,5,4.7,Gandhinagar,gujarat
+BMW,3 Series,2013,308887,90381,Diesel,Manual,1.0,Sedan,4,5.0,Gandhinagar,gujarat
+Mahindra,Scorpio N,2014,621251,96818,Petrol,Manual,2.2,SUV,5,3.7,Jamnagar,gujarat
+Hyundai,Creta,2021,1287230,35930,Diesel,Manual,1.5,SUV,5,3.5,Jamnagar,gujarat
+Toyota,Glanza,2022,1145695,29305,CNG,Manual,1.5,Sedan,5,4.2,Jamnagar,gujarat
+Toyota,Camry,2013,535641,111814,Hybrid,Automatic,2.5,Sedan,5,3.2,Ahmedabad,gujarat
+Ford,Figo,2014,317249,111121,Petrol,Automatic,1.5,Sedan,5,4.1,Surat,gujarat
+Honda,Amaze,2016,758174,48469,Petrol,Manual,1.2,Sedan,5,3.1,Vadodara,gujarat
+Maruti Suzuki,Alto,2017,415911,35084,Petrol,Automatic,1.0,Hatchback,4,4.9,Jamnagar,gujarat
+Honda,City,2023,984638,8223,Petrol,Manual,1.5,Sedan,5,4.6,Jamnagar,gujarat
+Kia,Carnival,2018,783863,89255,Diesel,Automatic,1.5,MPV,8,3.6,Bhavnagar,gujarat
+Kia,Carens,2024,1334564,2280,Diesel,Manual,2.0,MPV,7,3.4,Vadodara,gujarat
+Hyundai,Venue,2023,996139,12555,Petrol,Automatic,1.0,Sedan,5,3.3,Rajkot,gujarat
+Toyota,Camry,2022,1168391,21716,Hybrid,Manual,2.5,Sedan,5,4.8,Ahmedabad,gujarat
+Kia,Seltos,2020,1001804,39817,Diesel,Manual,1.5,Sedan,5,3.1,Gandhinagar,gujarat
+Kia,Sonet,2018,802780,73914,Petrol,Automatic,1.5,Sedan,5,4.7,Ahmedabad,gujarat
+Maruti Suzuki,Wagon R,2022,601065,13507,Diesel,Manual,1.2,Sedan,5,4.7,Ahmedabad,gujarat
+BMW,3 Series,2023,950667,8359,Petrol,Automatic,1.2,Sedan,4,3.3,Jamnagar,gujarat
+Mercedes,C-Class,2016,483259,80749,CNG,Manual,1.2,Sedan,4,4.2,Surat,gujarat
+Hyundai,i20,2012,1261320,80056,Petrol,Manual,1.2,Hatchback,5,3.0,Bhavnagar,gujarat
+Ford,Endeavour,2012,2237311,75966,Diesel,Automatic,2.0,SUV,5,4.6,Jamnagar,gujarat
+Ford,Figo,2021,818669,19036,Petrol,Manual,1.0,Sedan,5,4.6,Jamnagar,gujarat
+Mahindra,Thar,2024,1799288,8956,Petrol,Manual,2.2,SUV,5,3.7,Vadodara,gujarat
+Kia,Carnival,2023,1246812,6758,Petrol,Manual,1.6,MPV,8,3.9,Bhavnagar,gujarat
+Kia,Seltos,2023,1184467,9960,Diesel,Automatic,1.5,Sedan,5,4.8,Vadodara,gujarat
+Tata,Curvv EV,2024,942195,4536,Electric,Manual,0.0,SUV,5,3.4,Jamnagar,gujarat
+Renault,Kiger,2020,724871,24113,Diesel,Manual,1.5,Sedan,5,4.1,Rajkot,gujarat
+Tata,Safari,2023,2380096,11454,Diesel,Manual,2.0,Sedan,7,4.2,Bhavnagar,gujarat
+Mercedes,C-Class,2014,209477,141457,Diesel,Manual,1.5,Sedan,4,4.2,Rajkot,gujarat
+Hyundai,i20,2012,883455,171677,Petrol,Manual,1.2,Hatchback,5,3.6,Surat,gujarat
+Mahindra,Scorpio,2014,509342,145441,Diesel,Manual,2.2,SUV,5,4.2,Ahmedabad,gujarat
+Maruti Suzuki,Ertiga,2023,945872,6194,Diesel,Manual,1.0,MPV,7,4.8,Vadodara,gujarat
+Hyundai,Exter,2024,955460,6187,CNG,Manual,1.0,Sedan,5,3.4,Rajkot,gujarat
+Ford,Figo,2016,437370,69556,Diesel,Manual,1.5,Sedan,5,4.6,Surat,gujarat
+Hyundai,Verna,2012,1100879,142459,Petrol,Automatic,1.5,Sedan,5,4.1,Gandhinagar,gujarat
+Hyundai,Venue,2020,999686,54613,Diesel,Manual,1.5,Sedan,5,3.7,Bhavnagar,gujarat
+Tata,Punch,2024,847194,7004,Diesel,Manual,1.2,Sedan,5,3.2,Rajkot,gujarat
+Mahindra,Scorpio,2021,1078374,32712,Petrol,Automatic,2.2,SUV,5,4.4,Ahmedabad,gujarat
+Tata,Safari,2021,1753124,32511,Diesel,Automatic,2.0,Sedan,7,4.2,Bhavnagar,gujarat
+Hyundai,Verna,2019,1031434,42239,Petrol,Manual,1.5,Sedan,5,3.3,Bhavnagar,gujarat
+Toyota,Innova Crysta,2015,2644797,109691,Diesel,Automatic,2.4,MPV,7,5.0,Rajkot,gujarat
+BMW,3 Series,2020,663969,51376,Petrol,Manual,1.0,Sedan,4,4.0,Surat,gujarat
+Mercedes,C-Class,2018,566769,61299,Diesel,Automatic,1.0,Sedan,4,3.0,Ahmedabad,gujarat
+Maruti Suzuki,Ertiga,2024,1014016,3214,Diesel,Manual,2.0,MPV,7,3.0,Rajkot,gujarat
+Maruti Suzuki,Alto,2024,382830,6180,Petrol,Manual,1.0,Hatchback,4,3.9,Bhavnagar,gujarat
+Toyota,Glanza,2020,1022216,42487,CNG,Manual,2.0,Sedan,5,3.0,Rajkot,gujarat
+Renault,Triber,2012,151952,165089,Diesel,Manual,1.0,MPV,7,3.2,Surat,gujarat
+Ford,EcoSport,2016,500173,45730,Petrol,Manual,1.0,Sedan,5,5.0,Surat,gujarat
+BMW,3 Series,2019,580040,68095,Diesel,Manual,1.5,Sedan,4,3.4,Jamnagar,gujarat
+Toyota,Fortuner,2019,3769515,71735,Diesel,Manual,2.8,SUV,7,3.6,Bhavnagar,gujarat
+Renault,Kwid,2012,584943,105434,CNG,Manual,1.0,Hatchback,4,4.8,Gandhinagar,gujarat
+Renault,Kwid,2016,432177,112478,Petrol,Automatic,1.0,Hatchback,4,5.0,Jamnagar,gujarat
+Ford,Figo,2024,949973,7434,Petrol,Automatic,1.2,Sedan,5,3.6,Rajkot,gujarat
+Honda,City,2012,1302586,96581,Petrol,Automatic,1.5,Sedan,5,3.4,Rajkot,gujarat
+Tata,Tigor EV,2024,939849,8724,Electric,Manual,0.0,Sedan,5,4.9,Bhavnagar,gujarat
+Toyota,Glanza,2023,1282254,8547,Petrol,Automatic,1.6,Sedan,5,4.7,Gandhinagar,gujarat
+Maruti Suzuki,Ertiga,2013,200870,127521,CNG,Automatic,1.2,MPV,7,4.7,Bhavnagar,gujarat
+Ford,Endeavour,2021,2797488,38567,Diesel,Manual,2.0,SUV,5,3.3,Ahmedabad,gujarat
+Honda,Elevate,2024,979759,1401,Diesel,Manual,1.5,Sedan,5,3.8,Bhavnagar,gujarat
+Honda,Amaze,2016,1068766,72835,Petrol,Manual,1.5,Sedan,5,4.7,Rajkot,gujarat
+Ford,EcoSport,2019,710137,25581,Petrol,Manual,1.5,Sedan,5,4.7,Surat,gujarat
+Kia,Seltos,2023,1223234,6303,Diesel,Manual,1.5,Sedan,5,3.5,Gandhinagar,gujarat
+Honda,Amaze,2019,1080478,33337,Petrol,Automatic,1.2,Sedan,5,3.2,Ahmedabad,gujarat
+Tata,Tigor EV,2024,972593,9500,Electric,Automatic,0.0,Sedan,5,4.9,Vadodara,gujarat
+Honda,City,2022,946906,21578,Diesel,Manual,1.5,Sedan,5,3.2,Ahmedabad,gujarat
+Mahindra,Thar,2022,2014097,28689,Petrol,Manual,2.0,SUV,5,3.7,Gandhinagar,gujarat
+Toyota,Glanza,2022,1166693,22278,CNG,Manual,1.5,Sedan,5,3.7,Vadodara,gujarat
+Tata,Tiago EV,2022,902827,13481,Electric,Manual,0.0,Hatchback,5,4.6,Bhavnagar,gujarat
+BMW,3 Series,2015,387373,94655,Petrol,Automatic,1.2,Sedan,4,4.5,Jamnagar,gujarat
+Hyundai,i20,2015,1101171,119108,Diesel,Automatic,1.2,Hatchback,5,4.7,Bhavnagar,gujarat
+Maruti Suzuki,Dzire,2019,922805,68201,Petrol,Manual,1.2,Sedan,5,4.8,Vadodara,gujarat
+Mahindra,XUV700,2022,1542046,24936,Diesel,Manual,2.0,SUV,7,3.7,Bhavnagar,gujarat
+Hyundai,Venue,2024,1020769,7932,Petrol,Manual,1.0,Sedan,5,4.6,Rajkot,gujarat
+Mercedes,C-Class,2021,790602,23528,Petrol,Manual,1.2,Sedan,4,3.8,Surat,gujarat
+BMW,3 Series,2022,840581,16491,Diesel,Manual,1.0,Sedan,4,3.8,Gandhinagar,gujarat
+Renault,Triber,2019,566237,73683,Petrol,Manual,1.2,MPV,7,3.0,Surat,gujarat
+Hyundai,Creta,2023,1442875,13672,Petrol,Manual,1.5,SUV,5,3.2,Gandhinagar,gujarat
+Toyota,Camry,2021,1044125,35205,Hybrid,Manual,2.5,Sedan,5,4.8,Jamnagar,gujarat
+Ford,Figo,2018,651308,48958,Petrol,Manual,1.0,Sedan,5,4.4,Bhavnagar,gujarat
+Renault,Kwid,2014,555464,51020,Petrol,Manual,1.0,Hatchback,4,3.9,Bhavnagar,gujarat
+BMW,3 Series,2024,977443,1587,Petrol,Manual,1.5,Sedan,4,4.0,Bhavnagar,gujarat
+BMW,3 Series,2016,435340,82310,Petrol,Manual,1.0,Sedan,4,3.1,Jamnagar,gujarat
+Mahindra,Bolero,2020,1049384,38235,Diesel,Manual,1.6,Sedan,5,3.3,Vadodara,gujarat
+Honda,Amaze,2019,901245,39656,CNG,Manual,1.2,Sedan,5,4.8,Jamnagar,gujarat
+Honda,City,2013,1433408,82111,Diesel,Manual,1.5,Sedan,5,3.0,Gandhinagar,gujarat
+Maruti Suzuki,Wagon R,2015,773610,81941,Diesel,Manual,1.2,Sedan,5,4.8,Jamnagar,gujarat
+Hyundai,Grand i10,2018,559479,62325,Petrol,Manual,1.2,Sedan,5,4.5,Ahmedabad,gujarat
+Toyota,Innova Crysta,2023,1877961,8644,Diesel,Manual,2.4,MPV,7,4.4,Vadodara,gujarat
+Maruti Suzuki,Alto,2013,433237,147419,Petrol,Manual,1.0,Hatchback,4,4.9,Jamnagar,gujarat
+Maruti Suzuki,Baleno,2014,815453,126853,Diesel,Manual,1.2,Sedan,5,4.6,Jamnagar,gujarat
+Ford,Endeavour,2014,2381200,76027,Diesel,Automatic,2.0,SUV,5,3.0,Ahmedabad,gujarat
+Ford,Figo,2021,849059,21833,Petrol,Manual,1.2,Sedan,5,4.2,Jamnagar,gujarat
+BMW,3 Series,2022,870469,21426,Diesel,Automatic,1.2,Sedan,4,4.7,Vadodara,gujarat
+Mercedes,C-Class,2019,618407,66289,Diesel,Manual,1.2,Sedan,4,3.2,Ahmedabad,gujarat
+Honda,Amaze,2019,1097297,46325,Petrol,Manual,1.2,Sedan,5,3.7,Rajkot,gujarat
+Tata,Curvv EV,2024,984002,9847,Electric,Manual,0.0,SUV,5,4.0,Gandhinagar,gujarat
+Kia,Seltos,2023,1213289,10295,Diesel,Manual,1.5,Sedan,5,3.5,Ahmedabad,gujarat
+Honda,Amaze,2023,1083586,8587,Diesel,Manual,1.2,Sedan,5,4.1,Gandhinagar,gujarat
+Mercedes,C-Class,2021,773212,35013,Petrol,Manual,1.5,Sedan,4,3.0,Rajkot,gujarat
+Hyundai,Exter,2024,1010468,5778,Petrol,Manual,1.6,Sedan,5,4.1,Surat,gujarat
+Renault,Kiger,2023,920035,8757,Diesel,Automatic,1.2,Sedan,5,3.8,Bhavnagar,gujarat
+Mahindra,Scorpio,2012,310625,170819,Diesel,Manual,2.2,SUV,5,4.6,Ahmedabad,gujarat
+Tata,Safari,2023,2162233,5397,Diesel,Manual,2.0,Sedan,7,4.6,Rajkot,gujarat
+Mercedes,C-Class,2014,191389,147062,Diesel,Manual,1.5,Sedan,4,4.4,Gandhinagar,gujarat
+Kia,Seltos,2019,924001,73670,Diesel,Manual,1.5,Sedan,5,3.4,Bhavnagar,gujarat
+Honda,Amaze,2018,762285,63577,Petrol,Manual,1.5,Sedan,5,4.9,Bhavnagar,gujarat
+Ford,Endeavour,2016,2369197,96299,Diesel,Manual,2.0,SUV,5,4.8,Bhavnagar,gujarat
+Renault,Kwid,2018,590724,31128,Petrol,Manual,1.0,Hatchback,4,3.9,Bhavnagar,gujarat
+Maruti Suzuki,Alto,2024,446946,3802,Petrol,Manual,1.0,Hatchback,4,3.3,Jamnagar,gujarat
+Hyundai,i20,2020,1253418,31092,CNG,Manual,1.2,Hatchback,5,4.2,Rajkot,gujarat
+Renault,Triber,2021,750465,39922,Petrol,Manual,1.2,MPV,7,3.6,Vadodara,gujarat
+Tata,Nexon,2022,1276282,28524,Diesel,Manual,1.2,SUV,5,4.1,Vadodara,gujarat
+Mercedes,C-Class,2017,501912,95472,Petrol,Manual,1.5,Sedan,4,5.0,Ahmedabad,gujarat
+Hyundai,Grand i10,2023,936241,6269,Petrol,Manual,1.5,Sedan,5,4.5,Surat,gujarat
+Mahindra,Bolero,2013,635598,60119,Petrol,Manual,1.5,Sedan,5,4.0,Jamnagar,gujarat
+Renault,Kiger,2018,627895,30606,Petrol,Automatic,1.5,Sedan,5,4.8,Jamnagar,gujarat
+Honda,Elevate,2024,1011899,6088,Diesel,Manual,2.0,Sedan,5,3.4,Bhavnagar,gujarat
+Toyota,Camry,2021,1115880,23232,Hybrid,Automatic,2.5,Sedan,5,3.3,Jamnagar,gujarat
+Ford,EcoSport,2017,444491,89565,Petrol,Manual,1.0,Sedan,5,3.6,Surat,gujarat
+Mahindra,Scorpio N,2013,509108,125481,Petrol,Manual,2.0,SUV,5,3.1,Jamnagar,gujarat
+Renault,Kwid,2017,471979,36851,Petrol,Automatic,1.0,Hatchback,4,3.7,Gandhinagar,gujarat
+Kia,Carens,2024,1316095,8864,Diesel,Manual,1.5,MPV,7,4.5,Vadodara,gujarat
+Tata,Safari,2021,2115846,19151,Diesel,Manual,2.0,Sedan,7,4.9,Jamnagar,gujarat
+BMW,3 Series,2015,366350,67033,Diesel,Automatic,1.0,Sedan,4,4.9,Bhavnagar,gujarat
+Tata,Tiago,2014,584761,112320,Petrol,Automatic,1.2,Hatchback,5,3.9,Rajkot,gujarat
+Toyota,Glanza,2023,1217558,6921,Diesel,Manual,2.0,Sedan,5,3.9,Vadodara,gujarat
+Renault,Kiger,2020,779348,25124,Diesel,Automatic,1.5,Sedan,5,4.7,Jamnagar,gujarat
+Tata,Curvv,2024,1025108,8029,Diesel,Manual,1.6,SUV,5,4.3,Surat,gujarat
+Maruti Suzuki,Ertiga,2017,495823,96089,Petrol,Manual,1.5,MPV,7,4.1,Surat,gujarat
+Kia,Carens,2022,1154668,10349,Petrol,Manual,2.0,MPV,7,3.6,Ahmedabad,gujarat
+Toyota,Glanza,2023,1269531,5212,Petrol,Manual,1.6,Sedan,5,3.8,Jamnagar,gujarat
+Honda,Amaze,2022,765952,11875,Diesel,Automatic,1.5,Sedan,5,4.0,Rajkot,gujarat
+Mercedes,C-Class,2012,153779,108435,Diesel,Automatic,1.5,Sedan,4,4.5,Gandhinagar,gujarat
+Tata,Punch,2024,882457,1956,Diesel,Manual,1.2,Sedan,5,5.0,Surat,gujarat
+Mercedes,C-Class,2017,539970,76481,Petrol,Automatic,1.5,Sedan,4,4.9,Bhavnagar,gujarat
+Maruti Suzuki,Brezza,2018,622519,57287,Diesel,Manual,1.5,Sedan,5,3.3,Vadodara,gujarat
+Hyundai,Creta,2022,1638088,11458,Petrol,Manual,1.5,SUV,5,3.6,Bhavnagar,gujarat
+Toyota,Innova Crysta,2017,2676720,96112,Diesel,Manual,2.4,MPV,7,4.8,Surat,gujarat
+Hyundai,Creta,2020,1021084,58741,Diesel,Automatic,1.5,SUV,5,3.9,Jamnagar,gujarat
+Mahindra,XUV700,2022,1411852,14349,Petrol,Manual,2.2,SUV,7,3.8,Gandhinagar,gujarat
+Mahindra,XUV700,2022,1843904,15803,Diesel,Manual,2.2,SUV,7,3.7,Jamnagar,gujarat
+Renault,Kiger,2022,823814,15586,CNG,Manual,1.0,Sedan,5,4.1,Surat,gujarat
+Kia,Carens,2024,1268190,4729,Petrol,Automatic,2.0,MPV,7,4.6,Ahmedabad,gujarat
+Renault,Kwid,2016,468379,68607,Petrol,Manual,1.0,Hatchback,4,4.0,Rajkot,gujarat
+BMW,3 Series,2017,517285,84533,Diesel,Manual,1.5,Sedan,4,3.2,Vadodara,gujarat
+Maruti Suzuki,Baleno,2018,876513,61162,Diesel,Manual,1.2,Sedan,5,3.3,Bhavnagar,gujarat
+Tata,Nexon,2024,1453943,7478,Diesel,Automatic,1.2,SUV,5,4.4,Bhavnagar,gujarat
+Toyota,Urban Cruiser,2024,1245259,4918,CNG,Automatic,1.5,Sedan,5,3.8,Gandhinagar,gujarat
+Honda,Elevate,2024,934742,9716,Petrol,Manual,1.2,Sedan,5,4.8,Jamnagar,gujarat
+Renault,Kwid,2021,434050,39636,Diesel,Automatic,1.0,Hatchback,4,3.6,Gandhinagar,gujarat
+Tata,Punch EV,2024,958671,6487,Electric,Manual,0.0,Sedan,5,4.8,Vadodara,gujarat
+Honda,City,2014,1357754,80957,Petrol,Manual,1.5,Sedan,5,3.0,Surat,gujarat
+Toyota,Innova Crysta,2019,2213188,61033,Diesel,Automatic,2.4,MPV,7,4.4,Gandhinagar,gujarat
+Hyundai,Grand i10,2014,284501,91727,Petrol,Manual,1.2,Sedan,5,4.6,Jamnagar,gujarat
+Kia,Carnival,2020,1046464,24696,Petrol,Automatic,1.5,MPV,8,3.4,Bhavnagar,gujarat
+Tata,Harrier,2021,1925814,26871,Diesel,Manual,2.0,Sedan,5,3.3,Surat,gujarat
+Maruti Suzuki,Baleno,2016,878041,97068,Petrol,Manual,1.2,Sedan,5,3.6,Jamnagar,gujarat
+Ford,EcoSport,2016,382529,95277,Petrol,Manual,1.0,Sedan,5,3.9,Ahmedabad,gujarat
+Toyota,Innova Crysta,2022,1968698,23253,Diesel,Manual,2.4,MPV,7,3.0,Jamnagar,gujarat
+Mercedes,C-Class,2018,496144,80551,Petrol,Manual,1.5,Sedan,4,3.2,Gandhinagar,gujarat
+Ford,Figo,2017,499326,97068,Petrol,Manual,1.2,Sedan,5,3.2,Surat,gujarat
+Kia,Carnival,2022,1144711,12621,Petrol,Automatic,2.0,MPV,8,3.5,Bhavnagar,gujarat
+BMW,3 Series,2018,644917,33181,Petrol,Manual,1.2,Sedan,4,3.9,Ahmedabad,gujarat
+BMW,3 Series,2016,402231,95797,Diesel,Automatic,1.0,Sedan,4,4.1,Surat,gujarat
+Honda,Amaze,2018,920200,31148,Petrol,Manual,1.5,Sedan,5,4.5,Bhavnagar,gujarat
+Kia,Sonet,2014,698121,61016,Petrol,Automatic,1.5,Sedan,5,3.9,Vadodara,gujarat
+Toyota,Urban Cruiser,2022,1170588,27155,Petrol,Manual,1.5,Sedan,5,3.3,Jamnagar,gujarat
+Mercedes,C-Class,2018,618079,63595,Petrol,Automatic,1.5,Sedan,4,3.6,Rajkot,gujarat
+Maruti Suzuki,Baleno,2023,741567,9208,Diesel,Manual,1.2,Sedan,5,4.1,Vadodara,gujarat
+BMW,3 Series,2023,937051,5800,Diesel,Manual,1.2,Sedan,4,3.5,Jamnagar,gujarat
+Tata,Safari,2021,1690065,34812,Diesel,Manual,2.0,Sedan,7,4.6,Jamnagar,gujarat
+Tata,Safari,2023,2328645,12576,Diesel,Manual,2.0,Sedan,7,4.4,Surat,gujarat
+Hyundai,Verna,2016,1441203,119864,Diesel,Manual,1.5,Sedan,5,3.7,Vadodara,gujarat
+Toyota,Urban Cruiser,2022,1197330,25137,Petrol,Manual,2.0,Sedan,5,3.8,Rajkot,gujarat
+Maruti Suzuki,Brezza,2021,847756,17575,Petrol,Automatic,1.0,Sedan,5,3.4,Bhavnagar,gujarat
+Toyota,Glanza,2021,1062331,39604,Petrol,Manual,2.0,Sedan,5,4.2,Bhavnagar,gujarat
+Toyota,Camry,2018,839068,57223,Hybrid,Manual,2.5,Sedan,5,5.0,Rajkot,gujarat
+Renault,Kwid,2018,425422,69788,Petrol,Manual,1.0,Hatchback,4,3.4,Surat,gujarat
+Kia,Carnival,2017,827811,63541,CNG,Manual,1.2,MPV,8,4.3,Jamnagar,gujarat
+Mercedes,C-Class,2020,709796,55102,Petrol,Automatic,1.2,Sedan,4,4.5,Vadodara,gujarat
+Ford,EcoSport,2014,282802,102435,Petrol,Automatic,1.2,Sedan,5,4.3,Jamnagar,gujarat
+Hyundai,Grand i10,2021,781801,36400,CNG,Manual,1.5,Sedan,5,3.1,Surat,gujarat
+Tata,Tiago EV,2024,944552,8247,Electric,Automatic,0.0,Hatchback,5,3.7,Surat,gujarat
+Tata,Tiago EV,2024,1024700,7731,Electric,Manual,0.0,Hatchback,5,4.8,Jamnagar,gujarat
+Kia,Sonet,2014,578373,110000,Diesel,Manual,1.0,Sedan,5,3.6,Vadodara,gujarat
+Hyundai,i20,2015,1040749,120707,Petrol,Manual,1.2,Hatchback,5,4.0,Ahmedabad,gujarat
+BMW,3 Series,2014,346583,82094,Diesel,Manual,1.5,Sedan,4,3.1,Jamnagar,gujarat
+Kia,Carnival,2018,935668,34611,CNG,Automatic,1.5,MPV,8,3.2,Gandhinagar,gujarat
+BMW,3 Series,2019,682162,56510,Petrol,Automatic,1.5,Sedan,4,4.5,Vadodara,gujarat
+Kia,Carnival,2018,803260,81604,Petrol,Automatic,1.5,MPV,8,4.5,Ahmedabad,gujarat
+Tata,Punch EV,2024,957605,5567,Electric,Automatic,0.0,Sedan,5,3.5,Vadodara,gujarat
+Mercedes,C-Class,2019,621431,71470,Diesel,Automatic,1.2,Sedan,4,3.6,Rajkot,gujarat
+Toyota,Urban Cruiser,2023,1207083,14309,Diesel,Automatic,2.0,Sedan,5,3.6,Surat,gujarat
+Toyota,Camry,2017,794194,73170,Hybrid,Manual,2.5,Sedan,5,4.0,Rajkot,gujarat
+Mercedes,C-Class,2014,246105,147482,Petrol,Manual,1.2,Sedan,4,3.5,Surat,gujarat
+Maruti Suzuki,Ertiga,2015,296709,121445,Petrol,Manual,1.2,MPV,7,4.4,Jamnagar,gujarat
+Renault,Kiger,2019,591335,65531,CNG,Manual,1.5,Sedan,5,4.7,Vadodara,gujarat
+Renault,Kiger,2018,540602,86715,Diesel,Automatic,1.2,Sedan,5,3.4,Rajkot,gujarat
+Maruti Suzuki,Brezza,2013,229468,99874,Petrol,Manual,1.2,Sedan,5,4.2,Jamnagar,gujarat
+Hyundai,Exter,2023,943377,10840,Petrol,Automatic,1.0,Sedan,5,4.7,Gandhinagar,gujarat
+Renault,Kwid,2023,574127,8318,Petrol,Manual,1.0,Hatchback,4,3.5,Bhavnagar,gujarat
+Renault,Kwid,2024,548557,917,Diesel,Manual,1.0,Hatchback,4,4.4,Jamnagar,gujarat
+Mahindra,Thar,2023,1938727,7907,Petrol,Manual,2.0,SUV,5,4.8,Surat,gujarat
+Renault,Kiger,2012,205830,87227,Petrol,Automatic,1.2,Sedan,5,3.9,Bhavnagar,gujarat
+Maruti Suzuki,Wagon R,2024,800766,1196,Petrol,Manual,1.2,Sedan,5,4.1,Surat,gujarat
+BMW,3 Series,2016,322258,114623,Diesel,Automatic,1.0,Sedan,4,4.4,Rajkot,gujarat
+Mercedes,C-Class,2021,800221,41403,Diesel,Manual,1.0,Sedan,4,3.5,Rajkot,gujarat
+BMW,3 Series,2019,590138,66361,Petrol,Manual,1.2,Sedan,4,4.9,Vadodara,gujarat
+Honda,Elevate,2023,915082,10589,Diesel,Manual,1.5,Sedan,5,3.9,Gandhinagar,gujarat
+Tata,Curvv EV,2024,1006787,5229,Electric,Manual,0.0,SUV,5,4.3,Ahmedabad,gujarat
+Ford,Endeavour,2022,2818941,27648,Diesel,Manual,2.0,SUV,5,4.0,Vadodara,gujarat
+Renault,Kiger,2013,189329,144751,CNG,Manual,1.5,Sedan,5,3.3,Surat,gujarat
+Mahindra,Bolero,2024,1264701,2814,Diesel,Manual,1.6,Sedan,5,4.3,Gandhinagar,gujarat
+Kia,Carens,2022,1174863,18613,CNG,Automatic,1.5,MPV,7,3.6,Jamnagar,gujarat
+Toyota,Glanza,2022,1165744,20093,Diesel,Automatic,1.6,Sedan,5,3.1,Rajkot,gujarat
+Toyota,Fortuner,2019,4716588,42970,Diesel,Manual,2.8,SUV,7,4.7,Ahmedabad,gujarat
+Toyota,Urban Cruiser,2024,1312147,5336,Diesel,Manual,2.0,Sedan,5,4.0,Gandhinagar,gujarat
+Honda,City,2013,1241293,86868,Diesel,Automatic,1.5,Sedan,5,4.6,Rajkot,gujarat
+Ford,EcoSport,2016,387823,119522,Petrol,Manual,1.5,Sedan,5,3.7,Bhavnagar,gujarat
+Toyota,Urban Cruiser,2023,1247845,6819,Petrol,Automatic,2.0,Sedan,5,3.8,Surat,gujarat
+Tata,Tiago EV,2023,897213,14405,Electric,Manual,0.0,Hatchback,5,4.1,Gandhinagar,gujarat
+Mercedes,C-Class,2020,678196,54801,Diesel,Manual,1.0,Sedan,4,4.7,Jamnagar,gujarat
+Toyota,Glanza,2022,1140135,17038,Petrol,Manual,1.6,Sedan,5,3.4,Jamnagar,gujarat
+Honda,Amaze,2021,823541,39499,Petrol,Manual,1.5,Sedan,5,4.6,Gandhinagar,gujarat
+Renault,Kwid,2020,548298,44476,Petrol,Manual,1.0,Hatchback,4,4.6,Rajkot,gujarat
+Honda,Elevate,2024,1044263,1099,Petrol,Manual,1.5,Sedan,5,4.1,Gandhinagar,gujarat
+Renault,Kwid,2021,570439,30350,CNG,Automatic,1.0,Hatchback,4,4.6,Rajkot,gujarat
+Ford,Figo,2014,222310,135254,Petrol,Manual,1.2,Sedan,5,3.9,Gandhinagar,gujarat
+Kia,Seltos,2022,1130510,28833,Petrol,Automatic,1.5,Sedan,5,3.6,Surat,gujarat
+Honda,City,2021,1458224,37103,Petrol,Manual,1.5,Sedan,5,3.4,Surat,gujarat
+Mahindra,XUV700,2022,2418667,13306,Diesel,Automatic,2.2,SUV,7,4.9,Vadodara,gujarat
+Toyota,Fortuner,2022,3635289,16842,Diesel,Automatic,2.8,SUV,7,3.1,Rajkot,gujarat
+Hyundai,Grand i10,2012,247510,118189,Diesel,Manual,1.0,Sedan,5,3.9,Rajkot,gujarat
+Mahindra,Thar,2023,1397362,14670,CNG,Manual,2.0,SUV,5,3.3,Surat,gujarat
+Hyundai,Grand i10,2023,916974,14909,Diesel,Manual,1.0,Sedan,5,3.4,Ahmedabad,gujarat
+Renault,Kiger,2019,683680,41730,Petrol,Manual,1.0,Sedan,5,3.8,Rajkot,gujarat
+Kia,Seltos,2021,1086629,26809,Diesel,Manual,1.5,Sedan,5,5.0,Ahmedabad,gujarat
+Mercedes,C-Class,2019,684007,26038,Diesel,Automatic,1.0,Sedan,4,3.3,Surat,gujarat
+Tata,Tiago EV,2022,889976,14192,Electric,Manual,0.0,Hatchback,5,3.1,Gandhinagar,gujarat
+Mahindra,Scorpio N,2022,1159719,19603,Diesel,Automatic,2.0,SUV,5,4.9,Surat,gujarat
+Mercedes,C-Class,2017,522282,49338,Petrol,Manual,1.2,Sedan,4,4.3,Gandhinagar,gujarat
+Honda,Elevate,2024,952385,466,Petrol,Automatic,1.0,Sedan,5,4.5,Surat,gujarat
+Kia,Seltos,2023,1277942,11177,Diesel,Manual,1.5,Sedan,5,3.7,Surat,gujarat
+Hyundai,Grand i10,2013,323349,69733,Petrol,Manual,1.5,Sedan,5,3.9,Gandhinagar,gujarat
+BMW,3 Series,2016,406536,102422,Diesel,Manual,1.2,Sedan,4,4.3,Vadodara,gujarat
+BMW,3 Series,2019,683136,57296,Diesel,Manual,1.0,Sedan,4,3.4,Surat,gujarat
+Tata,Harrier,2024,1499393,1346,Diesel,Manual,2.0,Sedan,5,3.5,Surat,gujarat
+Mercedes,C-Class,2017,496602,95574,Diesel,Manual,1.2,Sedan,4,4.5,Surat,gujarat
+Toyota,Urban Cruiser,2023,1260938,7379,Diesel,Automatic,1.6,Sedan,5,4.3,Gandhinagar,gujarat
+Mahindra,Thar,2020,1335771,29368,Diesel,Manual,2.0,SUV,5,4.1,Rajkot,gujarat
+Toyota,Fortuner,2022,3948131,28913,Diesel,Manual,2.8,SUV,7,3.2,Vadodara,gujarat
+Mercedes,C-Class,2017,514460,59421,Petrol,Automatic,1.5,Sedan,4,3.9,Ahmedabad,gujarat
+Mercedes,C-Class,2024,967454,8504,Petrol,Manual,1.5,Sedan,4,3.1,Bhavnagar,gujarat
+Tata,Punch,2022,713060,24989,Diesel,Manual,1.2,Sedan,5,3.9,Bhavnagar,gujarat
+Hyundai,Verna,2014,1204344,102108,Petrol,Manual,1.5,Sedan,5,4.1,Gandhinagar,gujarat
+Tata,Tiago EV,2024,939159,8602,Electric,Manual,0.0,Hatchback,5,4.4,Bhavnagar,gujarat
+Tata,Punch EV,2024,1036180,1640,Electric,Manual,0.0,Sedan,5,4.7,Gandhinagar,gujarat
+Tata,Nexon EV,2024,962502,6947,Electric,Automatic,0.0,SUV,5,3.6,Bhavnagar,gujarat
+Kia,Carnival,2019,925841,46097,Diesel,Manual,1.0,MPV,8,3.5,Bhavnagar,gujarat
+Mercedes,C-Class,2015,326854,125362,CNG,Manual,1.2,Sedan,4,3.3,Rajkot,gujarat
+Tata,Harrier,2022,1839363,15224,Diesel,Manual,2.0,Sedan,5,4.9,Vadodara,gujarat
+Tata,Curvv,2024,1019121,9599,Petrol,Manual,1.6,SUV,5,4.5,Ahmedabad,gujarat
+Mercedes,C-Class,2020,737713,40392,Petrol,Manual,1.2,Sedan,4,3.5,Rajkot,gujarat
+Honda,City,2020,1061141,59979,Petrol,Automatic,1.5,Sedan,5,4.9,Ahmedabad,gujarat
+Kia,Carens,2022,1154824,25287,Diesel,Automatic,1.6,MPV,7,4.5,Surat,gujarat
+Renault,Kwid,2013,557036,150913,Diesel,Manual,1.0,Hatchback,4,4.7,Rajkot,gujarat
+Kia,Seltos,2024,1283726,1723,Diesel,Automatic,1.5,Sedan,5,3.8,Gandhinagar,gujarat
+Honda,Amaze,2013,1004567,56694,Petrol,Manual,1.5,Sedan,5,3.2,Gandhinagar,gujarat
+Ford,Figo,2021,789136,42440,Petrol,Manual,1.5,Sedan,5,3.8,Bhavnagar,gujarat
+Hyundai,Verna,2024,1099524,1615,Petrol,Automatic,1.5,Sedan,5,4.6,Jamnagar,gujarat
+Maruti Suzuki,Wagon R,2022,824079,24425,Petrol,Manual,1.2,Sedan,5,4.3,Ahmedabad,gujarat
+Mahindra,XUV300,2014,726643,53164,CNG,Manual,1.2,Sedan,5,4.6,Jamnagar,gujarat
+Ford,Endeavour,2017,2486186,80095,Diesel,Manual,2.0,SUV,5,3.9,Jamnagar,gujarat
+Honda,City,2015,1237516,118200,Diesel,Automatic,1.5,Sedan,5,3.7,Bhavnagar,gujarat
+Renault,Triber,2024,984488,3728,Diesel,Manual,1.5,MPV,7,3.2,Rajkot,gujarat
+Toyota,Camry,2019,890404,66908,Hybrid,Manual,2.5,Sedan,5,3.7,Gandhinagar,gujarat
+Ford,Endeavour,2024,2967091,2608,Diesel,Manual,2.0,SUV,5,4.5,Bhavnagar,gujarat
+Tata,Curvv,2024,955237,3254,Petrol,Manual,1.5,SUV,5,3.8,Vadodara,gujarat
+Tata,Punch EV,2024,954436,6500,Electric,Manual,0.0,Sedan,5,4.6,Gandhinagar,gujarat
+Honda,Elevate,2023,908468,10305,Petrol,Manual,1.5,Sedan,5,3.3,Vadodara,gujarat
+Maruti Suzuki,Alto,2015,409200,73701,Petrol,Automatic,1.0,Hatchback,4,3.6,Ahmedabad,gujarat
+BMW,3 Series,2019,668918,52166,Diesel,Manual,1.2,Sedan,4,3.4,Bhavnagar,gujarat
+BMW,3 Series,2022,842738,28856,Diesel,Automatic,1.2,Sedan,4,4.6,Vadodara,gujarat
+Kia,Carens,2023,1223963,8845,Diesel,Manual,1.5,MPV,7,3.6,Gandhinagar,gujarat
+Mahindra,XUV300,2021,1074664,19219,CNG,Automatic,2.0,Sedan,5,4.0,Vadodara,gujarat
+Hyundai,Verna,2015,1580987,90657,Diesel,Manual,1.5,Sedan,5,3.9,Rajkot,gujarat
+Ford,Figo,2018,604458,34237,Petrol,Manual,1.5,Sedan,5,3.1,Vadodara,gujarat
+Ford,Figo,2014,422392,58359,Petrol,Automatic,1.2,Sedan,5,4.1,Jamnagar,gujarat
+Maruti Suzuki,Brezza,2021,794469,31082,Diesel,Automatic,1.2,Sedan,5,3.4,Rajkot,gujarat
+Honda,Elevate,2024,969482,5415,Diesel,Automatic,1.2,Sedan,5,3.3,Bhavnagar,gujarat
+Mercedes,C-Class,2012,156943,139900,Diesel,Manual,1.0,Sedan,4,4.5,Ahmedabad,gujarat
+BMW,3 Series,2020,751732,47112,Petrol,Manual,1.5,Sedan,4,4.5,Surat,gujarat
+Tata,Nexon,2024,943434,1957,Petrol,Manual,1.2,SUV,5,4.6,Rajkot,gujarat
+Ford,EcoSport,2017,494564,58984,Petrol,Manual,1.2,Sedan,5,4.8,Rajkot,gujarat
+Hyundai,Creta,2019,1237649,51307,Petrol,Manual,1.5,SUV,5,4.5,Bhavnagar,gujarat
+Honda,City,2021,962019,16995,Diesel,Manual,1.5,Sedan,5,3.0,Rajkot,gujarat
+Honda,City,2024,1293044,9307,Diesel,Automatic,1.5,Sedan,5,3.4,Surat,gujarat
+Toyota,Innova Crysta,2022,2192343,15068,Diesel,Automatic,2.4,MPV,7,4.6,Rajkot,gujarat
+Maruti Suzuki,Dzire,2012,813402,130462,CNG,Manual,1.2,Sedan,5,4.2,Surat,gujarat
+Hyundai,Grand i10,2015,272349,124102,CNG,Automatic,1.2,Sedan,5,4.9,Bhavnagar,gujarat
+Kia,Carnival,2013,487674,142648,Petrol,Manual,1.0,MPV,8,3.5,Gandhinagar,gujarat
+Ford,EcoSport,2024,942451,6623,Petrol,Automatic,1.2,Sedan,5,4.6,Jamnagar,gujarat
+BMW,3 Series,2020,784967,25960,Diesel,Automatic,1.5,Sedan,4,4.2,Bhavnagar,gujarat
+Renault,Kiger,2024,1016305,8951,Petrol,Manual,1.5,Sedan,5,3.6,Jamnagar,gujarat
+Kia,Carnival,2018,851798,54711,Petrol,Manual,1.2,MPV,8,4.1,Bhavnagar,gujarat
+Kia,Carens,2023,1270660,9705,Diesel,Manual,1.5,MPV,7,4.9,Vadodara,gujarat
+BMW,3 Series,2022,905895,20277,Petrol,Manual,1.2,Sedan,4,3.8,Vadodara,gujarat
+Renault,Kwid,2022,533267,24214,Diesel,Manual,1.0,Hatchback,4,4.8,Ahmedabad,gujarat
+Ford,EcoSport,2015,335563,86983,Diesel,Manual,1.5,Sedan,5,4.3,Ahmedabad,gujarat
+Maruti Suzuki,Alto,2015,351242,60247,CNG,Manual,1.0,Hatchback,4,5.0,Gandhinagar,gujarat
+Mahindra,XUV700,2024,1597102,733,Diesel,Manual,2.2,SUV,7,3.4,Jamnagar,gujarat
+Honda,Amaze,2023,966866,5167,Petrol,Automatic,1.5,Sedan,5,3.5,Ahmedabad,gujarat
+Mercedes,C-Class,2012,208868,151226,Petrol,Manual,1.0,Sedan,4,4.3,Ahmedabad,gujarat
+Tata,Curvv EV,2024,1014377,3004,Electric,Automatic,0.0,SUV,5,4.4,Jamnagar,gujarat
+Kia,Carens,2024,1278316,4693,Diesel,Manual,1.6,MPV,7,4.6,Surat,gujarat
+Hyundai,Verna,2019,1543398,38158,CNG,Manual,1.5,Sedan,5,3.1,Rajkot,gujarat
+Tata,Punch,2021,844459,22921,Petrol,Manual,1.2,Sedan,5,4.3,Bhavnagar,gujarat
+Mahindra,Thar,2022,1314901,11433,CNG,Manual,2.2,SUV,5,3.9,Jamnagar,gujarat
+Maruti Suzuki,Alto,2018,482538,40033,Petrol,Manual,1.0,Hatchback,4,4.3,Rajkot,gujarat
+Maruti Suzuki,Ertiga,2019,673214,29547,Diesel,Manual,1.0,MPV,7,3.3,Vadodara,gujarat
+Maruti Suzuki,Swift,2022,871605,12134,Diesel,Manual,1.2,Hatchback,5,3.7,Surat,gujarat
+Hyundai,Exter,2023,939966,5096,Petrol,Manual,1.2,Sedan,5,4.5,Ahmedabad,gujarat
+Mahindra,Scorpio N,2012,453510,133877,Petrol,Manual,2.2,SUV,5,3.6,Bhavnagar,gujarat
+Kia,Carnival,2023,1271506,8893,Petrol,Manual,1.6,MPV,8,4.0,Surat,gujarat
+Ford,Figo,2017,489927,64339,Petrol,Automatic,1.2,Sedan,5,5.0,Surat,gujarat
+Toyota,Innova Crysta,2018,1950977,82786,Diesel,Manual,2.4,MPV,7,3.3,Jamnagar,gujarat
+Toyota,Fortuner,2018,3965909,57599,Diesel,Manual,2.8,SUV,7,3.7,Jamnagar,gujarat
+Kia,Sonet,2023,1199989,13682,Petrol,Automatic,1.5,Sedan,5,4.8,Bhavnagar,gujarat
+Kia,Carens,2024,1267985,5028,Petrol,Manual,2.0,MPV,7,3.9,Gandhinagar,gujarat
+BMW,3 Series,2012,206465,86137,Petrol,Automatic,1.5,Sedan,4,3.8,Bhavnagar,gujarat
+Kia,Sonet,2019,1037959,26562,Petrol,Manual,1.0,Sedan,5,4.3,Bhavnagar,gujarat
+Mahindra,Thar,2023,1557633,10185,Diesel,Manual,2.0,SUV,5,4.4,Gandhinagar,gujarat
+Hyundai,i20,2012,973805,61136,Diesel,Manual,1.2,Hatchback,5,4.5,Surat,gujarat
+Honda,City,2017,1368311,76353,Petrol,Automatic,1.5,Sedan,5,4.6,Surat,gujarat
+Tata,Tiago,2018,738611,37762,Diesel,Manual,1.2,Hatchback,5,4.4,Vadodara,gujarat
+Mahindra,Scorpio,2022,1178314,14805,Petrol,Manual,2.2,SUV,5,4.0,Gandhinagar,gujarat
+Maruti Suzuki,Dzire,2023,949845,10937,Petrol,Automatic,1.2,Sedan,5,4.8,Ahmedabad,gujarat
+Toyota,Innova Crysta,2014,2114682,67687,Diesel,Automatic,2.4,MPV,7,4.9,Vadodara,gujarat
+Honda,Elevate,2023,957011,10811,CNG,Manual,1.5,Sedan,5,4.8,Rajkot,gujarat
+Tata,Punch EV,2024,1011295,3146,Electric,Manual,0.0,Sedan,5,3.6,Surat,gujarat
+Maruti Suzuki,Brezza,2015,364486,85191,Petrol,Manual,1.0,Sedan,5,3.5,Gandhinagar,gujarat
+Mercedes,C-Class,2022,868636,12629,Diesel,Manual,1.5,Sedan,4,3.0,Bhavnagar,gujarat
+Maruti Suzuki,Wagon R,2018,749238,43083,Petrol,Manual,1.2,Sedan,5,3.7,Gandhinagar,gujarat
+Renault,Kiger,2018,541843,76352,Petrol,Manual,1.2,Sedan,5,4.1,Rajkot,gujarat
+Honda,Amaze,2013,794457,113965,Diesel,Automatic,1.2,Sedan,5,3.0,Surat,gujarat
+Hyundai,Creta,2016,1068114,63213,Petrol,Automatic,1.5,SUV,5,4.4,Jamnagar,gujarat
+Toyota,Camry,2013,625382,75479,Hybrid,Automatic,2.5,Sedan,5,4.6,Ahmedabad,gujarat
+BMW,3 Series,2012,168181,152294,Petrol,Automatic,1.0,Sedan,4,3.4,Jamnagar,gujarat
+Hyundai,i20,2018,922198,81877,Petrol,Automatic,1.2,Hatchback,5,4.3,Surat,gujarat
+Ford,EcoSport,2023,953358,13115,Diesel,Manual,1.5,Sedan,5,4.4,Gandhinagar,gujarat
+Maruti Suzuki,Alto,2014,370855,116530,Petrol,Manual,1.0,Hatchback,4,4.4,Jamnagar,gujarat
+Hyundai,Creta,2017,1238777,77127,Petrol,Manual,1.5,SUV,5,4.0,Vadodara,gujarat
+Mahindra,Bolero,2016,776396,85188,Petrol,Manual,1.5,Sedan,5,3.5,Gandhinagar,gujarat
+Tata,Punch,2021,830472,17057,CNG,Manual,1.2,Sedan,5,4.3,Jamnagar,gujarat
+Ford,EcoSport,2023,928733,6445,Diesel,Automatic,1.2,Sedan,5,4.4,Bhavnagar,gujarat
+Mercedes,C-Class,2021,848308,23599,Diesel,Manual,1.5,Sedan,4,4.6,Vadodara,gujarat
+Ford,Endeavour,2024,2975087,8013,Diesel,Automatic,2.0,SUV,5,3.1,Vadodara,gujarat
+Kia,Carnival,2019,959853,46257,Petrol,Automatic,1.2,MPV,8,3.3,Jamnagar,gujarat
+Kia,Carnival,2012,319275,174473,Diesel,Manual,1.5,MPV,8,3.3,Vadodara,gujarat
+Maruti Suzuki,Alto,2024,505434,2830,CNG,Manual,1.0,Hatchback,4,3.9,Vadodara,gujarat
+Toyota,Fortuner,2012,3332013,125185,Diesel,Automatic,2.8,SUV,7,3.4,Bhavnagar,gujarat
+Ford,Endeavour,2018,2498948,85810,Diesel,Manual,2.0,SUV,5,4.9,Jamnagar,gujarat
+Ford,Figo,2016,463821,58543,Diesel,Manual,1.0,Sedan,5,3.8,Ahmedabad,gujarat
+Honda,Elevate,2023,961635,10547,Petrol,Manual,1.5,Sedan,5,3.2,Surat,gujarat
+Renault,Kiger,2017,522244,83936,Diesel,Manual,1.2,Sedan,5,3.1,Rajkot,gujarat
+Toyota,Urban Cruiser,2022,1158755,16863,Diesel,Automatic,2.0,Sedan,5,4.8,Rajkot,gujarat
+Honda,Elevate,2024,974392,9457,Diesel,Automatic,1.2,Sedan,5,4.6,Bhavnagar,gujarat
+Mahindra,Scorpio N,2021,1061066,34968,Diesel,Manual,2.0,SUV,5,3.6,Ahmedabad,gujarat
+Kia,Sonet,2021,1059657,25539,Diesel,Manual,1.0,Sedan,5,3.9,Gandhinagar,gujarat
+Mahindra,XUV700,2022,2293519,21920,Petrol,Manual,2.2,SUV,7,4.1,Gandhinagar,gujarat
+Honda,Amaze,2019,1031180,45589,Petrol,Automatic,1.2,Sedan,5,3.6,Ahmedabad,gujarat
+Mahindra,XUV300,2024,1270022,8259,Petrol,Manual,1.5,Sedan,5,3.6,Surat,gujarat
+Tata,Safari,2021,2175270,15944,Diesel,Manual,2.0,Sedan,7,4.3,Bhavnagar,gujarat
+Tata,Tiago EV,2023,894122,10146,Electric,Manual,0.0,Hatchback,5,4.4,Rajkot,gujarat
+Honda,City,2021,917779,19211,Petrol,Automatic,1.5,Sedan,5,3.7,Vadodara,gujarat
+Kia,Seltos,2024,1320715,7114,Petrol,Manual,1.5,Sedan,5,3.6,Gandhinagar,gujarat
+BMW,3 Series,2020,797735,23660,Diesel,Manual,1.0,Sedan,4,4.9,Surat,gujarat
+Tata,Punch,2022,838909,17700,CNG,Manual,1.2,Sedan,5,4.5,Rajkot,gujarat
+Kia,Seltos,2023,1260124,11821,Diesel,Manual,1.5,Sedan,5,3.9,Ahmedabad,gujarat
+Honda,City,2015,1484774,52407,Petrol,Manual,1.5,Sedan,5,3.1,Surat,gujarat
+Mahindra,Thar,2021,1638637,31403,Petrol,Manual,2.2,SUV,5,4.0,Jamnagar,gujarat
+Kia,Seltos,2019,1001289,38115,Petrol,Manual,1.5,Sedan,5,4.4,Bhavnagar,gujarat
+Toyota,Camry,2014,573889,102059,Hybrid,Manual,2.5,Sedan,5,3.5,Vadodara,gujarat
+Renault,Kiger,2014,395850,76422,Diesel,Manual,1.2,Sedan,5,4.8,Rajkot,gujarat
+Hyundai,Exter,2024,938777,7399,Petrol,Automatic,1.5,Sedan,5,4.0,Rajkot,gujarat
