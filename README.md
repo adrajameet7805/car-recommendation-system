@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚗 Indian Car Recommendation Engine
 
 ## 📋 Project Overview
