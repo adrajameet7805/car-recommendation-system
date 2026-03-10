@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Indian Car Recommendation Engine
 
 ## 📋 Project Overview
@@ -88,3 +89,7 @@ The project utilizes a distinct ensemble of models to achieve its results:
 * **Advanced NLP:** Use Natural Language Processing to parse descriptive text blocks (if available in future datasets) for sentiment analysis regarding vehicle condition.
 * **Image Integration:** Connect the dataset to an external API (like Google Custom Search) to dynamically pull and display actual thumbnails of the specific car models evaluated. 
 * **Additional Visualizations:** Introduce a scatter plot visualization comparing the user's filtered mileage vs. price array natively in the dashboard.
+=======
+# car-recommendation-system
+🚗 Indian Car Recommendation Engine is a Machine Learning web app built with Python and Streamlit that helps users find the best used cars in India. It analyzes market data, evaluates price fairness, and recommends vehicles using ML models like Random Forest, KNN, and Regression based on user preferences.
+>>>>>>> 59d3cf3f37f3b68fc9aeebf72285ad8f58f1b7d8
