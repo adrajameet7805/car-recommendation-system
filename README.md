@@ -1,7 +1,7 @@
 # 🚗 Indian Car Recommendation Engine
 
 ## 📋 Project Overview
-The **Indian Car Recommendation Engine** is an end-to-end Machine Learning web application designed to help users find the perfect used car in the Indian market. By leveraging a comprehensive real-world dataset, the application provides personalized car recommendations, evaluates market prices (Deal Tags), and scores vehicles based on user preferences. It features a clean, interactive dashboard built with Streamlit.
+The **Indian Car Recommendation Engine** is an end-to-end Machine Learning web application designed to help users find the perfect used car in the Indian market. By leveraging a comprehensive real-world dataset, the application provides personalized car recommendations, evaluates market prices (Deal Tags),  and scores vehicles based on user preferences. It features a clean, interactive dashboard built with Streamlit.
 
 ## 🎯 Problem Statement
 Navigating the used car market is overwhelming. Buyers often struggle to determine if a requested price is fair, evaluate the condition of a vehicle based on mileage and age, or find cars that accurately match their strict constraints (budget, fuel type, transmission, seating, etc.). This project solves this by using Machine Learning to automatically cluster similar vehicles, rank them by a predicted "Match Score", and explicitly tag them as a "Good Deal", "Fair Price", or "Overpriced" based on historical market averages.
